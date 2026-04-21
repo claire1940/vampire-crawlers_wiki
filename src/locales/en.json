@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Vampire Crawlers - Guide, Unlocks & Release Date",
+      "description": "Explore Vampire Crawlers guides, release date updates, platform info, characters, unlocks, and deck-building tips for Steam, PS5, Xbox, and Switch.",
+      "keywords": "Vampire Crawlers, Steam, guide, unlocks, release date, characters, deck guide",
+      "ogTitle": "Vampire Crawlers - Guide, Unlocks & Release Date",
+      "ogDescription": "Explore Vampire Crawlers guides, release date updates, platform info, characters, unlocks, and deck-building tips for Steam, PS5, Xbox, and Switch.",
+      "twitterTitle": "Vampire Crawlers - Guide, Unlocks & Release Date",
+      "twitterDescription": "Explore Vampire Crawlers guides, release date updates, platform info, characters, unlocks, and deck-building tips for Steam, PS5, Xbox, and Switch."
     }
   },
   "nav": {},
@@ -51,728 +51,672 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "Vampire Crawlers Trailer Spotlight",
+    "description": "Watch the official Vampire Crawlers trailers to learn the launch pitch, combat flow, and platform rollout in minutes."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "title": "Vampire Crawlers",
+    "titleHighlight": "Module Navigation",
+    "subtitle": "Jump to every Vampire Crawlers module and move directly to the section you need.",
     "cards": [
       {
-        "icon": "BookOpen",
-        "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
+        "icon": "Clock",
+        "title": "Vampire Crawlers Release Date",
+        "description": "Official launch timeline and key milestones"
       },
       {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
+        "icon": "ExternalLink",
+        "title": "Vampire Crawlers Trailer",
+        "description": "Core trailers and what each video explains"
       },
       {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
-      },
-      {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
-      },
-      {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
-      },
-      {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
-      },
-      {
-        "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
+        "icon": "Download",
+        "title": "Vampire Crawlers Demo",
+        "description": "Demo access, carryover, and launch differences"
       },
       {
         "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
+        "title": "Vampire Crawlers Platforms and Game Pass",
+        "description": "Storefront availability and day-one subscription access"
+      },
+      {
+        "icon": "Star",
+        "title": "Vampire Crawlers Review",
+        "description": "Critic consensus and key strengths"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Vampire Crawlers Beginner Guide",
+        "description": "First-run priorities and stable early routing"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Vampire Crawlers TurboTurn Guide",
+        "description": "Mana order, combo sequencing, and turn efficiency"
+      },
+      {
+        "icon": "Hammer",
+        "title": "Vampire Crawlers Evolution Recipes",
+        "description": "Recipe planning and reliable trigger paths"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Vampire Crawlers Best Evolutions",
+        "description": "High-value evolutions for damage and control"
+      },
+      {
+        "icon": "Home",
+        "title": "Vampire Crawlers Best Builds",
+        "description": "Build archetypes for tempo, sustain, and bosses"
+      },
+      {
+        "icon": "Package",
+        "title": "Vampire Crawlers Deck Building",
+        "description": "Curve rules, card quality, and finishers"
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "Vampire Crawlers Character Tier List",
+        "description": "Current role-based tier guidance by run goals"
+      },
+      {
+        "icon": "Users",
+        "title": "Vampire Crawlers Characters and Unlocks",
+        "description": "Roster snapshots and unlock planning"
+      },
+      {
+        "icon": "Eye",
+        "title": "Vampire Crawlers Card List",
+        "description": "Card categories and practical lookup structure"
+      },
+      {
+        "icon": "MessageCircle",
+        "title": "Vampire Crawlers Dungeon Events",
+        "description": "Event room reads, risk control, and reward routing"
       },
       {
         "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
-      },
-      {
-        "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
-      },
-      {
-        "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "title": "Vampire Crawlers Steam Deck and Controller Support",
+        "description": "Deck setup, controller layout, and troubleshooting"
       }
     ]
   },
   "modules": {
     "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
-      "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
+      "title": "Vampire Crawlers Release Date",
+      "displayType": "timeline-cards",
+      "intro": "April 21, 2026 is the official Vampire Crawlers release date across major storefronts. This timeline highlights the reveal, date lock, Game Pass confirmation, and launch day.",
       "steps": [
         {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
+          "title": "Nov 20, 2025 | World Premiere Reveal",
+          "description": "Vampire Crawlers premiered during Xbox Partner Preview as the first Vampire Survivors spin-off with a 2026 launch window."
         },
         {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
+          "title": "Mar 19, 2026 | Price and Date Announced",
+          "description": "Poncle confirmed an April 21, 2026 launch with a headline price of $9.99 / £9.99 / €9.99 / ¥1200."
         },
         {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
+          "title": "Apr 20, 2026 | Day-One Game Pass Confirmed",
+          "description": "Xbox Game Pass April Wave 2 confirmed day-one availability on Cloud, Xbox Series X|S, Handheld, and PC."
         },
         {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
+          "title": "Apr 21, 2026 | Official Storefront Launch",
+          "description": "Steam and PlayStation listings align with poncle launch messaging and mark the official release date."
         }
       ],
       "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
+        "Official launch date: April 21, 2026.",
+        "Launch price: $9.99 / £9.99 / €9.99 / ¥1200.",
+        "Game Pass day-one confirmation arrived on April 20, 2026.",
+        "Steam, Xbox, PlayStation, and Nintendo were all part of launch coverage."
       ]
     },
     "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
-      "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
+      "title": "Vampire Crawlers Trailer",
+      "displayType": "card-list",
+      "intro": "These Vampire Crawlers trailers are the fastest way to understand combat pace, dungeon flow, and launch positioning before starting your first run.",
       "cards": [
         {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
+          "name": "Announcement Trailer",
+          "description": "Introduces the first-person dungeon perspective, turn-based combat loop, and the core tone of the spin-off."
         },
         {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
+          "name": "Gameplay Preview Trailer",
+          "description": "Shows real run pacing with movement, mana-order card chains, and combo stacking in active combat."
         },
         {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
+          "name": "Release Date and Price Trailer",
+          "description": "Confirms the April 21, 2026 release date, multi-platform rollout, and the $9.99 starting price."
         },
         {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
+          "name": "Xbox Day-One Game Pass Trailer",
+          "description": "Presents the Xbox launch campaign and day-one subscription message for Xbox and PC audiences."
         }
       ],
       "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
+        "Reveal trailer published",
+        "Gameplay systems trailer published",
+        "Release-date trailer published",
+        "Game Pass launch trailer published"
       ]
     },
     "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
+      "title": "Vampire Crawlers Demo",
+      "displayType": "accordion",
+      "intro": "The Vampire Crawlers demo is the fastest way to learn map tempo, card chaining, and run rhythm before committing to full progression.",
       "items": [
         {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
+          "name": "Where can I download the Vampire Crawlers demo?",
+          "type": "Access",
+          "description": "The demo is available as a separate download on Steam and as a free listing on the Xbox Store."
         },
         {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
+          "name": "Does Vampire Crawlers demo progress carry over?",
+          "type": "Save Data",
+          "description": "Yes. The official FAQ states Steam demo progress can carry over when you move into the full game."
         },
         {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
+          "name": "What can I play in the Vampire Crawlers demo?",
+          "type": "Core Loop",
+          "description": "You can explore maps, level powers, fight monsters, collect treasure, and practice the turn-based combo system."
         },
         {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
+          "name": "What changes in full Vampire Crawlers release?",
+          "type": "Full Release",
+          "description": "The full game expands content scope and includes additional fixes and improvements beyond the demo slice."
         },
         {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
+          "name": "Why does a Vampire Crawlers demo run stop early?",
+          "type": "Demo Limit",
+          "description": "The demo is a self-contained sample. Reaching the endpoint means you have completed the intended demo segment."
         },
         {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
+          "name": "Will the Vampire Crawlers demo remain available?",
+          "type": "Availability",
+          "description": "Yes. The demo is planned to stay downloadable and receive updates that reflect the full game baseline."
         }
       ]
     },
     "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
-      "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
+      "title": "Vampire Crawlers Platforms and Game Pass",
+      "displayType": "table",
+      "intro": "Vampire Crawlers launched on PC and major consoles, with day-one Game Pass support confirmed for Xbox ecosystem players.",
       "solutions": [
         {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
+          "name": "Steam",
+          "role": "Launch Platform",
+          "description": "Steam launched on April 21, 2026 with demo access, Steam Cloud, achievements, and Family Sharing."
         },
         {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
+          "name": "Xbox",
+          "role": "Launch Platform",
+          "description": "Xbox launch support includes Series X|S, PC, and Handheld with Smart Delivery, cloud saves, and Play Anywhere."
         },
         {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
+          "name": "PlayStation",
+          "role": "Launch Platform",
+          "description": "PlayStation Store listing confirms April 21, 2026 availability for the launch window."
         },
         {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
+          "name": "Nintendo",
+          "role": "Launch Platform",
+          "description": "Official launch communication includes Nintendo with storefront pages available for Switch generation hardware."
+        },
+        {
+          "name": "Game Pass",
+          "role": "Day-One Subscription",
+          "description": "Game Pass Ultimate and PC Game Pass provide day-one access across cloud and supported Xbox platform channels."
         }
       ],
       "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
+        "Steam, Xbox, PlayStation, and Nintendo were covered in launch messaging.",
+        "Game Pass Ultimate and PC Game Pass provide day-one subscription entry.",
+        "Mobile versions are planned for later in 2026.",
+        "Choose a platform based on storefront features and subscription access."
       ]
     },
     "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
-      "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
+      "title": "Vampire Crawlers Review",
+      "displayType": "card-list",
+      "intro": "Vampire Crawlers review intent is strongest around launch, so this module summarizes the most repeated strengths players and critics care about first.",
       "cards": [
         {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
+          "name": "Vampire Crawlers Combat Identity",
+          "description": "The turn-based deck-combo combat loop is the most cited standout and defines how each run feels distinct."
         },
         {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
+          "name": "Vampire Crawlers Run Variety",
+          "description": "Character abilities, arcana choices, and event routing produce different build paths across repeated runs."
         },
         {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
+          "name": "Vampire Crawlers Best-Fit Audience",
+          "description": "Players who enjoy roguelite routing and card sequencing generally find the strongest value in this spin-off."
         },
         {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
+          "name": "Vampire Crawlers Launch Snapshot",
+          "description": "At launch, most impressions focus on deck synergy clarity, pacing, and replay potential across platform options."
         }
       ],
       "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
+        "Vampire Crawlers rewards combo planning.",
+        "Vampire Crawlers has strong replay loops.",
+        "Vampire Crawlers benefits from route knowledge.",
+        "Vampire Crawlers launch value is easy to evaluate at $9.99."
       ]
     },
     "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
+      "title": "Vampire Crawlers Beginner Guide",
+      "displayType": "step-by-step",
+      "intro": "This Vampire Crawlers beginner guide focuses on stable early routing, efficient upgrades, and avoiding common first-run losses.",
       "regions": [
         {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
+          "name": "Vampire Crawlers First Run Priorities",
+          "type": "Opening Route",
+          "description": "Focus on survivable card chains and avoid overcommitting to rare synergies before your engine is stable."
         },
         {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
+          "name": "Vampire Crawlers Village Upgrade Order",
+          "type": "Progression",
+          "description": "Prioritize upgrades that improve consistency first, then branch into specialized scaling options."
         },
         {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
+          "name": "Vampire Crawlers Card Sequencing Basics",
+          "type": "Combat Loop",
+          "description": "Plan each turn around mana order and preserve combo extension tools for high-impact windows."
         },
         {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
+          "name": "Vampire Crawlers Resource Discipline",
+          "type": "Stability",
+          "description": "Keep your deck lean and protect key evolution paths instead of chasing every shiny pickup."
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
+      "title": "Vampire Crawlers TurboTurn Guide",
+      "displayType": "step-by-step",
+      "intro": "Vampire Crawlers TurboTurn performance depends on sequence quality. These principles help you chain cards efficiently without wasting scaling windows.",
       "creatures": [
         {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
+          "name": "Vampire Crawlers Mana Order Planning",
+          "role": "Core Rule",
+          "description": "Read the turn in mana order first so you can reserve premium cards for your highest-value chain segment."
         },
         {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
+          "name": "Vampire Crawlers Wild Card Timing",
+          "role": "Combo Lever",
+          "description": "Use Wild Cards to bridge dead hands and preserve momentum, not as automatic turn-openers."
         },
         {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
+          "name": "Vampire Crawlers Gem and Arcana Sync",
+          "role": "Scaling",
+          "description": "Coordinate Gem gains with Arcana spikes to convert medium turns into decisive power swings."
         },
         {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
+          "name": "Vampire Crawlers Turn Extension Discipline",
+          "role": "Efficiency",
+          "description": "Extend turns only when the extension converts into damage, sustain, or setup that changes next-turn odds."
         },
         {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
-        },
-        {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
+          "name": "Vampire Crawlers Common Combo Breakers",
+          "role": "Common Mistake",
+          "description": "Overdrawing, poor sequencing, and early finisher commits are the most frequent reasons strong chains collapse."
         }
       ]
     },
     "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
-      "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
+      "title": "Vampire Crawlers Evolution Recipes",
+      "displayType": "table",
+      "intro": "Vampire Crawlers evolution routing is strongest when you plan base-card pairs early and protect catalysts throughout the run.",
       "items": [
         {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
+          "name": "Vampire Crawlers Base + Catalyst Tracking",
+          "type": "Recipe Rule",
+          "description": "Track each confirmed base-and-catalyst pair so recipe decisions stay deliberate under pressure."
         },
         {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
+          "name": "Vampire Crawlers Early Reliable Evolutions",
+          "type": "Early Route",
+          "description": "Build around one dependable evolution first before stretching into high-variance options."
         },
         {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
+          "name": "Vampire Crawlers Character Synergy Recipes",
+          "type": "Synergy",
+          "description": "Favor evolution routes that align naturally with your selected character passive profile."
         },
         {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
+          "name": "Vampire Crawlers Component Protection",
+          "type": "Deck Safety",
+          "description": "Avoid selling or replacing key recipe pieces until your main evolution has already come online."
         },
         {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
+          "name": "Vampire Crawlers Event-Aware Recipe Pivots",
+          "type": "Map Adaptation",
+          "description": "Use dungeon event outcomes to pivot recipes when the original route becomes resource-inefficient."
         },
         {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
+          "name": "Vampire Crawlers Recovery After Missed Triggers",
+          "type": "Recovery",
+          "description": "If a trigger window is missed, shift to secondary recipes that reuse your current deck core."
         }
       ],
       "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
+        "Record each confirmed Vampire Crawlers evolution pair.",
+        "Secure one stable early damage evolution path.",
+        "Use Arcana and Gems to accelerate key recipes.",
+        "Pivot recipe plans when dungeon events alter resources."
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
+      "title": "Vampire Crawlers Best Evolutions",
+      "displayType": "tier-grid",
+      "intro": "The best Vampire Crawlers evolutions are the ones that stabilize current run goals, not only the highest theoretical damage options.",
       "sections": [
         {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
+          "name": "Vampire Crawlers Early Damage Evolutions",
+          "description": "Choose evolutions that come online quickly and let you clear pressure turns without overextending your deck."
         },
         {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
+          "name": "Vampire Crawlers Sustain Evolutions",
+          "description": "Sustain-focused evolutions improve run consistency when event chains or boss patterns force longer fights."
         },
         {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
+          "name": "Vampire Crawlers Control Evolutions",
+          "description": "Control evolutions are strongest when map events produce dense encounters and limited reset space."
         },
         {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
+          "name": "Vampire Crawlers Boss Finish Evolutions",
+          "description": "Reserve high-ceiling finishers for routes where your support cards can reliably set up burst windows."
         }
       ],
       "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
+        "Pick one priority evolution path before floor three.",
+        "Align evolution choices with character passive strengths.",
+        "Keep one flexible slot for event-driven pivots.",
+        "Upgrade consistency before chasing peak burst lines."
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
+      "title": "Vampire Crawlers Best Builds",
+      "displayType": "card-list",
+      "intro": "These Vampire Crawlers best-build archetypes focus on repeatable wins. Pick a route based on your character, event path, and comfort with combo density.",
       "priorities": [
         {
-          "name": "Personal Qualia",
+          "name": "Vampire Crawlers Tempo Build",
           "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
+          "description": "Low-cost chain cards and efficient finishers create reliable pacing from early floors to mid-run bosses."
         },
         {
-          "name": "Frost Pick",
+          "name": "Vampire Crawlers Arcana Burst Build",
           "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
+          "description": "Arcana acceleration plus burst windows converts prepared turns into decisive boss damage."
         },
         {
-          "name": "Cache Cube",
+          "name": "Vampire Crawlers Sustain Build",
           "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
+          "description": "Defensive utility, recovery cards, and steady scaling reduce wipe risk in long event branches."
         },
         {
-          "name": "Hookshot",
+          "name": "Vampire Crawlers Control Build",
           "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
+          "description": "Control tools and sequencing discipline keep enemy pressure manageable while setting up finishers."
         },
         {
-          "name": "Glider Glove",
+          "name": "Vampire Crawlers Event Farming Build",
           "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
+          "description": "Event-focused routes maximize resource gains and support flexible evolution pivots across maps."
         },
         {
-          "name": "Projectile Wand or Bombs",
+          "name": "Vampire Crawlers Boss Rush Build",
           "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
+          "description": "Short-deck burst planning targets boss consistency with minimal dead draws in late runs."
         }
       ]
     },
     "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
+      "title": "Vampire Crawlers Deck Building",
+      "displayType": "step-by-step",
+      "intro": "Strong Vampire Crawlers deck building starts with curve discipline, then upgrades card quality and finisher planning as runs scale.",
       "groups": [
         {
-          "name": "Exploration",
+          "name": "Vampire Crawlers Curve Rules",
           "achievements": [
             {
-              "title": "Angel α",
-              "description": "Enter a qualia."
+              "title": "Keep Early-Cost Density High",
+              "description": "Reliable early turns come from enough low-cost cards to start clean chains every run."
             },
             {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
+              "title": "Avoid Mid-Curve Overload",
+              "description": "Too many mid-cost cards create dead turns and reduce flexibility when map pressure spikes."
             },
             {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
+              "title": "Reserve Finisher Slots",
+              "description": "Lock dedicated finisher slots instead of filling all late deck space with situational cards."
             }
           ]
         },
         {
-          "name": "Crafting and Summoning",
+          "name": "Vampire Crawlers Card Quality Checks",
           "achievements": [
             {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
+              "title": "Remove Low-Impact Fillers",
+              "description": "Trim cards that rarely contribute to damage, sustain, or combo extension."
             },
             {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
+              "title": "Prefer Multi-Role Utility",
+              "description": "Cards that solve more than one problem improve run stability under event variance."
             },
             {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
+              "title": "Protect Evolution Components",
+              "description": "Do not cut recipe-critical cards until your main evolution line is complete."
             }
           ]
         },
         {
-          "name": "Mobility and Utility",
+          "name": "Vampire Crawlers Finisher Planning",
           "achievements": [
             {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
+              "title": "Match Finisher to Character",
+              "description": "Choose finishers that align with passive strengths and your main scaling engine."
             },
             {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
+              "title": "Build Setup Before Burst",
+              "description": "Reliable setup cards outperform raw burst picks when the deck cannot support them yet."
             },
             {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
-            }
-          ]
-        },
-        {
-          "name": "Combat and Creatures",
-          "achievements": [
-            {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
-            },
-            {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
-          ]
-        },
-        {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
+              "title": "Plan Backup Win Lines",
+              "description": "A secondary finisher path prevents failed runs when primary draws miss key windows."
             }
           ]
         }
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
-      "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
+      "title": "Vampire Crawlers Character Tier List",
+      "displayType": "tier-grid",
+      "intro": "This Vampire Crawlers character tier list frames picks by run goals, not only raw damage snapshots, so choices stay practical across different routes.",
       "faqs": [
         {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
+          "question": "Who is S-tier in Vampire Crawlers right now?",
+          "answer": "S-tier picks are usually characters with strong passive scaling and flexible deck conversion into multiple evolution routes."
         },
         {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
+          "question": "Which Vampire Crawlers characters are best for beginners?",
+          "answer": "Beginner-friendly picks usually provide stable openers, forgiving sustain, and straightforward combo sequencing."
         },
         {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
+          "question": "When should I switch Vampire Crawlers characters?",
+          "answer": "Switch when your current character no longer matches your preferred event path, deck pace, or boss objective."
         },
         {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
+          "question": "Are Vampire Crawlers tier rankings fixed?",
+          "answer": "Tier rankings change with route goals, build context, and update balance shifts, so role-based tiers are more useful than static lists."
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
+          "question": "Do Vampire Crawlers evolutions change character tiers?",
+          "answer": "Yes. Reliable access to high-value evolutions can raise a character tier significantly for specific map routes."
         },
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
-        },
-        {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "question": "How should I read this Vampire Crawlers tier list?",
+          "answer": "Use tiers as planning guidance, then confirm with your own character comfort, route preference, and deck execution consistency."
         }
       ]
     },
     "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
+      "title": "Vampire Crawlers Characters and Unlocks",
+      "displayType": "card-list",
+      "intro": "Use this Vampire Crawlers characters and unlocks module to track roster progression, unlock priorities, and first-run build fit for each new character.",
       "faqs": [
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
+          "question": "How do Vampire Crawlers character unlocks usually work?",
+          "answer": "Most unlocks are tied to clear progression milestones, event outcomes, and run-completion goals."
         },
         {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
+          "question": "Which Vampire Crawlers character should I unlock first?",
+          "answer": "Prioritize characters that improve consistency and give flexible passive synergy with early evolution plans."
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
+          "question": "Do Vampire Crawlers unlocks include Arcana-related goals?",
+          "answer": "Yes. Arcana progression often intersects with character growth and should be tracked alongside roster unlocks."
         },
         {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
+          "question": "Can Vampire Crawlers unlock order change by playstyle?",
+          "answer": "Absolutely. Aggressive, control, and sustain-focused players can each benefit from different unlock priorities."
         },
         {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
+          "question": "How do I track Vampire Crawlers character progress efficiently?",
+          "answer": "Track unlock requirements by route and keep notes on which deck archetypes each character supports best."
+        },
+        {
+          "question": "Do Vampire Crawlers updates affect character unlock plans?",
+          "answer": "Update balance and event tuning can shift optimal unlock order, so revisit your plan after major patches."
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
+      "title": "Vampire Crawlers Card List",
+      "displayType": "table",
+      "intro": "This Vampire Crawlers card list structure helps you sort cards by role so deck decisions stay fast during route planning.",
       "settings": [
         {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
+          "name": "Vampire Crawlers Weapon Cards",
+          "type": "Offense",
+          "description": "Primary damage cards that define your main combat line and evolution endpoints."
         },
         {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
+          "name": "Vampire Crawlers Utility Cards",
+          "type": "Utility",
+          "description": "Support cards that stabilize turns, improve sequencing, and protect combo flow."
         },
         {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
+          "name": "Vampire Crawlers Wild Cards",
+          "type": "Flex",
+          "description": "Flexible chain extenders used to repair hands and preserve turn momentum."
         },
         {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
+          "name": "Vampire Crawlers Arcana Cards",
+          "type": "Scaling",
+          "description": "Arcana-linked cards that amplify spikes when paired with proper setup."
+        },
+        {
+          "name": "Vampire Crawlers Gem Interaction Cards",
+          "type": "Economy",
+          "description": "Cards that convert Gem flow into stronger mid-run and late-run power curves."
+        },
+        {
+          "name": "Vampire Crawlers Evolution Component Cards",
+          "type": "Recipe",
+          "description": "Recipe-critical pieces that must be protected for reliable evolution activation."
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
+      "title": "Vampire Crawlers Dungeon Events",
+      "displayType": "card-list",
+      "intro": "Vampire Crawlers dungeon events can swing entire runs, so event reading and risk control should be treated as core strategy.",
       "entries": [
         {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
+          "type": "Risk Read",
+          "title": "Vampire Crawlers Event Room Identification",
+          "description": "Learn event-room cues early so you can decide whether to commit resources before entering high-variance encounters."
         },
         {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
+          "type": "Reward Route",
+          "title": "Vampire Crawlers Reward Prioritization",
+          "description": "Choose event rewards that strengthen your active build route instead of chasing isolated short-term value."
         },
         {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "type": "Resource Plan",
+          "title": "Vampire Crawlers Resource Buffering for Events",
+          "description": "Carry enough resources into event-heavy floors to survive bad branches without collapsing your deck plan."
+        },
+        {
+          "type": "Map Control",
+          "title": "Vampire Crawlers Event Routing by Floor Goal",
+          "description": "Adjust event pathing based on whether your immediate target is sustain, evolution completion, or boss prep."
+        },
+        {
+          "type": "Recovery",
+          "title": "Vampire Crawlers Post-Event Recovery",
+          "description": "After risky events, stabilize with low-variance turns before re-entering high-risk chains."
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
-      "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
+      "title": "Vampire Crawlers Steam Deck and Controller Support",
+      "displayType": "table",
+      "intro": "Use these Vampire Crawlers Steam Deck and controller support steps to keep input behavior consistent and reduce setup friction.",
       "steps": [
         {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
+          "title": "Use a Current Proton Build for Vampire Crawlers",
+          "description": "Keep Proton updated so launch stability and rendering behavior remain consistent on Steam Deck hardware."
         },
         {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
+          "title": "Set a Dedicated Vampire Crawlers Controller Layout",
+          "description": "Use a clear layout profile that keeps card selection, confirmation, and quick navigation predictable."
         },
         {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
+          "title": "Test Input Mapping Before Long Runs in Vampire Crawlers",
+          "description": "Run a short validation session after layout changes to catch button conflicts early."
         },
         {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
+          "title": "Tune Performance Profile for Vampire Crawlers Sessions",
+          "description": "Use a stable power and frame target profile so long dungeon runs stay responsive."
         },
         {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "title": "Keep a Keyboard Fallback for Vampire Crawlers Setup",
+          "description": "For advanced menu adjustments, a keyboard fallback can speed up troubleshooting and profile edits."
         }
       ]
     }
   },
   "faq": {
-    "title": "Frequently Asked",
+    "title": "Vampire Crawlers Frequently Asked",
     "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "subtitle": "Everything you need to know to start strong in Vampire Crawlers.",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "Is Vampire Crawlers a singleplayer game?",
+        "answer": "Yes. Vampire Crawlers is designed as a singleplayer experience focused on solo run progression."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "What is TurboTurn in Vampire Crawlers?",
+        "answer": "TurboTurn is the core combat sequencing loop in Vampire Crawlers, where mana order and chain timing drive run outcomes."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "Where can I play Vampire Crawlers?",
+        "answer": "Vampire Crawlers is available on Steam, Xbox, PlayStation, and Nintendo launch channels, with mobile planned for later."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "How much does Vampire Crawlers cost?",
+        "answer": "Vampire Crawlers launched at $9.99 / £9.99 / €9.99 / ¥1200."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "Does Vampire Crawlers support controllers?",
+        "answer": "Yes. Vampire Crawlers supports controller play, and setup quality improves with a tuned profile on each platform."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "Will Vampire Crawlers keep getting updates?",
+        "answer": "Vampire Crawlers receives ongoing update support, and major changes can shift build priorities and tier evaluations."
       }
     ]
   },
@@ -801,10 +745,10 @@
   },
   "pages": {
     "guides": {
-      "title": "Lucid Blocks Guides",
+      "title": "Vampire Crawlers Guides",
       "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
+      "metaTitle": "Vampire Crawlers Guides - Beginner to Advanced Strategies",
+      "metaDescription": "Complete Vampire Crawlers guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
       "categoryLabel": "GAME GUIDES",
       "whatIs": "What are Guides?",
       "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
@@ -821,10 +765,10 @@
       "all": "All Guides"
     },
     "crafting": {
-      "title": "Lucid Blocks Crafting",
+      "title": "Vampire Crawlers Crafting",
       "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
+      "metaTitle": "Vampire Crawlers Crafting - Apotheosis System & Recipes",
+      "metaDescription": "Master Vampire Crawlers Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
       "categoryLabel": "CRAFTING SYSTEM",
       "whatIs": "What is Crafting?",
       "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
@@ -841,10 +785,10 @@
       "all": "All Crafting Guides"
     },
     "items": {
-      "title": "Lucid Blocks Items",
+      "title": "Vampire Crawlers Items",
       "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
+      "metaTitle": "Vampire Crawlers Items - Tools, Weapons & Gear Guide",
+      "metaDescription": "Complete item database for Vampire Crawlers including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
       "categoryLabel": "ITEMS & EQUIPMENT",
       "whatIs": "What are Items?",
       "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
@@ -861,10 +805,10 @@
       "all": "All Items"
     },
     "biomes": {
-      "title": "Lucid Blocks Biomes",
+      "title": "Vampire Crawlers Biomes",
       "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
+      "metaTitle": "Vampire Crawlers Biomes - World Regions & Exploration",
+      "metaDescription": "Explore Vampire Crawlers biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
       "categoryLabel": "WORLD REGIONS",
       "whatIs": "What are Biomes?",
       "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
@@ -881,10 +825,10 @@
       "all": "All Biomes"
     },
     "building": {
-      "title": "Lucid Blocks Building",
+      "title": "Vampire Crawlers Building",
       "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
+      "metaTitle": "Vampire Crawlers Building - Qualia & Base Construction",
+      "metaDescription": "Master Vampire Crawlers building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
       "categoryLabel": "BUILDING & BASES",
       "whatIs": "What is Building?",
       "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
@@ -901,10 +845,10 @@
       "all": "All Building Guides"
     },
     "support": {
-      "title": "Lucid Blocks Support",
+      "title": "Vampire Crawlers Support",
       "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
+      "metaTitle": "Vampire Crawlers Support - Technical Help & Fixes",
+      "metaDescription": "Get technical support for Vampire Crawlers including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
       "categoryLabel": "TECHNICAL SUPPORT",
       "whatIs": "What is Support?",
       "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
