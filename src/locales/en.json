@@ -102,22 +102,22 @@
       {
         "icon": "TrendingUp",
         "title": "Vampire Crawlers Best Evolutions",
-        "description": "High-value evolutions for damage and control"
+        "description": "Tiered evolution picks, recipes, and standout run impact"
       },
       {
         "icon": "Home",
         "title": "Vampire Crawlers Best Builds",
-        "description": "Build archetypes for tempo, sustain, and bosses"
+        "description": "Four copy-ready builds mapped to roster passives"
       },
       {
         "icon": "Package",
         "title": "Vampire Crawlers Deck Building",
-        "description": "Curve rules, card quality, and finishers"
+        "description": "Seven practical rules for chain consistency and payoff"
       },
       {
         "icon": "ClipboardCheck",
         "title": "Vampire Crawlers Character Tier List",
-        "description": "Current role-based tier guidance by run goals"
+        "description": "Roster tiers with unlocks, starters, and signature pairings"
       },
       {
         "icon": "Users",
@@ -571,157 +571,273 @@
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
-      "title": "Vampire Crawlers Best Evolutions",
+      "eyebrow": "Power Picks",
+      "title": "Vampire Crawlers Best Evolutions to Chase First",
       "displayType": "tier-grid",
-      "intro": "The best Vampire Crawlers evolutions are the ones that stabilize current run goals, not only the highest theoretical damage options.",
-      "sections": [
+      "subtitle": "These are the evolutions that give the biggest payoff for power, consistency, and real-run impact. The list rewards weapons that either swing fights immediately or slot cleanly into the strongest chain plans.",
+      "intro": "Evolutions are the biggest power spike in Vampire Crawlers, but not every recipe is equally valuable in a live run. The strongest picks either hit an early damage threshold, close chains with huge upside, or create snowball pressure that keeps paying you back floor after floor.",
+      "items": [
         {
-          "name": "Vampire Crawlers Early Damage Evolutions",
-          "description": "Choose evolutions that come online quickly and let you clear pressure turns without overextending your deck."
+          "tier": "S",
+          "name": "Holy Wand",
+          "recipe": "Magic Wand + Empty Tome",
+          "best_for": "Imelda scaling decks and clean mid-run burst",
+          "why_it_ranks_here": "It fires 4 holy bolts at once, each seeking a different target, and the guide calls it one of the strongest evolutions in the middle of a run.",
+          "standout_detail": "At Mana Chain x3, it reaches about 594 damage per bolt for 2376 total."
         },
         {
-          "name": "Vampire Crawlers Sustain Evolutions",
-          "description": "Sustain-focused evolutions improve run consistency when event chains or boss patterns force longer fights."
+          "tier": "S",
+          "name": "Hellfire",
+          "recipe": "Fire Wand + Spinach",
+          "best_for": "Arca burn chains and room-wide pressure",
+          "why_it_ranks_here": "It launches three large fireballs and leaves burning pools behind, so it keeps dealing damage after the cast instead of ending as a single hit.",
+          "standout_detail": "Arca turns Fire Wand into a 0-cost starter, which makes the Hellfire path one of the cleanest ways to build explosive chains."
         },
         {
-          "name": "Vampire Crawlers Control Evolutions",
-          "description": "Control evolutions are strongest when map events produce dense encounters and limited reset space."
+          "tier": "S",
+          "name": "NO FUTURE",
+          "recipe": "Runetracer + Armor",
+          "best_for": "Poe loop decks, add-heavy bosses, and chain closers",
+          "why_it_ranks_here": "It bounces between all enemies on screen up to 7 times and is described as a premium finisher against groups and boss encounters with adds.",
+          "standout_detail": "It is the natural payoff weapon once Poe's draw loop is already online."
         },
         {
-          "name": "Vampire Crawlers Boss Finish Evolutions",
-          "description": "Reserve high-ceiling finishers for routes where your support cards can reliably set up burst windows."
+          "tier": "A",
+          "name": "Unholy Vespers",
+          "recipe": "King Bible + Spellbinder",
+          "best_for": "Late-chain finishers and sustained contact damage",
+          "why_it_ranks_here": "The orbiting tomes keep dealing damage after they come out, and the guide specifically highlights it as an ideal chain-closer for maximum damage.",
+          "standout_detail": "Its persistent pressure makes it strong even when a turn does not fully kill the room."
+        },
+        {
+          "tier": "A",
+          "name": "Bloody Tear",
+          "recipe": "Whip + Hollow Heart",
+          "best_for": "Antonio starts and early stability",
+          "why_it_ranks_here": "It is the simplest first evolution path for Antonio and adds wide-arc damage plus lifesteal, which is exactly what early runs need most.",
+          "standout_detail": "The lifesteal restores HP equal to 15% of damage dealt."
+        },
+        {
+          "tier": "A",
+          "name": "Soul Eater",
+          "recipe": "Garlic + Pummarola",
+          "best_for": "Snowball runs with dense enemy rooms",
+          "why_it_ranks_here": "Each absorbed soul grants +2% damage for the rest of the run, so it gets better the longer a run stays alive.",
+          "standout_detail": "The guide recommends prioritizing it in Mad Forest elite encounters where enemy counts stay high."
+        },
+        {
+          "tier": "B",
+          "name": "La Borra",
+          "recipe": "Santa Water + Attractorb",
+          "best_for": "Control-heavy fights and area denial",
+          "why_it_ranks_here": "The pull effect plus burn is excellent crowd control, but the opportunity cost is real because Attractorb is also one of the best draw engines in the game.",
+          "standout_detail": "This is powerful once your engine is already stable, not always the first upgrade you should rush."
+        },
+        {
+          "tier": "B",
+          "name": "Death Spiral",
+          "recipe": "Axe + Candella",
+          "best_for": "Wide room clears and general-purpose damage",
+          "why_it_ranks_here": "It hits on the way out and on the way back, which gives it dependable room coverage without asking for a special build to function.",
+          "standout_detail": "It stays strongest in broad fights rather than as a dedicated boss nuke."
+        },
+        {
+          "tier": "B",
+          "name": "Thousand Edge",
+          "recipe": "Knife + Bracer",
+          "best_for": "Fast single-target pressure",
+          "why_it_ranks_here": "The dense 8-blade barrage is reliable and easy to understand, but it does not reshape a run as hard as the top evolution payoffs.",
+          "standout_detail": "It is a clean pickup when you want focused damage without changing your deck plan."
         }
-      ],
-      "growthMilestones": [
-        "Pick one priority evolution path before floor three.",
-        "Align evolution choices with character passive strengths.",
-        "Keep one flexible slot for event-driven pivots.",
-        "Upgrade consistency before chasing peak burst lines."
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
-      "title": "Vampire Crawlers Best Builds",
+      "eyebrow": "Ready-Made Builds",
+      "title": "Vampire Crawlers Four Strong Builds You Can Copy",
       "displayType": "card-list",
-      "intro": "These Vampire Crawlers best-build archetypes focus on repeatable wins. Pick a route based on your character, event path, and comfort with combo density.",
-      "priorities": [
+      "subtitle": "These builds map directly to what the current character passives actually reward. Each one has a clear deck shape, a preferred evolution path, and a simple combat plan.",
+      "intro": "The cleanest way to improve in Vampire Crawlers is to stop drafting random good cards and start drafting toward one engine. The four strongest early archetypes all come straight from the current roster: Antonio tempo, Imelda XP snowball, Poe loop control, and Arca burn chains.",
+      "items": [
         {
-          "name": "Vampire Crawlers Tempo Build",
-          "priority": "Essential",
-          "description": "Low-cost chain cards and efficient finishers create reliable pacing from early floors to mid-run bosses."
+          "name": "Poe Blue Loop Control",
+          "best_for": "Highest ceiling runs and chain abuse",
+          "recommended_character": "Poe Ratcho",
+          "core_cards": [
+            "Armor",
+            "Attractorb",
+            "Pummarola",
+            "Candella",
+            "Wild Card"
+          ],
+          "priority_evolutions": [
+            "NO FUTURE",
+            "La Borra"
+          ],
+          "deck_shape": "Blue-heavy draw engine with one real finisher",
+          "how_to_play": "Lean into blue Armor cards so every draw keeps the turn going. Once the loop is stable, add Runetracer as the single high-damage closer and cash out at the end of the chain."
         },
         {
-          "name": "Vampire Crawlers Arcana Burst Build",
-          "priority": "Very High",
-          "description": "Arcana acceleration plus burst windows converts prepared turns into decisive boss damage."
+          "name": "Arca Hellfire Burn Chain",
+          "best_for": "Fast clears and easy damage scaling",
+          "recommended_character": "Arca Ladonna",
+          "core_cards": [
+            "Fire Wand",
+            "Spinach",
+            "Wild Card",
+            "Axe",
+            "Candella"
+          ],
+          "priority_evolutions": [
+            "Hellfire",
+            "Death Spiral"
+          ],
+          "deck_shape": "Compact damage list built around a 0-cost opener",
+          "how_to_play": "Use Fire Wand as the chain starter, apply burn first, then multiply your biggest follow-up. Once Hellfire is online, fight near the burning pools so the room keeps taking damage after your turn ends."
         },
         {
-          "name": "Vampire Crawlers Sustain Build",
-          "priority": "Very High",
-          "description": "Defensive utility, recovery cards, and steady scaling reduce wipe risk in long event branches."
+          "name": "Antonio Bloody Tear Tempo",
+          "best_for": "Consistent starter clears and forgiving early runs",
+          "recommended_character": "Antonio Belpaese",
+          "core_cards": [
+            "Whip",
+            "Hollow Heart",
+            "Knife",
+            "Bracer",
+            "Wild Card"
+          ],
+          "priority_evolutions": [
+            "Bloody Tear",
+            "Thousand Edge"
+          ],
+          "deck_shape": "Small 12-14 card chain deck with low-cost attackers",
+          "how_to_play": "Front-load the deck with 0-cost and 1-cost cards so Whip shows up often. Evolve into Bloody Tear quickly, stabilize with lifesteal, then use Thousand Edge as the follow-up damage card if the run offers it."
         },
         {
-          "name": "Vampire Crawlers Control Build",
-          "priority": "High",
-          "description": "Control tools and sequencing discipline keep enemy pressure manageable while setting up finishers."
-        },
-        {
-          "name": "Vampire Crawlers Event Farming Build",
-          "priority": "High",
-          "description": "Event-focused routes maximize resource gains and support flexible evolution pivots across maps."
-        },
-        {
-          "name": "Vampire Crawlers Boss Rush Build",
-          "priority": "High",
-          "description": "Short-deck burst planning targets boss consistency with minimal dead draws in late runs."
+          "name": "Imelda XP Snowball",
+          "best_for": "Scaling runs and level-based takeovers",
+          "recommended_character": "Imelda Belpaese",
+          "core_cards": [
+            "Magic Wand",
+            "Empty Tome",
+            "Attractorb",
+            "Spellbinder",
+            "Yellow consumables"
+          ],
+          "priority_evolutions": [
+            "Holy Wand",
+            "Unholy Vespers"
+          ],
+          "deck_shape": "Small engine deck that protects its draw and XP tools",
+          "how_to_play": "Leave one weak enemy alive early, cycle yellow cards to stack permanent XP, and do not cash in Attractorb too fast. Once the bonus XP is rolling, Holy Wand gives the build the burst it needs to convert levels into board control."
         }
       ]
     },
     "lucidBlocksAchievementTracker": {
-      "title": "Vampire Crawlers Deck Building",
+      "eyebrow": "Core System",
+      "title": "Vampire Crawlers Deck Building That Actually Chains",
       "displayType": "step-by-step",
-      "intro": "Strong Vampire Crawlers deck building starts with curve discipline, then upgrades card quality and finisher planning as runs scale.",
-      "groups": [
+      "subtitle": "Good lists in Vampire Crawlers are usually smaller, cleaner, and more deliberate than new players expect. The goal is not to collect every strong card; it is to see the right costs in the right order every turn.",
+      "intro": "TurboTurn rewards sequencing, not pile size. A good deck makes it easy to open a chain, bridge missing costs, and finish on a real payoff card without filling your draw pile with cards that do not advance the plan.",
+      "items": [
         {
-          "name": "Vampire Crawlers Curve Rules",
-          "achievements": [
-            {
-              "title": "Keep Early-Cost Density High",
-              "description": "Reliable early turns come from enough low-cost cards to start clean chains every run."
-            },
-            {
-              "title": "Avoid Mid-Curve Overload",
-              "description": "Too many mid-cost cards create dead turns and reduce flexibility when map pressure spikes."
-            },
-            {
-              "title": "Reserve Finisher Slots",
-              "description": "Lock dedicated finisher slots instead of filling all late deck space with situational cards."
-            }
-          ]
+          "step": 1,
+          "heading": "Start with a small deck",
+          "details": "The community baseline is 12-14 cards for most Crawlers because smaller decks redraw chain pieces more often and make your best cards feel consistent instead of random."
         },
         {
-          "name": "Vampire Crawlers Card Quality Checks",
-          "achievements": [
-            {
-              "title": "Remove Low-Impact Fillers",
-              "description": "Trim cards that rarely contribute to damage, sustain, or combo extension."
-            },
-            {
-              "title": "Prefer Multi-Role Utility",
-              "description": "Cards that solve more than one problem improve run stability under event variance."
-            },
-            {
-              "title": "Protect Evolution Components",
-              "description": "Do not cut recipe-critical cards until your main evolution line is complete."
-            }
-          ]
+          "step": 2,
+          "heading": "Guarantee a real opener",
+          "details": "You want at least one reliable 0-cost start or a Wild Card that can stand in for one. Empty Tome and Spellbinder are especially valuable because they help the chain without wasting tempo."
         },
         {
-          "name": "Vampire Crawlers Finisher Planning",
-          "achievements": [
-            {
-              "title": "Match Finisher to Character",
-              "description": "Choose finishers that align with passive strengths and your main scaling engine."
-            },
-            {
-              "title": "Build Setup Before Burst",
-              "description": "Reliable setup cards outperform raw burst picks when the deck cannot support them yet."
-            },
-            {
-              "title": "Plan Backup Win Lines",
-              "description": "A secondary finisher path prevents failed runs when primary draws miss key windows."
-            }
-          ]
+          "step": 3,
+          "heading": "Do not skip the middle of the curve",
+          "details": "Most failed turns happen because the deck has a cute finisher but not enough 1-cost or 2-cost cards. Build redundancy in the middle so one bad draw does not brick the whole turn."
+        },
+        {
+          "step": 4,
+          "heading": "Reserve space for one premium closer",
+          "details": "Once the deck can reliably go up the curve, add a true payoff card. Unholy Vespers and NO FUTURE are the clearest examples of finishers that reward a clean chain."
+        },
+        {
+          "step": 5,
+          "heading": "Run Wild Cards, but stop at 2-3",
+          "details": "Wild Cards preserve ascending order when a cost is missing, which is why most decks want two or three of them. Going heavier starts to dilute the cards that actually deal damage."
+        },
+        {
+          "step": 6,
+          "heading": "Cut dead cards before adding average cards",
+          "details": "The deck-building guide is explicit here: removing a card that never helps your chain or evolution plan is often stronger than taking another mediocre pickup from a shop or event."
+        },
+        {
+          "step": 7,
+          "heading": "Treat Poe as the exception",
+          "details": "Standard deck rules are for standard decks. Poe can bend the normal structure once the blue draw loop is online, but that is a special-case engine, not the baseline for every character."
         }
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Vampire Crawlers Character Tier List",
+      "eyebrow": "Roster Ranking",
+      "title": "Vampire Crawlers Current Character Tier List",
       "displayType": "tier-grid",
-      "intro": "This Vampire Crawlers character tier list frames picks by run goals, not only raw damage snapshots, so choices stay practical across different routes.",
-      "faqs": [
+      "subtitle": "The current roster rewards very different kinds of play, so this tier list weighs both raw ceiling and how easy each Crawler is to convert into a winning run. The result is less about hype and more about how each passive changes deck-building decisions.",
+      "intro": "The current launch roster gives you four very different lanes: Poe for ceiling, Antonio for safety, Arca for tempo, and Imelda for scaling. This list weighs both raw payoff and how quickly each passive turns into a dependable run.",
+      "items": [
         {
-          "question": "Who is S-tier in Vampire Crawlers right now?",
-          "answer": "S-tier picks are usually characters with strong passive scaling and flexible deck conversion into multiple evolution routes."
+          "tier": "S",
+          "name": "Poe Ratcho",
+          "difficulty": "Advanced",
+          "unlock": "Complete Mad Forest Floor 3",
+          "starter": "Armor",
+          "best_for": "Loop decks and the highest combo ceiling",
+          "why_it_ranks_here": "His passive draws a card every time you play a blue Armor card, and that can chain into more blue draws until the whole deck starts cycling itself.",
+          "signature_pairings": [
+            "NO FUTURE",
+            "La Borra",
+            "Attractorb"
+          ]
         },
         {
-          "question": "Which Vampire Crawlers characters are best for beginners?",
-          "answer": "Beginner-friendly picks usually provide stable openers, forgiving sustain, and straightforward combo sequencing."
+          "tier": "A",
+          "name": "Arca Ladonna",
+          "difficulty": "Intermediate",
+          "unlock": "Complete Inlaid Library Floor 2",
+          "starter": "Fire Wand",
+          "best_for": "Fast pressure and burn-based chain starts",
+          "why_it_ranks_here": "Making Fire Wand cost 0 is a huge tempo edge, and the burn debuff means later cards hit even harder after the opener lands.",
+          "signature_pairings": [
+            "Hellfire",
+            "Death Spiral",
+            "Spinach"
+          ]
         },
         {
-          "question": "When should I switch Vampire Crawlers characters?",
-          "answer": "Switch when your current character no longer matches your preferred event path, deck pace, or boss objective."
+          "tier": "A",
+          "name": "Antonio Belpaese",
+          "difficulty": "Beginner",
+          "unlock": "Available from the start",
+          "starter": "Whip",
+          "best_for": "New players and stable first clears",
+          "why_it_ranks_here": "He starts with an extra 0-cost Charge card and keeps gaining Max HP as he levels, which makes his deck the easiest to pilot cleanly from the opening floor onward.",
+          "signature_pairings": [
+            "Bloody Tear",
+            "Thousand Edge",
+            "Hollow Heart"
+          ]
         },
         {
-          "question": "Are Vampire Crawlers tier rankings fixed?",
-          "answer": "Tier rankings change with route goals, build context, and update balance shifts, so role-based tiers are more useful than static lists."
-        },
-        {
-          "question": "Do Vampire Crawlers evolutions change character tiers?",
-          "answer": "Yes. Reliable access to high-value evolutions can raise a character tier significantly for specific map routes."
-        },
-        {
-          "question": "How should I read this Vampire Crawlers tier list?",
-          "answer": "Use tiers as planning guidance, then confirm with your own character comfort, route preference, and deck execution consistency."
+          "tier": "B",
+          "name": "Imelda Belpaese",
+          "difficulty": "Intermediate",
+          "unlock": "Available from the start",
+          "starter": "Magic Wand",
+          "best_for": "XP farming and late-run scaling",
+          "why_it_ranks_here": "Her payoff is excellent, but it asks for more setup because the deck wants to stall early fights, cycle yellow consumables, and protect tools like Attractorb instead of evolving them too fast.",
+          "signature_pairings": [
+            "Holy Wand",
+            "Unholy Vespers",
+            "Attractorb"
+          ]
         }
       ]
     },
