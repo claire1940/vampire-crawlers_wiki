@@ -53,24 +53,36 @@ function LinkedTitle({
   className?: string
   locale: string
 }) {
-  // Requirement: keep homepage modules free of internal article links.
-  // Only render external links when the matched URL is absolute.
-  if (linkData && /^https?:\/\//.test(linkData.url)) {
-    const href = linkData.url
+  if (!linkData?.url) {
+    return <>{children}</>
+  }
+
+  const href = linkData.url
+  const sharedClassName = `${className || ''} hover:text-[hsl(var(--nav-theme-light))] hover:underline decoration-[hsl(var(--nav-theme-light))/0.4] underline-offset-4 transition-colors`
+
+  if (/^https?:\/\//.test(href)) {
     return (
       <a
         href={href}
         target="_blank"
         rel="noopener noreferrer"
         lang={locale}
-        className={`${className || ''} hover:text-[hsl(var(--nav-theme-light))] hover:underline decoration-[hsl(var(--nav-theme-light))/0.4] underline-offset-4 transition-colors`}
+        className={sharedClassName}
         title={linkData.title}
       >
         {children}
       </a>
     )
   }
-  return <>{children}</>
+
+  const normalizedPath = href.startsWith('/') ? href : `/${href}`
+  const localizedHref = locale === 'en' ? normalizedPath : `/${locale}${normalizedPath}`
+
+  return (
+    <Link href={localizedHref} lang={locale} className={sharedClassName} title={linkData.title}>
+      {children}
+    </Link>
+  )
 }
 
 interface HomePageClientProps {

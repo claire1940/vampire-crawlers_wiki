@@ -22,10 +22,10 @@ const MODULE_FIELDS: Record<string, { field: string; nameKey: string }> = {
   lucidBlocksWorldRegions: { field: 'regions', nameKey: 'name' },
   lucidBlocksCreaturesAndEnemies: { field: 'creatures', nameKey: 'name' },
   lucidBlocksMobilityGear: { field: 'items', nameKey: 'name' },
-  lucidBlocksFarmingAndGrowth: { field: 'sections', nameKey: 'name' },
-  lucidBlocksBestEarlyUnlocks: { field: 'priorities', nameKey: 'name' },
-  lucidBlocksAchievementTracker: { field: 'groups', nameKey: 'name' },
-  lucidBlocksSingleplayerAndPlatformFAQ: { field: 'faqs', nameKey: 'question' },
+  lucidBlocksFarmingAndGrowth: { field: 'items', nameKey: 'name' },
+  lucidBlocksBestEarlyUnlocks: { field: 'items', nameKey: 'name' },
+  lucidBlocksAchievementTracker: { field: 'items', nameKey: 'heading' },
+  lucidBlocksSingleplayerAndPlatformFAQ: { field: 'items', nameKey: 'name' },
   lucidBlocksSteamDeckAndController: { field: 'faqs', nameKey: 'question' },
   lucidBlocksSettingsAndAccessibility: { field: 'settings', nameKey: 'name' },
   lucidBlocksUpdatesAndPatchNotes: { field: 'entries', nameKey: 'title' },
@@ -35,25 +35,25 @@ const MODULE_FIELDS: Record<string, { field: string; nameKey: string }> = {
 // Extra semantic keywords per module to boost matching for h2 titles
 // These supplement the module title text when matching against articles
 const MODULE_EXTRA_KEYWORDS: Record<string, string[]> = {
-  lucidBlocksBeginnerGuide: ['guide', 'mastering', 'progression', 'crafting', 'starter'],
-  lucidBlocksApotheosisCrafting: ['apotheosis', 'fusion', 'essence'],
-  lucidBlocksToolsAndWeapons: ['crafting recipes', 'frost pick', 'osmium', 'azrael', 'faith wand'],
-  lucidBlocksStorageAndInventory: ['chest', 'cache cube', 'cabinet', 'storage'],
-  lucidBlocksQualiaAndBaseBuilding: ['qualia', 'clonaqualia', 'personal dimensions'],
-  lucidBlocksWorldRegions: ['tiamana', 'leyline', 'biomes', 'regions'],
-  lucidBlocksCreaturesAndEnemies: ['survival', 'combat', 'surreal creatures'],
-  lucidBlocksMobilityGear: ['bee glider', 'hookshot', 'glider', 'movement'],
-  lucidBlocksFarmingAndGrowth: ['seed', 'farming', 'growth', 'material', 'progression', 'crafting'],
-  lucidBlocksBestEarlyUnlocks: ['early', 'osmium', 'frost pick', 'starter', 'progression'],
-  lucidBlocksAchievementTracker: ['achievement', 'tiamana', 'leyline'],
-  lucidBlocksSingleplayerAndPlatformFAQ: ['multiplayer', 'platform', 'co op'],
-  lucidBlocksSteamDeckAndController: ['steam deck', 'controller', 'proton'],
-  lucidBlocksSettingsAndAccessibility: ['full screen', 'controls', 'display'],
-  lucidBlocksUpdatesAndPatchNotes: ['update', 'patch', 'fix'],
-  lucidBlocksCrashFixAndTroubleshooting: ['crash', 'vulkan', 'troubleshooting', 'full screen', 'controls', 'gameplay'],
+  lucidBlocksBeginnerGuide: ['release date', 'launch', 'announcement', 'game pass', 'price'],
+  lucidBlocksApotheosisCrafting: ['trailer', 'announcement trailer', 'gameplay preview', 'release date trailer', 'game pass trailer'],
+  lucidBlocksToolsAndWeapons: ['demo', 'demo guide', 'demo progress', 'download demo', 'full release'],
+  lucidBlocksStorageAndInventory: ['platforms', 'game pass', 'steam', 'xbox', 'playstation', 'nintendo'],
+  lucidBlocksQualiaAndBaseBuilding: ['review roundup', 'gamespot', 'pc gamer', 'the verge', 'metacritic'],
+  lucidBlocksWorldRegions: ['beginner guide', 'start strong', 'early game', 'village upgrades', 'tips'],
+  lucidBlocksCreaturesAndEnemies: ['turboturn', 'mana chain', 'multiplier ladder', 'wild cards', 'combo'],
+  lucidBlocksMobilityGear: ['evolution recipes', 'gem socket', 'gem station', 'whip', 'hollow heart', 'item combos'],
+  lucidBlocksFarmingAndGrowth: ['best evolutions', 'holy wand', 'hellfire', 'no future', 'la borra', 'death spiral'],
+  lucidBlocksBestEarlyUnlocks: ['builds', 'tier list', 'poe', 'antonio', 'imelda', 'arca'],
+  lucidBlocksAchievementTracker: ['deck building', 'card chains', 'small deck', 'wild cards', 'combos'],
+  lucidBlocksSingleplayerAndPlatformFAQ: ['character tier list', 'poe ratcho', 'arca ladonna', 'antonio belpaese', 'imelda belpaese'],
+  lucidBlocksSteamDeckAndController: ['characters and unlocks', 'starter card', 'passive', 'best evolutions', 'unlock requirements'],
+  lucidBlocksSettingsAndAccessibility: ['card list', 'weapon cards', 'passive cards', 'evolution paths', 'combos'],
+  lucidBlocksUpdatesAndPatchNotes: ['dungeon events', 'healing spring', 'treasure chamber', 'wild card fountain', 'blacksmith'],
+  lucidBlocksCrashFixAndTroubleshooting: ['steam deck', 'controller support', 'steam cloud', 'family sharing', 'cross save', 'compatibility'],
 }
 
-const FILLER_WORDS = ['lucid', 'blocks', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
+const FILLER_WORDS = ['vampire', 'crawlers', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
 
 function normalize(text: string): string {
   return text
@@ -77,9 +77,9 @@ function matchScore(queryText: string, article: ArticleWithType, extraKeywords?:
 
   let score = 0
 
-  // Exact phrase match in title (stripped of "Lucid Blocks")
-  const strippedQuery = normalizedQuery.replace(/lucid blocks?\s*/g, '').trim()
-  const strippedTitle = normalizedTitle.replace(/lucid blocks?\s*/g, '').trim()
+  // Exact phrase match in title (stripped of "Vampire Crawlers")
+  const strippedQuery = normalizedQuery.replace(/vampire crawlers?\s*/g, '').trim()
+  const strippedTitle = normalizedTitle.replace(/vampire crawlers?\s*/g, '').trim()
   if (strippedQuery.length > 3 && strippedTitle.includes(strippedQuery)) {
     score += 100
   }
