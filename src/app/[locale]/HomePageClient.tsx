@@ -73,11 +73,19 @@ interface HomePageClientProps {
   latestArticles: ContentItemWithType[]
   moduleLinkMap: ModuleLinkMap
   locale: string
+  featuredVideoId: string
+  featuredVideoTitle: string
 }
 
-export default function HomePageClient({ latestArticles, moduleLinkMap, locale }: HomePageClientProps) {
+export default function HomePageClient({
+  latestArticles,
+  moduleLinkMap,
+  locale,
+  featuredVideoId,
+  featuredVideoTitle,
+}: HomePageClientProps) {
   const t = useMessages() as any
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.lucidblocks.wiki'
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.vampire-crawlers.wiki'
 
   // Structured data
   const structuredData = {
@@ -87,14 +95,14 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         '@type': 'WebSite',
         '@id': `${siteUrl}/#website`,
         url: siteUrl,
-        name: "Lucid Blocks Wiki",
-        description: "Complete Lucid Blocks Wiki covering crafting, biomes, creatures, items, achievements, lore, and survival tips for the surreal voxel sandbox on Steam.",
+        name: 'Vampire Crawlers Wiki',
+        description: 'Your hub for Vampire Crawlers release updates, platform access, characters, unlocks, map routes, and deck strategy guides.',
         image: {
           '@type': 'ImageObject',
           url: `${siteUrl}/images/hero.webp`,
           width: 1920,
           height: 1080,
-          caption: "Lucid Blocks - Surreal Voxel Survival Sandbox",
+          caption: 'Vampire Crawlers Hero Artwork',
         },
         potentialAction: {
           '@type': 'SearchAction',
@@ -105,10 +113,10 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
       {
         '@type': 'Organization',
         '@id': `${siteUrl}/#organization`,
-        name: "Lucid Blocks Wiki",
-        alternateName: "Lucid Blocks",
+        name: 'Vampire Crawlers Wiki',
+        alternateName: 'Vampire Crawlers',
         url: siteUrl,
-        description: "Complete Lucid Blocks Wiki resource hub for crafting, biomes, creatures, items, achievements, and survival guides",
+        description: 'Fan-driven Vampire Crawlers resource hub for release info, platform links, and gameplay guides.',
         logo: {
           '@type': 'ImageObject',
           url: `${siteUrl}/android-chrome-512x512.png`,
@@ -120,30 +128,32 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
           url: `${siteUrl}/images/hero.webp`,
           width: 1920,
           height: 1080,
-          caption: "Lucid Blocks Wiki - Surreal Voxel Survival Sandbox",
+          caption: 'Vampire Crawlers Wiki Hero Banner',
         },
         sameAs: [
-          'https://store.steampowered.com/app/3495730/Lucid_Blocks/',
-          'https://discord.com/invite/lucidblocks',
-          'https://www.reddit.com/r/LucidBlocks/',
-          'https://www.youtube.com/@lucy_b_locks',
+          'https://poncle.games/vampire-crawlers',
+          'https://store.steampowered.com/app/3265700/Vampire_Crawlers_The_Turbo_Wildcard_from_Vampire_Survivors/',
+          'https://discord.com/invite/vampire-survivors',
+          'https://www.reddit.com/r/VampireCrawlers/',
+          'https://www.youtube.com/watch?v=jaAEKYGnxrA',
         ],
       },
       {
         '@type': 'VideoGame',
-        name: "Lucid Blocks",
-        gamePlatform: ['PC', 'Steam'],
+        name: 'Vampire Crawlers',
+        gamePlatform: ['PC', 'PlayStation 5', 'Xbox Series X|S', 'Nintendo Switch'],
         applicationCategory: 'Game',
-        genre: ['Survival', 'Sandbox', 'Adventure', 'Psychedelic'],
+        genre: ['Roguelite', 'Deckbuilder', 'Dungeon Crawler', 'Turn-Based'],
         numberOfPlayers: {
           minValue: 1,
           maxValue: 1,
         },
         offers: {
           '@type': 'Offer',
+          price: '9.99',
           priceCurrency: 'USD',
           availability: 'https://schema.org/InStock',
-          url: 'https://store.steampowered.com/app/3495730/Lucid_Blocks/',
+          url: 'https://store.steampowered.com/app/3265700/Vampire_Crawlers_The_Turbo_Wildcard_from_Vampire_Survivors/',
         },
       },
     ],
@@ -226,17 +236,19 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
 
             {/* CTA Buttons */}
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
-              <button
-                onClick={() => scrollToSection('beginner-guide')}
+              <a
+                href="https://poncle.games/vampire-crawlers"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 px-8 py-4
                            bg-[hsl(var(--nav-theme))] hover:bg-[hsl(var(--nav-theme)/0.9)]
                            text-white rounded-lg font-semibold text-lg transition-colors"
               >
-                <BookOpen className="w-5 h-5" />
+                <ExternalLink className="w-5 h-5" />
                 {t.hero.getFreeCodesCTA}
-              </button>
+              </a>
               <a
-                href="https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+                href="https://store.steampowered.com/app/3265700/Vampire_Crawlers_The_Turbo_Wildcard_from_Vampire_Survivors/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 px-8 py-4
@@ -264,8 +276,8 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         <div className="scroll-reveal container mx-auto max-w-4xl">
           <div className="relative rounded-2xl overflow-hidden">
             <VideoFeature
-              videoId="7C7fybRM_No"
-              title="LUCID BLOCKS | AVAILABLE NOW"
+              videoId={featuredVideoId}
+              title={featuredVideoTitle}
               posterImage="/images/hero.webp"
             />
           </div>
@@ -832,11 +844,11 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                 <h3 className="font-bold text-yellow-400 mb-2">Still having issues?</h3>
                 <p className="text-sm text-muted-foreground mb-3">Report bugs with your logs through the official channels:</p>
                 <div className="flex flex-wrap gap-3">
-                  <a href="https://discord.com/invite/lucidblocks" target="_blank" rel="noopener noreferrer"
+                  <a href="https://discord.com/invite/vampire-survivors" target="_blank" rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
                     <MessageCircle className="w-4 h-4" /> Discord <ExternalLink className="w-3 h-3" />
                   </a>
-                  <a href="https://store.steampowered.com/app/3495730/Lucid_Blocks/" target="_blank" rel="noopener noreferrer"
+                  <a href="https://steamcommunity.com/app/3265700" target="_blank" rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
                     Steam Community <ExternalLink className="w-3 h-3" />
                   </a>
@@ -888,7 +900,7 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
               <ul className="space-y-2 text-sm">
                 <li>
                   <a
-                    href="https://discord.com/invite/lucidblocks"
+                    href="https://discord.com/invite/vampire-survivors"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
@@ -898,7 +910,7 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                 </li>
                 <li>
                   <a
-                    href="https://x.com/lucidblocks"
+                    href="https://www.reddit.com/r/VampireCrawlers/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
@@ -908,7 +920,7 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                 </li>
                 <li>
                   <a
-                    href="https://steamcommunity.com/app/3495730"
+                    href="https://steamcommunity.com/app/3265700"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
@@ -918,7 +930,7 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                 </li>
                 <li>
                   <a
-                    href="https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+                    href="https://store.steampowered.com/app/3265700/Vampire_Crawlers_The_Turbo_Wildcard_from_Vampire_Survivors/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"

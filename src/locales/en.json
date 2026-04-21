@@ -33,27 +33,27 @@
     "readMore": "Read More"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Turn-Based Roguelite Deckbuilder",
+    "title": "Vampire Crawlers",
+    "description": "The go-to hub for Vampire Crawlers release info, platform access, character unlocks, map guides, and combo-heavy deck strategy from the Vampire Survivors spin-off.",
+    "getFreeCodesCTA": "Official Website",
+    "playOnSteamCTA": "View on Steam",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "500K+",
+        "label": "Steam Wishlists"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "$9.99",
+        "label": "Starting Price"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "4",
+        "label": "Launch Platforms"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "12",
+        "label": "Supported Languages"
       }
     }
   },
@@ -784,26 +784,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
+    "title": "Join the Vampire Crawlers Community",
+    "description": "Connect with players, track updates, and follow official announcements for Vampire Crawlers.",
     "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "joinGame": "View on Steam"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Vampire Crawlers Wiki",
+    "description": "Your complete fan resource hub for Vampire Crawlers guides, unlocks, maps, and platform updates.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
+    "discord": "Official Discord",
+    "twitter": "Reddit",
     "steamCommunity": "Steam Community",
     "steamStore": "Steam Store",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Vampire Crawlers Wiki. Not affiliated with poncle or platform holders.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
