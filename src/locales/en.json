@@ -122,22 +122,22 @@
       {
         "icon": "Users",
         "title": "Vampire Crawlers Characters and Unlocks",
-        "description": "Roster snapshots and unlock planning"
+        "description": "Launch roster passives, unlock routes, and first evolution targets"
       },
       {
         "icon": "Eye",
         "title": "Vampire Crawlers Card List",
-        "description": "Card categories and practical lookup structure"
+        "description": "Weapons, key items, Wild Cards, and evolution lookup table"
       },
       {
         "icon": "MessageCircle",
         "title": "Vampire Crawlers Dungeon Events",
-        "description": "Event room reads, risk control, and reward routing"
+        "description": "Event room rewards, HP costs, and timing priorities"
       },
       {
         "icon": "Settings",
         "title": "Vampire Crawlers Steam Deck and Controller Support",
-        "description": "Deck setup, controller layout, and troubleshooting"
+        "description": "Verified status, cloud features, and cross-save expectations"
       }
     ]
   },
@@ -844,127 +844,369 @@
     "lucidBlocksSteamDeckAndController": {
       "title": "Vampire Crawlers Characters and Unlocks",
       "displayType": "card-list",
-      "intro": "Use this Vampire Crawlers characters and unlocks module to track roster progression, unlock priorities, and first-run build fit for each new character.",
+      "intro": "Each Crawler bends Mana Chains in a different direction. Compare starters, passives, unlock goals, and first upgrade targets so your first unlock route powers a stronger early game.",
       "faqs": [
         {
-          "question": "How do Vampire Crawlers character unlocks usually work?",
-          "answer": "Most unlocks are tied to clear progression milestones, event outcomes, and run-completion goals."
+          "question": "Antonio Belpaese",
+          "name": "Antonio Belpaese",
+          "difficulty": "Beginner",
+          "unlock": "Available from the start",
+          "starter_card": "Whip",
+          "passive": "Starts each run with an additional 0-cost Charge card and gains +5 Max HP every 5 levels.",
+          "best_evolutions": [
+            "Bloody Tear",
+            "Thousand Edge"
+          ],
+          "playstyle": "Aggressive melee opener that wants a tight 12-card deck and an early Bloody Tear."
         },
         {
-          "question": "Which Vampire Crawlers character should I unlock first?",
-          "answer": "Prioritize characters that improve consistency and give flexible passive synergy with early evolution plans."
+          "question": "Imelda Belpaese",
+          "name": "Imelda Belpaese",
+          "difficulty": "Intermediate",
+          "unlock": "Available from the start",
+          "starter_card": "Magic Wand",
+          "passive": "Each yellow Consumable card grants +5% permanent XP bonus, stacking up to +90%; at level 10 she gains +1 card draw in the opening hand.",
+          "best_evolutions": [
+            "Holy Wand",
+            "Unholy Vespers"
+          ],
+          "playstyle": "An XP-snowball specialist that stalls early fights, cycles yellow cards, and spikes hard once her level curve takes off."
         },
         {
-          "question": "Do Vampire Crawlers unlocks include Arcana-related goals?",
-          "answer": "Yes. Arcana progression often intersects with character growth and should be tracked alongside roster unlocks."
+          "question": "Poe Ratcho",
+          "name": "Poe Ratcho",
+          "difficulty": "Advanced",
+          "unlock": "Complete Mad Forest Floor 3",
+          "starter_card": "Armor",
+          "passive": "Each blue Armor or Shield card draws 1 card immediately, enabling long blue-card loops.",
+          "best_evolutions": [
+            "NO FUTURE",
+            "La Borra"
+          ],
+          "playstyle": "A combo engine built around blue-card draw chains, compact decks, and long turns that keep the hand flowing."
         },
         {
-          "question": "Can Vampire Crawlers unlock order change by playstyle?",
-          "answer": "Absolutely. Aggressive, control, and sustain-focused players can each benefit from different unlock priorities."
-        },
-        {
-          "question": "How do I track Vampire Crawlers character progress efficiently?",
-          "answer": "Track unlock requirements by route and keep notes on which deck archetypes each character supports best."
-        },
-        {
-          "question": "Do Vampire Crawlers updates affect character unlock plans?",
-          "answer": "Update balance and event tuning can shift optimal unlock order, so revisit your plan after major patches."
+          "question": "Arca Ladonna",
+          "name": "Arca Ladonna",
+          "difficulty": "Intermediate",
+          "unlock": "Complete Inlaid Library Floor 2",
+          "starter_card": "Fire Wand",
+          "passive": "Fire Wand costs 0 for Arca, and burning enemies take +15% damage from all sources for 2 turns.",
+          "best_evolutions": [
+            "Hellfire",
+            "Death Spiral"
+          ],
+          "playstyle": "A fire-focused Crawler that uses a free Fire Wand to open or extend chains before cashing out with heavy AoE."
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
       "title": "Vampire Crawlers Card List",
       "displayType": "table",
-      "intro": "This Vampire Crawlers card list structure helps you sort cards by role so deck decisions stay fast during route planning.",
+      "intro": "Use this Vampire Crawlers card list to scan card costs, roles, and evolution paths at a glance when planning your next chain.",
       "settings": [
         {
           "name": "Vampire Crawlers Weapon Cards",
-          "type": "Offense",
-          "description": "Primary damage cards that define your main combat line and evolution endpoints."
+          "category": "Base Weapon",
+          "cost": "1",
+          "upgrade_or_recipe": "Evolves to Bloody Tear",
+          "effect": "Deals damage to the closest enemy and can clip adjacent enemies with its whip-crack arc."
         },
         {
-          "name": "Vampire Crawlers Utility Cards",
-          "type": "Utility",
-          "description": "Support cards that stabilize turns, improve sequencing, and protect combo flow."
+          "name": "Knife",
+          "category": "Base Weapon",
+          "cost": "1",
+          "upgrade_or_recipe": "Evolves to Thousand Edge",
+          "effect": "Fires rapidly at the nearest enemy; low single-hit damage but excellent hit count."
         },
         {
-          "name": "Vampire Crawlers Wild Cards",
-          "type": "Flex",
-          "description": "Flexible chain extenders used to repair hands and preserve turn momentum."
+          "name": "Magic Wand",
+          "category": "Base Weapon",
+          "cost": "2",
+          "upgrade_or_recipe": "Evolves to Holy Wand",
+          "effect": "Reliable mid-chain magic bolts aimed at the nearest enemy."
         },
         {
-          "name": "Vampire Crawlers Arcana Cards",
-          "type": "Scaling",
-          "description": "Arcana-linked cards that amplify spikes when paired with proper setup."
+          "name": "Axe",
+          "category": "Base Weapon",
+          "cost": "2",
+          "upgrade_or_recipe": "Evolves to Death Spiral",
+          "effect": "Slow but powerful sweeping damage that can catch every enemy in an arc."
         },
         {
-          "name": "Vampire Crawlers Gem Interaction Cards",
-          "type": "Economy",
-          "description": "Cards that convert Gem flow into stronger mid-run and late-run power curves."
+          "name": "King Bible",
+          "category": "Base Weapon",
+          "cost": "3",
+          "upgrade_or_recipe": "Evolves to Unholy Vespers",
+          "effect": "Orbiting projectiles that persist and hit repeatedly; a natural chain finisher."
         },
         {
-          "name": "Vampire Crawlers Evolution Component Cards",
-          "type": "Recipe",
-          "description": "Recipe-critical pieces that must be protected for reliable evolution activation."
+          "name": "Fire Wand",
+          "category": "Base Weapon",
+          "cost": "1",
+          "upgrade_or_recipe": "Evolves to Hellfire",
+          "effect": "Piercing fire attack that passes through enemies; Arca treats it as 0-cost."
+        },
+        {
+          "name": "Garlic",
+          "category": "Base Weapon",
+          "cost": "2",
+          "upgrade_or_recipe": "Evolves to Soul Eater",
+          "effect": "Creates a damaging aura around the Crawler for one turn."
+        },
+        {
+          "name": "Santa Water",
+          "category": "Base Weapon",
+          "cost": "1",
+          "upgrade_or_recipe": "Evolves to La Borra",
+          "effect": "Lobs holy water that damages where it lands and can hit multiple enemies."
+        },
+        {
+          "name": "Runetracer",
+          "category": "Base Weapon",
+          "cost": "3",
+          "upgrade_or_recipe": "Evolves to NO FUTURE",
+          "effect": "Bounces between enemies and shines as a late-chain finisher."
+        },
+        {
+          "name": "Peachone",
+          "category": "Base Weapon",
+          "cost": "2",
+          "upgrade_or_recipe": "No documented evolution",
+          "effect": "A homing bird weapon with 2 Gem Slots; unlocks at Character Level 25."
+        },
+        {
+          "name": "Hollow Heart",
+          "category": "Key Item",
+          "cost": "1",
+          "upgrade_or_recipe": "Ingredient for Whip -> Bloody Tear",
+          "effect": "+20% Max HP passively; the 'Destroyed after use' version cannot be used for evolution."
+        },
+        {
+          "name": "Bracer",
+          "category": "Key Item",
+          "cost": "1",
+          "upgrade_or_recipe": "Ingredient for Knife -> Thousand Edge",
+          "effect": "+15% Projectile Speed and +10% damage passively."
+        },
+        {
+          "name": "Empty Tome",
+          "category": "Key Item",
+          "cost": "0",
+          "upgrade_or_recipe": "Ingredient for Magic Wand -> Holy Wand",
+          "effect": "-8% Cooldown passively and a strong 0-cost chain starter."
+        },
+        {
+          "name": "Candella",
+          "category": "Key Item",
+          "cost": "1",
+          "upgrade_or_recipe": "Ingredient for Axe -> Death Spiral",
+          "effect": "+20 Armor on play; a blue card that also helps Poe's draw loops."
+        },
+        {
+          "name": "Spellbinder",
+          "category": "Key Item",
+          "cost": "0",
+          "upgrade_or_recipe": "Ingredient for King Bible -> Unholy Vespers",
+          "effect": "+10% Spell Duration passively and one of the cleanest 0-cost openers."
+        },
+        {
+          "name": "Spinach",
+          "category": "Key Item",
+          "cost": "1",
+          "upgrade_or_recipe": "Ingredient for Fire Wand -> Hellfire",
+          "effect": "+10% All Damage passively."
+        },
+        {
+          "name": "Pummarola",
+          "category": "Key Item",
+          "cost": "0",
+          "upgrade_or_recipe": "Ingredient for Garlic -> Soul Eater",
+          "effect": "+0.2 HP per second passive regen; a blue card that also triggers Poe's draw."
+        },
+        {
+          "name": "Attractorb",
+          "category": "Key Item",
+          "cost": "1",
+          "upgrade_or_recipe": "Ingredient for Santa Water -> La Borra",
+          "effect": "On play, draw 2 cards; a blue card that also helps Poe and powers Imelda's XP engine."
+        },
+        {
+          "name": "Armor",
+          "category": "Key Item",
+          "cost": "2",
+          "upgrade_or_recipe": "Ingredient for Runetracer -> NO FUTURE",
+          "effect": "+30 Armor on play; a blue card that also triggers Poe's draw."
+        },
+        {
+          "name": "Wild Card",
+          "category": "Wild",
+          "cost": "W",
+          "upgrade_or_recipe": "-",
+          "effect": "Counts as any mana cost in a Mana Chain without breaking ascending order."
+        },
+        {
+          "name": "Bloody Tear",
+          "category": "Evolved Weapon",
+          "cost": "1",
+          "upgrade_or_recipe": "Recipe: Whip + Hollow Heart",
+          "effect": "Critical damage plus XP steal on kill."
+        },
+        {
+          "name": "Thousand Edge",
+          "category": "Evolved Weapon",
+          "cost": "1",
+          "upgrade_or_recipe": "Recipe: Knife + Bracer",
+          "effect": "Eight rapid hits with no cooldown."
+        },
+        {
+          "name": "Holy Wand",
+          "category": "Evolved Weapon",
+          "cost": "2",
+          "upgrade_or_recipe": "Recipe: Magic Wand + Empty Tome",
+          "effect": "Continuous bolts with no delay."
+        },
+        {
+          "name": "Death Spiral",
+          "category": "Evolved Weapon",
+          "cost": "2",
+          "upgrade_or_recipe": "Recipe: Axe + Candella",
+          "effect": "Passes through all enemies for strong room clear."
+        },
+        {
+          "name": "Unholy Vespers",
+          "category": "Evolved Weapon",
+          "cost": "3",
+          "upgrade_or_recipe": "Recipe: King Bible + Spellbinder",
+          "effect": "Persistent orbiting projectiles that last for 3 turns."
+        },
+        {
+          "name": "Hellfire",
+          "category": "Evolved Weapon",
+          "cost": "0",
+          "upgrade_or_recipe": "Recipe: Fire Wand + Spinach",
+          "effect": "Piercing fireballs with lingering burning pools."
+        },
+        {
+          "name": "Soul Eater",
+          "category": "Evolved Weapon",
+          "cost": "2",
+          "upgrade_or_recipe": "Recipe: Garlic + Pummarola",
+          "effect": "Steals Max HP from enemies permanently."
+        },
+        {
+          "name": "La Borra",
+          "category": "Evolved Weapon",
+          "cost": "1",
+          "upgrade_or_recipe": "Recipe: Santa Water + Attractorb",
+          "effect": "Growing holy-water zones that burn enemies."
+        },
+        {
+          "name": "NO FUTURE",
+          "category": "Evolved Weapon",
+          "cost": "3",
+          "upgrade_or_recipe": "Recipe: Runetracer + Armor",
+          "effect": "Explodes on play and triggers another explosion when hit."
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
       "title": "Vampire Crawlers Dungeon Events",
       "displayType": "card-list",
-      "intro": "Vampire Crawlers dungeon events can swing entire runs, so event reading and risk control should be treated as core strategy.",
+      "intro": "Vampire Crawlers dungeon events are major power swings. Learn which detours are worth the floor time so your run stays stable and scales harder.",
       "entries": [
         {
-          "type": "Risk Read",
-          "title": "Vampire Crawlers Event Room Identification",
-          "description": "Learn event-room cues early so you can decide whether to commit resources before entering high-variance encounters."
+          "type": "Healing",
+          "title": "Healing Spring",
+          "name": "Healing Spring",
+          "location": "Mad Forest · Inlaid Library",
+          "reward": "+40 HP",
+          "cost": "Free",
+          "description": "A restorative pool that heals a large chunk of HP with no downside.",
+          "best_time_to_take": "Any time you are missing health; it is an easy detour."
         },
         {
-          "type": "Reward Route",
-          "title": "Vampire Crawlers Reward Prioritization",
-          "description": "Choose event rewards that strengthen your active build route instead of chasing isolated short-term value."
+          "type": "Risk Reward",
+          "title": "Sealed Treasure Chamber",
+          "name": "Sealed Treasure Chamber",
+          "location": "Mad Forest · Inlaid Library",
+          "reward": "3 Evolution Gems or rare loot",
+          "cost": "~20 HP",
+          "description": "Spend a little life to open a sealed room packed with valuable rewards.",
+          "best_time_to_take": "Take it unless you are below roughly 30% HP and have no healing lined up."
         },
         {
-          "type": "Resource Plan",
-          "title": "Vampire Crawlers Resource Buffering for Events",
-          "description": "Carry enough resources into event-heavy floors to survive bad branches without collapsing your deck plan."
+          "type": "Arcana Spike",
+          "title": "Vampire Portrait Gallery",
+          "name": "Vampire Portrait Gallery",
+          "location": "Inlaid Library",
+          "reward": "Random Arcana",
+          "cost": "Free exploration",
+          "description": "A hidden corridor that grants one of the strongest run upgrades in the game.",
+          "best_time_to_take": "High priority whenever it appears."
         },
         {
-          "type": "Map Control",
-          "title": "Vampire Crawlers Event Routing by Floor Goal",
-          "description": "Adjust event pathing based on whether your immediate target is sustain, evolution completion, or boss prep."
+          "type": "Chain Repair",
+          "title": "Wild Card Fountain",
+          "name": "Wild Card Fountain",
+          "location": "Mad Forest · Inlaid Library",
+          "reward": "+2 Wild Cards",
+          "cost": "Free",
+          "description": "Adds extra Wild Cards to smooth awkward hands and rescue broken Mana Chains.",
+          "best_time_to_take": "Best when you have fewer than three Wild Cards already."
         },
         {
-          "type": "Recovery",
-          "title": "Vampire Crawlers Post-Event Recovery",
-          "description": "After risky events, stabilize with low-variance turns before re-entering high-risk chains."
+          "type": "Economy",
+          "title": "Wandering Blacksmith",
+          "name": "Wandering Blacksmith",
+          "location": "Mad Forest · Inlaid Library",
+          "reward": "Discounted socketing or upgrades",
+          "cost": "Gold (~35g+)",
+          "description": "A cheaper way to add a Gem Socket or improve a key card before the village vendor would.",
+          "best_time_to_take": "Excellent before your first evolution if your base weapon still lacks a socket."
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
       "title": "Vampire Crawlers Steam Deck and Controller Support",
       "displayType": "table",
-      "intro": "Use these Vampire Crawlers Steam Deck and controller support steps to keep input behavior consistent and reduce setup friction.",
+      "intro": "Use this Vampire Crawlers compatibility matrix to confirm handheld status, controller support, cloud features, and current cross-save expectations.",
       "steps": [
         {
-          "title": "Use a Current Proton Build for Vampire Crawlers",
-          "description": "Keep Proton updated so launch stability and rendering behavior remain consistent on Steam Deck hardware."
+          "title": "Steam Deck compatibility",
+          "feature": "Steam Deck compatibility",
+          "status": "Verified",
+          "details": "Steam currently marks Vampire Crawlers as Steam Deck Verified with approved controller layout and legible HUD text."
         },
         {
-          "title": "Set a Dedicated Vampire Crawlers Controller Layout",
-          "description": "Use a clear layout profile that keeps card selection, confirmation, and quick navigation predictable."
+          "title": "Controller support",
+          "feature": "Controller support",
+          "status": "Included",
+          "details": "Controller support is included across launch platforms."
         },
         {
-          "title": "Test Input Mapping Before Long Runs in Vampire Crawlers",
-          "description": "Run a short validation session after layout changes to catch button conflicts early."
+          "title": "Steam Cloud",
+          "feature": "Steam Cloud",
+          "status": "Yes",
+          "details": "Steam Cloud is available for the Steam version."
         },
         {
-          "title": "Tune Performance Profile for Vampire Crawlers Sessions",
-          "description": "Use a stable power and frame target profile so long dungeon runs stay responsive."
+          "title": "Family Sharing",
+          "feature": "Family Sharing",
+          "status": "Yes",
+          "details": "Family Sharing is listed on the Steam store page."
         },
         {
-          "title": "Keep a Keyboard Fallback for Vampire Crawlers Setup",
-          "description": "For advanced menu adjustments, a keyboard fallback can speed up troubleshooting and profile edits."
+          "title": "Cross-save",
+          "feature": "Cross-save",
+          "status": "Not at launch",
+          "details": "Cross-save is not available at launch and is planned for later platform expansion."
+        },
+        {
+          "title": "Launch platforms",
+          "feature": "Launch platforms",
+          "status": "Steam, Nintendo Switch, Xbox, PlayStation",
+          "details": "Launch coverage includes all four storefront ecosystems, with mobile planned for later."
         }
       ]
     }
