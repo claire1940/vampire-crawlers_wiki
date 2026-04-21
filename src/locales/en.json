@@ -10,7 +10,16 @@
       "twitterDescription": "Explore Vampire Crawlers guides, release date updates, platform info, characters, unlocks, and deck-building tips for Steam, PS5, Xbox, and Switch."
     }
   },
-  "nav": {},
+  "nav": {
+    "release": "Release",
+    "platform": "Platform",
+    "demo": "Demo",
+    "guide": "Guide",
+    "cards": "Cards",
+    "builds": "Builds",
+    "stats": "Stats",
+    "media": "Media"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -1266,125 +1275,165 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Vampire Crawlers Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Vampire Crawlers Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Vampire Crawlers guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+    "release": {
+      "title": "Vampire Crawlers Release",
+      "description": "Track Vampire Crawlers launch timing, pricing, announcements, and post-launch update coverage in one place.",
+      "metaTitle": "Vampire Crawlers Release - Date, Price, and Launch News",
+      "metaDescription": "Follow Vampire Crawlers release date updates, launch pricing, announcement timeline, and patch-related news for every major platform.",
+      "categoryLabel": "RELEASE TRACKER",
+      "whatIs": "What is Release?",
+      "whatIsDescription": "Vampire Crawlers Release collects launch-focused articles such as /release/vampire-crawlers-release-date, /release/vampire-crawlers-announcement, and /release/vampire-crawlers-update.",
+      "why": "Why follow release updates?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step1Title": "Track Launch Timing",
+        "step1Description": "Check exact release windows, day-one rollout details, and major date changes.",
+        "step2Title": "Compare Store Pricing",
+        "step2Description": "Review pricing coverage and storefront differences before deciding where to buy.",
+        "step3Title": "Catch New Updates",
+        "step3Description": "Stay aligned with official announcements and update posts as new information lands."
       },
       "featured": "Featured & Essential",
-      "all": "All Guides"
+      "all": "All Release Articles"
     },
-    "crafting": {
-      "title": "Vampire Crawlers Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Vampire Crawlers Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Vampire Crawlers Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+    "platform": {
+      "title": "Vampire Crawlers Platform",
+      "description": "Compare Vampire Crawlers platform availability, storefront status, and subscription options like Game Pass.",
+      "metaTitle": "Vampire Crawlers Platform - Steam, Xbox, PS5, Switch, and More",
+      "metaDescription": "See where Vampire Crawlers is available, including Steam, Xbox, PS5, Switch, and related platform-specific launch details.",
+      "categoryLabel": "PLATFORM ACCESS",
+      "whatIs": "What is Platform?",
+      "whatIsDescription": "Vampire Crawlers Platform covers where to play using articles like /platform/vampire-crawlers-platforms, /platform/vampire-crawlers-steam, and /platform/vampire-crawlers-xbox-game-pass.",
+      "why": "Why compare platforms?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Pick the Best Storefront",
+        "step1Description": "Check feature differences such as cloud saves, ecosystem perks, and store-specific access.",
+        "step2Title": "Plan Subscription Access",
+        "step2Description": "Understand Game Pass and related access paths before paying full price.",
+        "step3Title": "Match Your Device",
+        "step3Description": "Use platform details to decide the best fit for PC, console, or handheld play."
       },
       "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "all": "All Platform Articles"
     },
-    "items": {
-      "title": "Vampire Crawlers Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Vampire Crawlers Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Vampire Crawlers including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+    "demo": {
+      "title": "Vampire Crawlers Demo",
+      "description": "Learn how the Vampire Crawlers demo works, what content it includes, and how progress behavior is handled.",
+      "metaTitle": "Vampire Crawlers Demo - Access, Length, and Carryover",
+      "metaDescription": "Use the Vampire Crawlers demo hub to check access steps, demo length, progression behavior, and differences from the full release.",
+      "categoryLabel": "DEMO HUB",
+      "whatIs": "What is Demo?",
+      "whatIsDescription": "Vampire Crawlers Demo is the pre-launch and trial-focused section with links like /demo/vampire-crawlers-demo, /demo/vampire-crawlers-demo-length, and /demo/vampire-crawlers-demo-carry-over-to-full-game.",
+      "why": "Why use demo coverage?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Test Core Gameplay",
+        "step1Description": "Preview movement, card sequencing, and combat tempo before full commitment.",
+        "step2Title": "Set Expectations",
+        "step2Description": "Understand demo limits, included systems, and progression boundaries ahead of launch.",
+        "step3Title": "Benchmark Performance",
+        "step3Description": "Validate how the game runs on your hardware before choosing your main platform."
       },
       "featured": "Featured & Essential",
-      "all": "All Items"
+      "all": "All Demo Articles"
     },
-    "biomes": {
-      "title": "Vampire Crawlers Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Vampire Crawlers Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Vampire Crawlers biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+    "guide": {
+      "title": "Vampire Crawlers Guide",
+      "description": "Master Vampire Crawlers fundamentals with beginner routes, combat sequencing tips, and mid-run decision-making guides.",
+      "metaTitle": "Vampire Crawlers Guide - Beginner Tips, Rules, and Strategy",
+      "metaDescription": "Read practical Vampire Crawlers guide content for first runs, battle rules, survival tips, and route planning after early clears.",
+      "categoryLabel": "GAMEPLAY GUIDE",
+      "whatIs": "What is Guide?",
+      "whatIsDescription": "Vampire Crawlers Guide is the core strategy category featuring /guide/vampire-crawlers-guide, /guide/vampire-crawlers-rules, and /guide/vampire-crawlers-tips.",
+      "why": "Why read guide articles?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "Improve Early Runs",
+        "step1Description": "Learn opening priorities and avoid common sequencing errors in the first few floors.",
+        "step2Title": "Win More Fights",
+        "step2Description": "Use cleaner turn planning and better route choices to preserve HP and tempo.",
+        "step3Title": "Progress Faster",
+        "step3Description": "Follow practical patterns for post-run upgrades and stronger repeat clears."
       },
       "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "all": "All Guide Articles"
     },
-    "building": {
-      "title": "Vampire Crawlers Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Vampire Crawlers Building - Qualia & Base Construction",
-      "metaDescription": "Master Vampire Crawlers building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
+    "cards": {
+      "title": "Vampire Crawlers Cards",
+      "description": "Explore Vampire Crawlers cards, combo logic, evolution pairings, and the card-list references used in high-consistency decks.",
+      "metaTitle": "Vampire Crawlers Cards - Card List, Combos, and Evolutions",
+      "metaDescription": "Study Vampire Crawlers cards with combo routing, evolution requirements, and card-list references for faster, cleaner runs.",
+      "categoryLabel": "CARD SYSTEM",
+      "whatIs": "What is Cards?",
+      "whatIsDescription": "Vampire Crawlers Cards focuses on deck pieces and combo mechanics, including /cards/vampire-crawlers-card-list, /cards/vampire-crawlers-combos, and /cards/vampire-crawlers-how-combo-works.",
+      "why": "Why study card mechanics?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
+        "step1Title": "Build Better Chains",
+        "step1Description": "Plan card order so each turn reaches stronger multipliers and cleaner finishers.",
+        "step2Title": "Learn Evolutions",
+        "step2Description": "Use recipe and combo references to unlock stronger evolved effects consistently.",
+        "step3Title": "Reduce Dead Draws",
+        "step3Description": "Understand role balance so your deck stays compact, flexible, and reliable."
       },
       "featured": "Featured & Essential",
-      "all": "All Building Guides"
+      "all": "All Cards Articles"
     },
-    "support": {
-      "title": "Vampire Crawlers Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Vampire Crawlers Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Vampire Crawlers including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
+    "builds": {
+      "title": "Vampire Crawlers Builds",
+      "description": "Plan strong Vampire Crawlers builds with character picks, upgrade priorities, and tier-list style decision support.",
+      "metaTitle": "Vampire Crawlers Builds - Best Characters, Upgrades, and Tier Picks",
+      "metaDescription": "Use Vampire Crawlers builds coverage for character priorities, upgrade plans, and tier-list style recommendations across run stages.",
+      "categoryLabel": "BUILD PLANNER",
+      "whatIs": "What is Builds?",
+      "whatIsDescription": "Vampire Crawlers Builds gathers practical setup guides such as /builds/vampire-crawlers-tier-list, /builds/vampire-crawlers-characters, and /builds/vampire-crawlers-upgrades.",
+      "why": "Why use build guides?",
       "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
+        "step1Title": "Choose Better Starters",
+        "step1Description": "Pick character and opening upgrades that stabilize early fights and scale cleanly.",
+        "step2Title": "Target High Value Upgrades",
+        "step2Description": "Prioritize upgrades that improve both consistency and late-run damage output.",
+        "step3Title": "Adapt to Encounters",
+        "step3Description": "Swap build paths quickly when floor rolls or bosses demand different tools."
       },
       "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Builds Articles"
+    },
+    "stats": {
+      "title": "Vampire Crawlers Stats",
+      "description": "Understand Vampire Crawlers stats like Might, Luck, Greed, Area, and Hand to tune damage, economy, and survivability.",
+      "metaTitle": "Vampire Crawlers Stats - Might, Luck, Greed, and More",
+      "metaDescription": "Read Vampire Crawlers stats breakdowns to optimize damage scaling, economy flow, survivability, and card efficiency across every run.",
+      "categoryLabel": "STAT REFERENCE",
+      "whatIs": "What is Stats?",
+      "whatIsDescription": "Vampire Crawlers Stats explains core attributes with focused pages like /stats/vampire-crawlers-stats, /stats/vampire-crawlers-might-stat, and /stats/vampire-crawlers-luck.",
+      "why": "Why track stat interactions?",
+      "whySteps": {
+        "step1Title": "Prioritize Level Ups",
+        "step1Description": "Know which stats deliver the strongest gains at different points in a run.",
+        "step2Title": "Balance Offense and Defense",
+        "step2Description": "Tune survivability and damage so runs remain stable through harder floors.",
+        "step3Title": "Scale Resource Economy",
+        "step3Description": "Use Greed and related stats to fund stronger upgrades between attempts."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Stats Articles"
+    },
+    "media": {
+      "title": "Vampire Crawlers Media",
+      "description": "Follow Vampire Crawlers media coverage across reviews, trailers, key art, voice-actor references, and community discussion snapshots.",
+      "metaTitle": "Vampire Crawlers Media - Reviews, Trailers, and Community Coverage",
+      "metaDescription": "Browse Vampire Crawlers media updates including review roundups, trailer coverage, visual assets, and key community reference links.",
+      "categoryLabel": "MEDIA DESK",
+      "whatIs": "What is Media?",
+      "whatIsDescription": "Vampire Crawlers Media collects external coverage and assets through pages like /media/vampire-crawlers-review, /media/vampire-crawlers-key-art, and /media/vampire-crawlers-voice-actors.",
+      "why": "Why follow media updates?",
+      "whySteps": {
+        "step1Title": "Track Coverage Momentum",
+        "step1Description": "Monitor how reviews and commentary evolve as the game receives updates.",
+        "step2Title": "Watch Official Trailers",
+        "step2Description": "Use trailer and showcase pages to review mechanics before changing builds.",
+        "step3Title": "Collect Visual References",
+        "step3Description": "Keep logo and key-art references handy for wiki pages and community sharing."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Media Articles"
     }
   }
 }
