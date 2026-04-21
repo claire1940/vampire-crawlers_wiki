@@ -82,22 +82,22 @@
       {
         "icon": "Star",
         "title": "Vampire Crawlers Review",
-        "description": "Critic consensus and key strengths"
+        "description": "Launch critic roundup with praise and concerns"
       },
       {
         "icon": "BookOpen",
         "title": "Vampire Crawlers Beginner Guide",
-        "description": "First-run priorities and stable early routing"
+        "description": "Step-by-step first-run priorities and tips"
       },
       {
         "icon": "Sparkles",
         "title": "Vampire Crawlers TurboTurn Guide",
-        "description": "Mana order, combo sequencing, and turn efficiency"
+        "description": "TurboTurn sequencing, Wild usage, and finishers"
       },
       {
         "icon": "Hammer",
         "title": "Vampire Crawlers Evolution Recipes",
-        "description": "Recipe planning and reliable trigger paths"
+        "description": "Confirmed weapon evolution pairs and trigger rules"
       },
       {
         "icon": "TrendingUp",
@@ -276,134 +276,298 @@
       ]
     },
     "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Vampire Crawlers Review",
+      "title": "Vampire Crawlers Review Roundup",
+      "subtitle": "Critics like the combo engine and Vampire Survivors flavor, but they split on long-run deck depth.",
       "displayType": "card-list",
-      "intro": "Vampire Crawlers review intent is strongest around launch, so this module summarizes the most repeated strengths players and critics care about first.",
+      "intro": "The launch review picture is mixed but active. GameSpot is strongly positive, The Verge is highly enthusiastic about the genre shift, and PC Gamer is much colder on early combat variety.",
       "cards": [
         {
-          "name": "Vampire Crawlers Combat Identity",
-          "description": "The turn-based deck-combo combat loop is the most cited standout and defines how each run feels distinct."
+          "name": "GameSpot",
+          "headline": "GameSpot Review",
+          "verdict": "8/10 - Great",
+          "summary": "GameSpot says Vampire Crawlers carries the tone, characters, items, and retro identity of Vampire Survivors into a first-person crawler with turn-based card battles remarkably well.",
+          "praise": [
+            "Deckbuilding and combo multipliers feel immensely satisfying",
+            "Strategy matters without becoming punishing for casual players",
+            "The endgame can become a joyful overpowered sandbox"
+          ],
+          "criticisms": [
+            "Card offers still introduce some run-to-run randomness",
+            "Route-planning tension matters most early before upgrades smooth things out"
+          ]
         },
         {
-          "name": "Vampire Crawlers Run Variety",
-          "description": "Character abilities, arcana choices, and event routing produce different build paths across repeated runs."
+          "name": "PC Gamer",
+          "headline": "PC Gamer Review",
+          "verdict": "50/100",
+          "summary": "PC Gamer likes the attempt to make a deckbuilder feel like Vampire Survivors, but says too many early turns collapse into obvious mana sequencing before the game opens up enough.",
+          "praise": [
+            "The level-up dopamine loop still lands",
+            "There are flashes of fun once stronger builds start to appear",
+            "The spin-off keeps recognizable Vampire Survivors rhythms"
+          ],
+          "criticisms": [
+            "Early combat decisions can feel too solved",
+            "The crawl can feel repetitive and grindy for hours",
+            "Other deckbuilders offer sharper tactical variety"
+          ]
         },
         {
-          "name": "Vampire Crawlers Best-Fit Audience",
-          "description": "Players who enjoy roguelite routing and card sequencing generally find the strongest value in this spin-off."
-        },
-        {
-          "name": "Vampire Crawlers Launch Snapshot",
-          "description": "At launch, most impressions focus on deck synergy clarity, pacing, and replay potential across platform options."
+          "name": "The Verge",
+          "headline": "The Verge Feature",
+          "verdict": "Positive",
+          "summary": "The Verge argues that Vampire Crawlers successfully translates the original game's absurd build-crafting energy into dungeon maps and turn-based duels, with strong one-more-run momentum.",
+          "praise": [
+            "Ascending mana chains are easy to read and satisfying to execute",
+            "Map visibility makes route-planning practical",
+            "Permanent progression and character unlocks keep runs moving"
+          ],
+          "criticisms": [
+            "Dungeon exploration stays fairly simple",
+            "Long-term freshness remains the real post-launch test"
+          ]
         }
       ],
       "highlights": [
-        "Vampire Crawlers rewards combo planning.",
-        "Vampire Crawlers has strong replay loops.",
-        "Vampire Crawlers benefits from route knowledge.",
-        "Vampire Crawlers launch value is easy to evaluate at $9.99."
+        "Vampire Crawlers review consensus: mixed but lively",
+        "Vampire Crawlers strongest praise: combo flow and build crafting",
+        "Vampire Crawlers main concern: early-turn repetition for some players",
+        "Vampire Crawlers launch value remains easy to benchmark at $9.99"
       ]
     },
     "lucidBlocksWorldRegions": {
-      "title": "Vampire Crawlers Beginner Guide",
+      "title": "Vampire Crawlers Beginner Guide: How to Start Strong",
+      "subtitle": "Your first strong runs usually come from clean Mana Chains, a small deck, and one fast evolution.",
       "displayType": "step-by-step",
-      "intro": "This Vampire Crawlers beginner guide focuses on stable early routing, efficient upgrades, and avoiding common first-run losses.",
+      "intro": "The opening hours are more structured than they first look. Learn the 0-to-3 rhythm, buy high-value village upgrades, and rush a simple first evolution instead of bloating your deck with every flashy pickup.",
       "regions": [
         {
-          "name": "Vampire Crawlers First Run Priorities",
-          "type": "Opening Route",
-          "description": "Focus on survivable card chains and avoid overcommitting to rare synergies before your engine is stable."
+          "step": 1,
+          "name": "Play for 0 -> 1 -> 2 -> 3 first",
+          "description": "Your first skill check is strict ascending cost order. Even average cards become strong when they extend a Mana Chain, so early success is more about sequencing than rarity.",
+          "tips": [
+            "Treat 3-cost cards as finishers, not openers",
+            "Use Wild Cards to patch missing costs",
+            "Do not break a clean chain for a low-value side play"
+          ]
         },
         {
-          "name": "Vampire Crawlers Village Upgrade Order",
-          "type": "Progression",
-          "description": "Prioritize upgrades that improve consistency first, then branch into specialized scaling options."
+          "step": 2,
+          "name": "Spend village gold on always-on power",
+          "description": "Between runs, permanent power-ups matter more than one lucky draft. Max HP and damage upgrades pay off on every character, and cheap survivability upgrades make early evolutions safer.",
+          "tips": [
+            "Buy broad survivability early",
+            "Take universal damage before niche upgrades",
+            "Use failed runs to build account power, not to fish for perfect hands"
+          ]
         },
         {
-          "name": "Vampire Crawlers Card Sequencing Basics",
-          "type": "Combat Loop",
-          "description": "Plan each turn around mana order and preserve combo extension tools for high-impact windows."
+          "step": 3,
+          "name": "Keep your deck small and chainable",
+          "description": "A 12-14 card deck is the standard target for most Crawlers because it shows chain pieces more often. Build around one reliable opener, 1/2-cost bridges, one 3-cost finisher, and 2-3 Wild Cards.",
+          "tips": [
+            "Small decks see their best cards more often",
+            "Too many Wild Cards dilute damage draws",
+            "Remove dead cards that do not support chain or evolution plans"
+          ]
         },
         {
-          "name": "Vampire Crawlers Resource Discipline",
-          "type": "Stability",
-          "description": "Keep your deck lean and protect key evolution paths instead of chasing every shiny pickup."
+          "step": 4,
+          "name": "Explore the whole floor before moving on",
+          "description": "Walk the map, bump into chests for rewards, grab Chickens for free healing, and scout for Gem Stations. Full floor visibility makes evolution decisions safer.",
+          "tips": [
+            "Open chests by walking directly into them",
+            "Save the Shovel until you have seen the floor",
+            "Watch for Gem Stations once you hold a recipe pair"
+          ]
+        },
+        {
+          "step": 5,
+          "name": "Rush a simple first evolution",
+          "description": "Antonio is the cleanest starter because Bloody Tear is a straightforward first spike. Pair Whip with Hollow Heart, keep the weapon Gem Socket empty, and evolve as soon as the pair is online.",
+          "tips": [
+            "Do not use Hollow Heart marked Destroyed after use",
+            "The base weapon must keep an empty Gem Socket",
+            "Bloody Tear gives broad damage plus lifesteal"
+          ]
+        },
+        {
+          "step": 6,
+          "name": "Pick the right first character plan",
+          "description": "Antonio is easiest for first clears, while Imelda scales harder once you understand draw and XP loops. Antonio teaches clean chains; Imelda teaches controlled stalling and timing-heavy draw engines.",
+          "tips": [
+            "Start with Antonio for first clears",
+            "Move to Imelda when you want faster scaling",
+            "Do not evolve Attractorb too early on Imelda"
+          ]
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
-      "title": "Vampire Crawlers TurboTurn Guide",
+      "title": "Vampire Crawlers TurboTurn and Mana Chain Guide",
+      "subtitle": "TurboTurn rewards speed, but real damage comes from sequencing your hand correctly.",
       "displayType": "step-by-step",
-      "intro": "Vampire Crawlers TurboTurn performance depends on sequence quality. These principles help you chain cards efficiently without wasting scaling windows.",
+      "intro": "TurboTurn is the signature system that makes the game feel faster than a typical deckbuilder. You can play quickly or slowly, but the strongest turns still come from clean mana order, smart gap repair, and deliberate cash-out cards.",
       "creatures": [
         {
-          "name": "Vampire Crawlers Mana Order Planning",
-          "role": "Core Rule",
-          "description": "Read the turn in mana order first so you can reserve premium cards for your highest-value chain segment."
+          "step": 1,
+          "name": "Read the multiplier ladder",
+          "description": "When costs rise cleanly, each next card gets stronger: after 0-cost comes x2, after 1-cost comes x3, after 2-cost comes x4, and a 3-cost finisher cashes out at x5.",
+          "tips": [
+            "A full 0->1->2->3 sequence can produce a x120 finisher",
+            "Treat each card as setup for the next, not as a standalone play"
+          ]
         },
         {
-          "name": "Vampire Crawlers Wild Card Timing",
-          "role": "Combo Lever",
-          "description": "Use Wild Cards to bridge dead hands and preserve momentum, not as automatic turn-openers."
+          "step": 2,
+          "name": "Build turns around a real sequence",
+          "description": "An official-style pattern is 0 Spellbinder -> 1 Knife -> 2 Fire Wand -> 3 Holy Wand. The final card receives the full stacked bonus, so cheap setup cards are often more important than flashy openers.",
+          "tips": [
+            "Do not lead with your best 3-cost card",
+            "Protect sequence integrity before chasing payout"
+          ]
         },
         {
-          "name": "Vampire Crawlers Gem and Arcana Sync",
-          "role": "Scaling",
-          "description": "Coordinate Gem gains with Arcana spikes to convert medium turns into decisive power swings."
+          "step": 3,
+          "name": "Use Wild Cards to fix broken hands",
+          "description": "Wild Cards preserve ascending order when you are missing a specific cost. They do not add a multiplier themselves, but they keep your chain from collapsing.",
+          "tips": [
+            "Play a Wild between 0 and 2 when you are missing 1",
+            "More than three Wilds usually dilutes damage draws"
+          ]
         },
         {
-          "name": "Vampire Crawlers Turn Extension Discipline",
-          "role": "Efficiency",
-          "description": "Extend turns only when the extension converts into damage, sustain, or setup that changes next-turn odds."
+          "step": 4,
+          "name": "Spend multipliers where they matter most",
+          "description": "Attack cards love bonus scaling, but setup cards can also be premium targets. A chained buff can stabilize a run before a high-value 3-cost closer cashes out the turn.",
+          "tips": [
+            "Buff first when it improves survival or scaling",
+            "Use your strongest 3-cost card as the final cash-out"
+          ]
         },
         {
-          "name": "Vampire Crawlers Common Combo Breakers",
-          "role": "Common Mistake",
-          "description": "Overdrawing, poor sequencing, and early finisher commits are the most frequent reasons strong chains collapse."
+          "step": 5,
+          "name": "Tune the deck for consistency",
+          "description": "TurboTurn becomes reliable when your deck is compact and curved. Most stable lists keep one opener, several 1/2-cost bridges, one premium closer, and enough quality to cut dead draws.",
+          "tips": [
+            "A 12-14 card deck remains the standard target",
+            "Remove cards that do not support chain or evolution plans"
+          ]
+        },
+        {
+          "step": 6,
+          "name": "Avoid the common chain killers",
+          "description": "Most failed turns come from sequencing mistakes, not pure luck. Common traps are opening expensive, overstuffing filler, or spending your last Wild too early.",
+          "tips": [
+            "Do not burn a 3-cost card just because it is in hand",
+            "Save repair tools for the missing chain link",
+            "Keep at least one line to your finisher alive each turn"
+          ]
         }
       ]
     },
     "lucidBlocksMobilityGear": {
       "title": "Vampire Crawlers Evolution Recipes",
+      "subtitle": "Every confirmed recipe pairs one base weapon with one item, then upgrades at a Gem Station.",
       "displayType": "table",
-      "intro": "Vampire Crawlers evolution routing is strongest when you plan base-card pairs early and protect catalysts throughout the run.",
+      "intro": "Evolution is the cleanest way to spike a run. Keep the base weapon Gem Socket empty, hold the matching item at the same time, and evolve at a Gem Station. Items marked Destroyed after use do not count as recipe ingredients.",
       "items": [
         {
-          "name": "Vampire Crawlers Base + Catalyst Tracking",
-          "type": "Recipe Rule",
-          "description": "Track each confirmed base-and-catalyst pair so recipe decisions stay deliberate under pressure."
+          "name": "Whip + Hollow Heart",
+          "baseCard": "Whip",
+          "itemCard": "Hollow Heart",
+          "evolvedCard": "Bloody Tear",
+          "mana": 2,
+          "bestFor": "Safe early sustain",
+          "effect": "Heavy wide-arc slash with lifesteal equal to 15% of damage dealt.",
+          "notes": "A reliable first evolution for Antonio."
         },
         {
-          "name": "Vampire Crawlers Early Reliable Evolutions",
-          "type": "Early Route",
-          "description": "Build around one dependable evolution first before stretching into high-variance options."
+          "name": "Knife + Bracer",
+          "baseCard": "Knife",
+          "itemCard": "Bracer",
+          "evolvedCard": "Thousand Edge",
+          "mana": 1,
+          "bestFor": "Fast single-target pressure",
+          "effect": "Dense barrage of 8 blades at the nearest enemy.",
+          "notes": "Excellent low-cost damage inside short chains."
         },
         {
-          "name": "Vampire Crawlers Character Synergy Recipes",
-          "type": "Synergy",
-          "description": "Favor evolution routes that align naturally with your selected character passive profile."
+          "name": "Magic Wand + Empty Tome",
+          "baseCard": "Magic Wand",
+          "itemCard": "Empty Tome",
+          "evolvedCard": "Holy Wand",
+          "mana": 2,
+          "bestFor": "Mid-run burst and clean targeting",
+          "effect": "4 holy bolts seek different targets with high base damage.",
+          "notes": "A major power spike for Imelda once chain flow is online."
         },
         {
-          "name": "Vampire Crawlers Component Protection",
-          "type": "Deck Safety",
-          "description": "Avoid selling or replacing key recipe pieces until your main evolution has already come online."
+          "name": "Axe + Candella",
+          "baseCard": "Axe",
+          "itemCard": "Candella",
+          "evolvedCard": "Death Spiral",
+          "mana": 2,
+          "bestFor": "Sweeping two-hit coverage",
+          "effect": "A spinning spectral axe orbits out and back, hitting enemies twice.",
+          "notes": "Strong generalist choice for broad lane control."
         },
         {
-          "name": "Vampire Crawlers Event-Aware Recipe Pivots",
-          "type": "Map Adaptation",
-          "description": "Use dungeon event outcomes to pivot recipes when the original route becomes resource-inefficient."
+          "name": "King Bible + Spellbinder",
+          "baseCard": "King Bible",
+          "itemCard": "Spellbinder",
+          "evolvedCard": "Unholy Vespers",
+          "mana": 3,
+          "bestFor": "Chain-ending payoff",
+          "effect": "3 orbiting dark tomes deal contact damage.",
+          "notes": "A premium 3-cost finisher for full Mana Chain cash-outs."
         },
         {
-          "name": "Vampire Crawlers Recovery After Missed Triggers",
-          "type": "Recovery",
-          "description": "If a trigger window is missed, shift to secondary recipes that reuse your current deck core."
+          "name": "Fire Wand + Spinach",
+          "baseCard": "Fire Wand",
+          "itemCard": "Spinach",
+          "evolvedCard": "Hellfire",
+          "mana": 3,
+          "bestFor": "Explosive area damage",
+          "effect": "3 massive fireballs leave burning pools for 3 turns.",
+          "notes": "Arca favorite because Fire Wand starts at 0 mana."
+        },
+        {
+          "name": "Garlic + Pummarola",
+          "baseCard": "Garlic",
+          "itemCard": "Pummarola",
+          "evolvedCard": "Soul Eater",
+          "mana": 2,
+          "bestFor": "Snowball scaling",
+          "effect": "Soul-stealing aura gains +2% damage for each defeated enemy soul.",
+          "notes": "Scales quickly in high-density fights."
+        },
+        {
+          "name": "Santa Water + Attractorb",
+          "baseCard": "Santa Water",
+          "itemCard": "Attractorb",
+          "evolvedCard": "La Borra",
+          "mana": 2,
+          "bestFor": "Pull control and burn pressure",
+          "effect": "Holy-water vortex drags enemies inward and burns them each turn.",
+          "notes": "Powerful, but evolving Attractorb removes a strong draw tool."
+        },
+        {
+          "name": "Runetracer + Armor",
+          "baseCard": "Runetracer",
+          "itemCard": "Armor",
+          "evolvedCard": "NO FUTURE",
+          "mana": 3,
+          "bestFor": "Group fights and boss rooms with adds",
+          "effect": "Piercing runestone can bounce up to 7 times for full damage.",
+          "notes": "One of the strongest crowd-control finishers in the current pool."
         }
       ],
       "unlockMilestones": [
-        "Record each confirmed Vampire Crawlers evolution pair.",
-        "Secure one stable early damage evolution path.",
-        "Use Arcana and Gems to accelerate key recipes.",
-        "Pivot recipe plans when dungeon events alter resources."
+        "Keep base-weapon Gem Sockets empty before evolving.",
+        "Do not consume recipe items marked Destroyed after use.",
+        "Use Gem Stations only after both matching pieces are online.",
+        "Prioritize one stable first evolution before branching into greed routes."
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
