@@ -90,16 +90,16 @@ export default function TermsOfService() {
               and resources related to the Steam game "Vampire Crawlers". Our services include, but are not limited to:
             </p>
             <ul>
-              <li>Game guides and survival strategies</li>
-              <li>Crafting and Apotheosis fusion guides</li>
-              <li>Biome and world region information</li>
-              <li>Creature and enemy guides</li>
-              <li>Achievement walkthroughs</li>
-              <li>Community discussion and content</li>
+              <li>Release-date and launch timeline references</li>
+              <li>Platform availability and storefront coverage</li>
+              <li>Demo behavior, progression carryover, and onboarding guides</li>
+              <li>Card, evolution, and build-planning references</li>
+              <li>Stats, event, and troubleshooting documentation</li>
+              <li>Community reference links and update tracking</li>
             </ul>
             <p>
               <strong>Important:</strong> Vampire Crawlers Wiki is NOT affiliated with, endorsed by, or associated with
-              Valve Corporation (Steam) or the official developers of Vampire Crawlers. We are an independent fan community.
+              poncle, Steam, or other official platform operators. We are an independent fan community.
             </p>
 
             <h2>3. User Responsibilities</h2>
@@ -137,7 +137,7 @@ export default function TermsOfService() {
             <h3>4.2 Game Content</h3>
             <p>
               All game-related content, including but not limited to character images, game screenshots, logos, and
-              trademarks, are the property of Valve Corporation (Steam) and/or the developers of Vampire Crawlers. We use such
+              trademarks, are the property of their respective owners, including game developers and platform providers. We use such
               content under fair use principles for informational and educational purposes only.
             </p>
 
@@ -165,7 +165,7 @@ export default function TermsOfService() {
 
             <h2>6. Limitation of Liability</h2>
             <p>
-              TO THE FULLEST EXTENT PERMITTED BY LAW, LUCID BLOCKS WIKI SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+              TO THE FULLEST EXTENT PERMITTED BY LAW, VAMPIRE CRAWLERS WIKI SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
               SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY
               OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM:
             </p>

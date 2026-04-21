@@ -13,8 +13,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const path = '/about'
 
   return {
-    title: 'About Vampire Crawlers Wiki - Your Ultimate Steam Game Resource',
-    description: 'Learn about Vampire Crawlers Wiki, a community-driven resource hub providing comprehensive guides, crafting tips, creature info, and strategies for the Vampire Crawlers Steam game.',
+    title: 'About Vampire Crawlers Wiki - Community Resource Hub',
+    description:
+      'Learn how Vampire Crawlers Wiki is built, what content we maintain, and how we keep guides, platform updates, and strategy references current for players.',
     robots: {
       index: false,
       follow: true,
@@ -28,11 +29,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     openGraph: {
       type: 'website',
-      locale: locale,
+      locale,
       url: locale === 'en' ? `${siteUrl}${path}` : `${siteUrl}/${locale}${path}`,
       siteName: 'Vampire Crawlers Wiki',
       title: 'About Vampire Crawlers Wiki',
-      description: 'Learn about our mission to provide the best Vampire Crawlers game resources and guides.',
+      description:
+        'Understand the editorial scope, data standards, and community process behind Vampire Crawlers Wiki.',
       images: [
         {
           url: `${siteUrl}/og-image.jpg`,
@@ -45,7 +47,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     twitter: {
       card: 'summary_large_image',
       title: 'About Vampire Crawlers Wiki',
-      description: 'Learn about our mission to provide the best Vampire Crawlers game resources.',
+      description:
+        'Understand the editorial scope, data standards, and community process behind Vampire Crawlers Wiki.',
       images: [`${siteUrl}/og-image.jpg`],
     },
     alternates: buildLanguageAlternates(path, locale as Locale, siteUrl),
@@ -55,222 +58,131 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default function About() {
   return (
     <div className="min-h-screen bg-background">
-      {/* Hero Section */}
       <section className="relative py-20 px-4 border-b border-border">
         <div className="container mx-auto max-w-4xl text-center">
-          <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
-            About Vampire Crawlers Wiki
-          </h1>
+          <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">About Vampire Crawlers Wiki</h1>
           <p className="text-slate-300 text-lg mb-2">
-            Your community-driven resource center for Vampire Crawlers
+            A fan-maintained strategy and reference hub for Vampire Crawlers players.
           </p>
         </div>
       </section>
 
-      {/* Mission Section */}
       <section className="py-12 px-4">
         <div className="container mx-auto max-w-4xl">
           <div className="prose prose-invert prose-slate max-w-none">
-            <h2>Welcome to Vampire Crawlers Wiki</h2>
+            <h2>Who We Are</h2>
             <p>
-              Vampire Crawlers Wiki is an <strong>unofficial, fan-made resource website</strong> dedicated to helping players
-              master the Steam game "Vampire Crawlers". We are a community-driven platform that provides comprehensive guides,
-              crafting tips, biome information, creature details, and strategic insights to enhance your gaming experience.
+              Vampire Crawlers Wiki is an unofficial, community-run project focused on accurate and practical coverage for
+              the game. Our goal is to make key information easy to find, from release timing and platform access to card
+              interactions and run planning.
             </p>
             <p>
-              Whether you're a new player just starting your survival journey or a seasoned veteran looking to optimize your strategies,
-              Vampire Crawlers Wiki is here to support you every step of the way.
+              We treat this site as a living reference. Content is revised whenever official updates, balance changes, or
+              verified community findings materially affect gameplay decisions.
             </p>
           </div>
         </div>
       </section>
 
-      {/* Mission & Vision */}
       <section className="py-12 px-4 bg-slate-900/30">
         <div className="container mx-auto max-w-4xl">
           <div className="prose prose-invert prose-slate max-w-none">
-            <h2>Our Mission</h2>
-            <p>
-              Our mission is simple: <strong>to empower Vampire Crawlers players with accurate, up-to-date information
-              and powerful tools</strong> that help them succeed in the game. We strive to:
-            </p>
+            <h2>What We Maintain</h2>
             <ul>
-              <li><strong>Provide reliable information:</strong> Keep our content updated with the latest game changes, new items, and balance updates</li>
-              <li><strong>Build useful tools:</strong> Develop guides, crafting calculators, and planners that help players make informed decisions</li>
-              <li><strong>Foster community:</strong> Create a welcoming space where players can learn, share strategies, and grow together</li>
-              <li><strong>Stay accessible:</strong> Keep all resources free and easy to use for players of all skill levels</li>
+              <li>
+                <strong>Release and platform tracking:</strong> launch timeline, storefront availability, and Game Pass
+                status updates.
+              </li>
+              <li>
+                <strong>Deck and evolution references:</strong> card lists, evolution pairs, and chain-oriented build notes.
+              </li>
+              <li>
+                <strong>Run strategy guides:</strong> beginner routes, progression priorities, and encounter decision support.
+              </li>
+              <li>
+                <strong>Media and review snapshots:</strong> key trailers, review context, and community signal monitoring.
+              </li>
+              <li>
+                <strong>Support coverage:</strong> Steam Deck/controller compatibility and common troubleshooting points.
+              </li>
             </ul>
-
-            <h2>Our Vision</h2>
-            <p>
-              We envision Vampire Crawlers Wiki as the <strong>go-to destination</strong> for every Vampire Crawlers player seeking
-              to improve their gameplay. We want to be the resource that players trust and rely on, whether they need
-              crafting guides, want to explore new biomes, or are looking for advanced survival tactics.
-            </p>
           </div>
         </div>
       </section>
 
-      {/* What We Offer */}
-      <section className="py-12 px-4">
-        <div className="container mx-auto max-w-4xl">
-          <h2 className="text-3xl font-bold text-white mb-8 text-center">What We Offer</h2>
-          <div className="grid md:grid-cols-2 gap-6">
-            {/* Feature Card 1 */}
-            <div className="p-6 rounded-xl bg-slate-900/50 border border-slate-800">
-              <div className="text-2xl mb-3">🔨</div>
-              <h3 className="text-xl font-semibold text-white mb-2">Crafting Guides</h3>
-              <p className="text-slate-300">
-                Comprehensive crafting recipes and Apotheosis fusion guides to help you create powerful items.
-                Master the art of item synthesis!
-              </p>
-            </div>
-
-            {/* Feature Card 2 */}
-            <div className="p-6 rounded-xl bg-slate-900/50 border border-slate-800">
-              <div className="text-2xl mb-3">🌍</div>
-              <h3 className="text-xl font-semibold text-white mb-2">Biome Information</h3>
-              <p className="text-slate-300">
-                Detailed guides on all biomes, their unique features, resources, and dangers.
-                Explore every corner of the surreal world safely.
-              </p>
-            </div>
-
-            {/* Feature Card 3 */}
-            <div className="p-6 rounded-xl bg-slate-900/50 border border-slate-800">
-              <div className="text-2xl mb-3">🦋</div>
-              <h3 className="text-xl font-semibold text-white mb-2">Creature Database</h3>
-              <p className="text-slate-300">
-                Complete information on all creatures, their behaviors, drops, and how to deal with them.
-                Know your friends from your foes.
-              </p>
-            </div>
-
-            {/* Feature Card 4 */}
-            <div className="p-6 rounded-xl bg-slate-900/50 border border-slate-800">
-              <div className="text-2xl mb-3">🎯</div>
-              <h3 className="text-xl font-semibold text-white mb-2">Achievement Guides</h3>
-              <p className="text-slate-300">
-                Step-by-step guides to unlock all 19 achievements in the game.
-                Complete your collection with our detailed walkthroughs.
-              </p>
-            </div>
-
-            {/* Feature Card 5 */}
-            <div className="p-6 rounded-xl bg-slate-900/50 border border-slate-800">
-              <div className="text-2xl mb-3">📚</div>
-              <h3 className="text-xl font-semibold text-white mb-2">Survival Strategies</h3>
-              <p className="text-slate-300">
-                Essential survival tips, building strategies, and exploration guides.
-                Learn how to thrive in the surreal sandbox world.
-              </p>
-            </div>
-
-            {/* Feature Card 6 */}
-            <div className="p-6 rounded-xl bg-slate-900/50 border border-slate-800">
-              <div className="text-2xl mb-3">🌍</div>
-              <h3 className="text-xl font-semibold text-white mb-2">Multilingual Support</h3>
-              <p className="text-slate-300">
-                Content available in multiple languages including English, Russian, Portuguese,
-                German, Spanish, Japanese, Korean, and French.
-              </p>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Community Section */}
-      <section className="py-12 px-4 bg-slate-900/30">
-        <div className="container mx-auto max-w-4xl">
-          <div className="prose prose-invert prose-slate max-w-none">
-            <h2>Community-Driven</h2>
-            <p>
-              Vampire Crawlers Wiki is built <strong>by the community, for the community</strong>. We welcome contributions,
-              feedback, and suggestions from players of all skill levels. Our content is constantly evolving based on:
-            </p>
-            <ul>
-              <li><strong>Player feedback:</strong> Your suggestions help us improve and expand our resources</li>
-              <li><strong>Community discoveries:</strong> New strategies, hidden mechanics, and pro tips shared by players</li>
-              <li><strong>Game updates:</strong> We monitor official updates and adjust our content accordingly</li>
-              <li><strong>Meta shifts:</strong> We track gameplay trends and update guides based on real player experiences</li>
-            </ul>
-            <p>
-              <strong>Want to contribute?</strong> Whether you've discovered a new crafting recipe, found a hidden biome,
-              or have suggestions for new guides, we'd love to hear from you! Reach out through our contact channels below.
-            </p>
-          </div>
-        </div>
-      </section>
-
-      {/* Team Section */}
       <section className="py-12 px-4">
         <div className="container mx-auto max-w-4xl">
           <div className="prose prose-invert prose-slate max-w-none">
-            <h2>About the Team</h2>
-            <p>
-              Vampire Crawlers Wiki is maintained by a dedicated team of passionate gamers and developers who love
-              Vampire Crawlers as much as you do. We're players first, constantly testing strategies, exploring game
-              mechanics, and staying updated with the latest discoveries.
-            </p>
-            <p>
-              Our team combines expertise in:
-            </p>
+            <h2>Editorial Principles</h2>
             <ul>
-              <li><strong>Game analysis:</strong> Deep understanding of Vampire Crawlers mechanics and strategies</li>
-              <li><strong>Web development:</strong> Building fast, user-friendly tools and interfaces</li>
-              <li><strong>Content creation:</strong> Writing clear, helpful guides and tutorials</li>
-              <li><strong>Community management:</strong> Listening to player feedback and fostering a positive environment</li>
+              <li>
+                <strong>Accuracy first:</strong> We prioritize primary sources and clearly label uncertain or unverified
+                claims.
+              </li>
+              <li>
+                <strong>Actionable writing:</strong> We optimize for decisions players need to make during real runs.
+              </li>
+              <li>
+                <strong>Consistent updates:</strong> We refresh pages when release, platform, or gameplay details change.
+              </li>
+              <li>
+                <strong>Transparent scope:</strong> We focus on Vampire Crawlers and avoid unrelated franchise speculation.
+              </li>
             </ul>
-            <p className="text-slate-400 italic text-sm">
-              Project Codename: "Dreamscape" – Navigating the surreal together.
+          </div>
+        </div>
+      </section>
+
+      <section className="py-12 px-4 bg-slate-900/30">
+        <div className="container mx-auto max-w-4xl">
+          <div className="prose prose-invert prose-slate max-w-none">
+            <h2>Language Coverage</h2>
+            <p>
+              The public site currently supports English, Russian, Spanish, and Portuguese. We keep these locales aligned
+              to the same content structure to reduce missing sections and translation drift.
             </p>
           </div>
         </div>
       </section>
 
-      {/* Disclaimer */}
-      <section className="py-12 px-4 bg-slate-900/30">
+      <section className="py-12 px-4">
         <div className="container mx-auto max-w-4xl">
           <div className="prose prose-invert prose-slate max-w-none">
-            <h2>Important Disclaimer</h2>
+            <h2>Legal and Affiliation Notice</h2>
             <p className="text-yellow-400/90">
-              <strong>Vampire Crawlers Wiki is an unofficial fan-made website.</strong> We are NOT affiliated with,
-              endorsed by, or associated with the developers of Vampire Crawlers or any official entities.
+              <strong>Vampire Crawlers Wiki is an unofficial fan-made website.</strong> We are not affiliated with,
+              endorsed by, or operated by poncle or platform owners.
             </p>
             <p>
-              All game content, trademarks, characters, and assets are the property of their respective owners.
-              We use game-related content under fair use principles for informational and educational purposes only.
-            </p>
-            <p>
-              Vampire Crawlers Wiki is a non-profit, community resource created by fans, for fans.
+              Trademarks, game assets, logos, and related intellectual property belong to their respective owners. This
+              site exists for informational and educational community use.
             </p>
           </div>
         </div>
       </section>
 
-      {/* Contact Section */}
       <section className="py-12 px-4">
         <div className="container mx-auto max-w-4xl">
           <div className="prose prose-invert prose-slate max-w-none">
-            <h2>Get in Touch</h2>
+            <h2>Contact</h2>
             <p>
-              We'd love to hear from you! Whether you have questions, suggestions, found a bug, or just want to say hi:
+              For corrections, source updates, or partnership inquiries, contact us through the addresses below:
             </p>
             <div className="not-prose grid md:grid-cols-2 gap-4 my-6">
               <div className="p-4 rounded-lg bg-slate-900/50 border border-slate-800">
-                <h3 className="text-lg font-semibold text-white mb-2">General Inquiries</h3>
+                <h3 className="text-lg font-semibold text-white mb-2">General</h3>
                 <a href="mailto:contact@vampire-crawlers.wiki" className="text-[hsl(var(--nav-theme-light))] hover:underline">
                   contact@vampire-crawlers.wiki
                 </a>
               </div>
               <div className="p-4 rounded-lg bg-slate-900/50 border border-slate-800">
-                <h3 className="text-lg font-semibold text-white mb-2">Bug Reports</h3>
+                <h3 className="text-lg font-semibold text-white mb-2">Content Corrections</h3>
                 <a href="mailto:support@vampire-crawlers.wiki" className="text-[hsl(var(--nav-theme-light))] hover:underline">
                   support@vampire-crawlers.wiki
                 </a>
               </div>
               <div className="p-4 rounded-lg bg-slate-900/50 border border-slate-800">
-                <h3 className="text-lg font-semibold text-white mb-2">Content Submissions</h3>
+                <h3 className="text-lg font-semibold text-white mb-2">Contributions</h3>
                 <a href="mailto:contribute@vampire-crawlers.wiki" className="text-[hsl(var(--nav-theme-light))] hover:underline">
                   contribute@vampire-crawlers.wiki
                 </a>
@@ -283,30 +195,28 @@ export default function About() {
               </div>
             </div>
             <p className="text-slate-400 text-sm">
-              <strong>Response Time:</strong> We aim to respond to all inquiries within 2-3 business days.
+              We aim to respond within 2-3 business days.
             </p>
           </div>
         </div>
       </section>
 
-      {/* CTA Section */}
-      <section className="py-12 px-4 bg-gradient-to-r from-purple-900/30 to-blue-900/30 border-y border-border">
+      <section className="py-12 px-4 bg-gradient-to-r from-red-900/20 to-slate-900/30 border-y border-border">
         <div className="container mx-auto max-w-4xl text-center">
-          <h2 className="text-3xl font-bold text-white mb-4">Join Our Community</h2>
+          <h2 className="text-3xl font-bold text-white mb-4">Explore the Knowledge Base</h2>
           <p className="text-slate-300 mb-6 max-w-2xl mx-auto">
-            Stay updated with the latest guides, tips, and Vampire Crawlers news.
-            Bookmark this site and check back regularly for new content!
+            Browse release updates, platform guides, card data, and strategy modules built for day-to-day Vampire Crawlers
+            play.
           </p>
           <Link
             href="/"
             className="inline-flex items-center justify-center px-8 py-3 rounded-full bg-[hsl(var(--nav-theme-light))] text-white font-semibold hover:opacity-90 transition"
           >
-            Explore Resources
+            Back to Homepage
           </Link>
         </div>
       </section>
 
-      {/* Back to Home */}
       <section className="py-8 px-4">
         <div className="container mx-auto max-w-4xl text-center">
           <Link href="/" className="text-[hsl(var(--nav-theme-light))] hover:underline">

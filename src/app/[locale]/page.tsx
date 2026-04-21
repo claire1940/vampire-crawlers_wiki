@@ -15,7 +15,7 @@ const HOMEPAGE_VIDEO_TITLE = 'Vampire Crawlers Official Trailer and Launch Overv
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = await params
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://vampire-crawlers.wiki'
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.vampire-crawlers.wiki'
   const heroImageUrl = new URL('/images/hero.webp', siteUrl).toString()
   const path = '/'
   const title = 'Vampire Crawlers - Guide, Unlocks & Release Date'

@@ -30,6 +30,7 @@ import sys
 import re
 import time
 import argparse
+import subprocess
 import urllib.request
 import urllib.error
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -67,7 +68,7 @@ def load_config() -> dict:
 # ─── API 调用 ─────────────────────────────────────────────────────────────────
 
 
-def call_api(content: str, lang_name: str, config: dict, timeout: int = 120, retries: int = 3) -> Optional[str]:
+def call_api(content: str, lang_name: str, config: dict, timeout: int = 45, retries: int = 1) -> Optional[str]:
     """调用翻译 API，失败返回 None"""
     base = config['api_base_url'].rstrip('/')
     # 兼容各种写法：/v1、/v1/、/v1/chat/completions 均可正常工作
@@ -100,19 +101,42 @@ def call_api(content: str, lang_name: str, config: dict, timeout: int = 120, ret
         "messages": [{"role": "user", "content": prompt}],
         "max_tokens": config.get('max_tokens', 8192),
         "temperature": temperature,
-    }).encode('utf-8')
-
-    headers = {
-        "Content-Type": "application/json",
-        "Authorization": f"Bearer {api_key}",
-    }
+    }, ensure_ascii=False)
 
     for attempt in range(1, retries + 1):
         try:
-            req = urllib.request.Request(api_url, data=payload, headers=headers, method='POST')
-            with urllib.request.urlopen(req, timeout=timeout) as resp:
-                result = json.loads(resp.read().decode('utf-8'))
-                return result['choices'][0]['message']['content']
+            # 使用 curl 的硬超时，避免第三方网关保持连接但长时间不返回导致卡死
+            result = subprocess.run(
+                [
+                    'curl',
+                    '-sS',
+                    '-f',
+                    '--max-time',
+                    str(timeout),
+                    '-X',
+                    'POST',
+                    api_url,
+                    '-H',
+                    'Content-Type: application/json',
+                    '-H',
+                    f'Authorization: Bearer {api_key}',
+                    '--data-binary',
+                    '@-',
+                ],
+                input=payload,
+                text=True,
+                capture_output=True,
+                check=False,
+            )
+            if result.returncode != 0:
+                stderr = (result.stderr or '').strip()
+                raise RuntimeError(f'curl exit {result.returncode}: {stderr[:300]}')
+
+            parsed = json.loads(result.stdout)
+            content_text = parsed.get('choices', [{}])[0].get('message', {}).get('content')
+            if not content_text:
+                raise ValueError('response missing choices[0].message.content')
+            return content_text
         except Exception as e:
             print(f"    [retry {attempt}/{retries}] {e}")
             if attempt < retries:

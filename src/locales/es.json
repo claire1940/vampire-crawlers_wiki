@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "description": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, fabricación, biomas, logros, supervivencia, Steam",
-      "ogTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "ogDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "twitterTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "twitterDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros y consejos de supervivencia para el sandbox surrealista de vóxeles en Steam."
+      "title": "Vampire Crawlers - Guide, Unlocks & Release Date",
+      "description": "Explore Vampire Crawlers guides, release date updates, platform info, characters, unlocks, and deck-building tips for Steam, PS5, Xbox, and Switch.",
+      "keywords": "Vampire Crawlers, Steam, guide, unlocks, release date, characters, deck guide",
+      "ogTitle": "Vampire Crawlers - Guide, Unlocks & Release Date",
+      "ogDescription": "Explore Vampire Crawlers guides, release date updates, platform info, characters, unlocks, and deck-building tips for Steam, PS5, Xbox, and Switch.",
+      "twitterTitle": "Vampire Crawlers - Guide, Unlocks & Release Date",
+      "twitterDescription": "Explore Vampire Crawlers guides, release date updates, platform info, characters, unlocks, and deck-building tips for Steam, PS5, Xbox, and Switch."
     }
   },
   "nav": {
@@ -21,913 +21,1419 @@
     "media": "Media"
   },
   "common": {
-    "home": "Inicio",
-    "more": "Más",
-    "playNow": "Juega en Steam",
-    "switchLanguage": "Cambiar idioma",
-    "switchTheme": "Cambiar tema",
-    "lightMode": "Modo claro",
-    "darkMode": "Modo oscuro",
-    "notFound": "Página no encontrada",
-    "notFoundDescription": "La página que buscas no existe.",
-    "backToHome": "Volver al inicio",
-    "relatedArticles": "Artículos relacionados",
-    "readMore": "Leer más"
+    "home": "Home",
+    "more": "More",
+    "playNow": "Play on Steam",
+    "switchLanguage": "Switch Language",
+    "switchTheme": "Switch Theme",
+    "lightMode": "Light Mode",
+    "darkMode": "Dark Mode",
+    "notFound": "Page Not Found",
+    "notFoundDescription": "The page you are looking for does not exist.",
+    "backToHome": "Back to Home",
+    "relatedArticles": "Related Articles",
+    "readMore": "Read More"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ Sandbox de supervivencia de vóxeles",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explora biomas oníricos, fusiona objetos con Apotheosis, construye libremente y sobrevive a criaturas extrañas en este sandbox surrealista de mundo abierto en Steam.",
-    "getFreeCodesCTA": "Explorar guía de fabricación",
-    "playOnSteamCTA": "Jugar en Steam",
+    "badge": "Turn-Based Roguelite Deckbuilder",
+    "title": "Vampire Crawlers",
+    "description": "The go-to hub for Vampire Crawlers release info, platform access, character unlocks, map guides, and combo-heavy deck strategy from the Vampire Survivors spin-off.",
+    "getFreeCodesCTA": "Official Website",
+    "playOnSteamCTA": "View on Steam",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Jugadores en línea"
+        "value": "500K+",
+        "label": "Steam Wishlists"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Pico de CCU"
+        "value": "$9.99",
+        "label": "Starting Price"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Reseñas positivas"
+        "value": "4",
+        "label": "Launch Platforms"
       },
       "stat4": {
-        "value": "12 de mar. de 2026",
-        "label": "Fecha de lanzamiento"
+        "value": "12",
+        "label": "Supported Languages"
       }
     }
   },
   "gameFeature": {
-    "title": "Jugabilidad de Lucid Blocks",
-    "description": "Explora biomas surrealistas, fusiona objetos con Apotheosis y sobrevive a criaturas extrañas en este sandbox de vóxeles onírico en Steam."
+    "title": "Vampire Crawlers Trailer Spotlight",
+    "description": "Watch the official Vampire Crawlers trailers to learn the launch pitch, combat flow, and platform rollout in minutes."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Recursos",
-    "subtitle": "Todo lo que necesitas para explorar, fabricar y sobrevivir en Lucid Blocks",
+    "title": "Vampire Crawlers",
+    "titleHighlight": "Module Navigation",
+    "subtitle": "Jump to every Vampire Crawlers module and move directly to the section you need.",
     "cards": [
       {
-        "icon": "BookOpen",
-        "title": "Guía para principiantes",
-        "description": "Primeros pasos, exploración y progresión inicial"
+        "icon": "Clock",
+        "title": "Vampire Crawlers Release Date",
+        "description": "Official launch timeline and key milestones"
       },
       {
-        "icon": "Sparkles",
-        "title": "Fabricación de Apotheosis",
-        "description": "Sistema de fusión libre y recetas iniciales"
+        "icon": "ExternalLink",
+        "title": "Vampire Crawlers Trailer",
+        "description": "Core trailers and what each video explains"
       },
       {
-        "icon": "Hammer",
-        "title": "Herramientas y armas",
-        "description": "Pico de escarcha, Azrael, __PROTECTED_6a765cb2__ y más"
-      },
-      {
-        "icon": "Package",
-        "title": "Almacenamiento e inventario",
-        "description": "Cubos de suministros, gabinetes y almacenamiento de Qualia"
-      },
-      {
-        "icon": "Home",
-        "title": "Qualia y construcción de bases",
-        "description": "Qualia personal y configuración de la base"
-      },
-      {
-        "icon": "Eye",
-        "title": "Regiones del mundo",
-        "description": "Fog Meadow, Ciénaga de la Esencia y más"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Criaturas y enemigos",
-        "description": "Maniquíes, arañas y cómo sobrevivir"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Equipo de movilidad",
-        "description": "__PROTECTED_6a765cb2__, Guante planeador, __PROTECTED_163b9bec__"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Cultivo y crecimiento",
-        "description": "Progresión de semillas y recolección de materiales"
-      },
-      {
-        "icon": "Star",
-        "title": "Mejores desbloqueos iniciales",
-        "description": "Mejoras prioritarias para la primera hora"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Seguimiento de logros",
-        "description": "Los 19 logros y condiciones de Steam"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Preguntas frecuentes del modo un jugador",
-        "description": "Preguntas sobre plataformas, precio, cooperativo e idiomas"
+        "icon": "Download",
+        "title": "Vampire Crawlers Demo",
+        "description": "Demo access, carryover, and launch differences"
       },
       {
         "icon": "Gamepad2",
-        "title": "Steam Deck y controles",
-        "description": "Configuración de Proton 9.0.4 y consejos para el control"
+        "title": "Vampire Crawlers Platforms and Game Pass",
+        "description": "Storefront availability and day-one subscription access"
+      },
+      {
+        "icon": "Star",
+        "title": "Vampire Crawlers Review",
+        "description": "Launch critic roundup with praise and concerns"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Vampire Crawlers Beginner Guide",
+        "description": "Step-by-step first-run priorities and tips"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Vampire Crawlers TurboTurn Guide",
+        "description": "TurboTurn sequencing, Wild usage, and finishers"
+      },
+      {
+        "icon": "Hammer",
+        "title": "Vampire Crawlers Evolution Recipes",
+        "description": "Confirmed weapon evolution pairs and trigger rules"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Vampire Crawlers Best Evolutions",
+        "description": "Tiered evolution picks, recipes, and standout run impact"
+      },
+      {
+        "icon": "Home",
+        "title": "Vampire Crawlers Best Builds",
+        "description": "Four copy-ready builds mapped to roster passives"
+      },
+      {
+        "icon": "Package",
+        "title": "Vampire Crawlers Deck Building",
+        "description": "Seven practical rules for chain consistency and payoff"
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "Vampire Crawlers Character Tier List",
+        "description": "Roster tiers with unlocks, starters, and signature pairings"
+      },
+      {
+        "icon": "Users",
+        "title": "Vampire Crawlers Characters and Unlocks",
+        "description": "Launch roster passives, unlock routes, and first evolution targets"
+      },
+      {
+        "icon": "Eye",
+        "title": "Vampire Crawlers Card List",
+        "description": "Weapons, key items, Wild Cards, and evolution lookup table"
+      },
+      {
+        "icon": "MessageCircle",
+        "title": "Vampire Crawlers Dungeon Events",
+        "description": "Event room rewards, HP costs, and timing priorities"
       },
       {
         "icon": "Settings",
-        "title": "Ajustes y accesibilidad",
-        "description": "Ocultar manos, __PROTECTED_38625270__ y opciones de pantalla"
-      },
-      {
-        "icon": "Clock",
-        "title": "Actualizaciones y notas del parche",
-        "description": "Correcciones recientes y notas de la hoja de ruta"
-      },
-      {
-        "icon": "Shield",
-        "title": "Solución de cierres inesperados",
-        "description": "Verificación de __PROTECTED_38625270__, ruta de registros y reporte de errores"
+        "title": "Vampire Crawlers Steam Deck and Controller Support",
+        "description": "Verified status, cloud features, and cross-save expectations"
       }
     ]
   },
   "modules": {
     "lucidBlocksBeginnerGuide": {
-      "title": "Guía para principiantes de Lucid Blocks",
-      "displayType": "steps",
-      "intro": "Comienza aprendiendo cómo se conectan la exploración, la fusión y la progresión. Lucid Blocks premia la experimentación, por lo que el progreso temprano proviene de recolectar materiales inusuales, probar combinaciones y desbloquear tu Qualia personal.",
+      "title": "Fecha de lanzamiento de Vampire Crawlers",
+      "displayType": "timeline-cards",
+      "intro": "El 21 de abril de 2026 es la fecha oficial de lanzamiento de Vampire Crawlers en las principales tiendas. Esta cronología destaca la revelación, la fijación de la fecha, la confirmación de Game Pass y el día del lanzamiento.",
       "steps": [
         {
-          "title": "Explora antes de comprometerte",
-          "description": "Camina hacia el exterior, mina bloques comunes y conserva cualquier botín extraño que encuentres. El progreso inicial se trata menos de misiones fijas y más de descubrir en qué se pueden convertir los materiales."
+          "title": "20 de nov. de 2025 | Revelación del estreno mundial",
+          "description": "Vampire Crawlers se estrenó durante el Xbox Partner Preview como el primer spin-off de Vampire Survivors con una ventana de lanzamiento para 2026."
         },
         {
-          "title": "Desbloquea tu Qualia personal pronto",
-          "description": "Tu Qualia personal es uno de los hitos iniciales más importantes. Te brinda un lugar confiable para reagruparte y construir a su alrededor."
+          "title": "19 de mar. de 2026 | Precio y fecha anunciados",
+          "description": "Poncle confirmó un lanzamiento para el 21 de abril de 2026 con un precio sugerido de $9.99 / £9.99 / €9.99 / ¥1200."
         },
         {
-          "title": "Usa Osmio para progresar rápido al inicio",
-          "description": "El Osmio es uno de los materiales iniciales más útiles. Una ruta inicial popular es combinar Osmio con palos para fabricar un Pico de Escarcha para minar rápido."
+          "title": "20 de abr. de 2026 | Confirmación de Game Pass desde el primer día",
+          "description": "La segunda oleada de abril de Xbox Game Pass confirmó la disponibilidad desde el primer día en la nube, Xbox Series X|S, portátiles y PC."
         },
         {
-          "title": "Registra las buenas fusiones",
-          "description": "Lleva un registro de las combinaciones exitosas en tu diario. Lucid Blocks tiene muchas rutas de fusión posibles, por lo que anotar los resultados útiles ahorra mucho tiempo."
+          "title": "21 de abr. de 2026 | Lanzamiento oficial en tiendas",
+          "description": "Los listados de Steam y PlayStation coinciden con los mensajes de lanzamiento de poncle y marcan la fecha de lanzamiento oficial."
         }
       ],
       "quickTips": [
-        "Apotheosis no requiere una lista de recetas fija.",
-        "La generación de mundo infinito significa que moverte hacia arriba o hacia lo profundo puede revelar materiales completamente diferentes.",
-        "Las herramientas de movimiento y el equipo de utilidad se convierten en una gran mejora de calidad de vida una vez que comienzas a desbloquearlos.",
-        "Perderse al principio es normal, pero las herramientas útiles, el almacenamiento y las opciones de movimiento crecen como bola de nieve rápidamente una vez que tus primeras buenas fusiones empiezan a funcionar."
+        "Fecha de lanzamiento oficial: 21 de abril de 2026.",
+        "Precio de lanzamiento: $9.99 / £9.99 / €9.99 / ¥1200.",
+        "La confirmación de Game Pass desde el primer día llegó el 20 de abril de 2026.",
+        "Steam, Xbox, PlayStation y Nintendo formaron parte de la cobertura del lanzamiento."
       ]
     },
     "lucidBlocksApotheosisCrafting": {
-      "title": "Artesanía de Apotheosis en Lucid Blocks",
-      "displayType": "cards",
-      "intro": "Apotheosis es el sistema de fusión sin restricciones del juego. En lugar de memorizar un libro de recetas tradicional, combinas materiales, observas el resultado y construyes tu propio conocimiento de artesanía con el tiempo.",
+      "title": "Tráiler de Vampire Crawlers",
+      "displayType": "card-list",
+      "intro": "Estos tráileres de Vampire Crawlers son la forma más rápida de entender el ritmo del combate, el flujo de las mazmorras y el posicionamiento del lanzamiento antes de comenzar tu primera partida.",
       "cards": [
         {
-          "name": "Fusión de forma libre",
-          "description": "Apotheosis te permite fusionar diferentes objetos sin necesidad de seguir una lista de recetas fija."
+          "name": "Tráiler de anuncio",
+          "description": "Presenta la perspectiva de mazmorras en primera persona, el ciclo de combate por turnos y el tono central del spin-off."
         },
         {
-          "name": "Múltiples resultados útiles",
-          "description": "Diferentes materiales suelen orientarse hacia ciertos resultados. Los descubrimientos de la comunidad muestran que insumos similares pueden derivar en herramientas prácticas, almacenamiento o mejoras de combate."
+          "name": "Tráiler de avance de jugabilidad",
+          "description": "Muestra el ritmo real de una partida con movimiento, cadenas de cartas de orden de maná y acumulación de combos en combate activo."
         },
         {
-          "name": "Artesanía basada en el diario",
-          "description": "La mejor manera de aprender Apotheosis es registrar tus combinaciones exitosas. Tu diario se convertirá rápidamente en tu propia referencia de artesanía."
+          "name": "Tráiler de fecha de lanzamiento y precio",
+          "description": "Confirma la fecha de lanzamiento del 21 de abril de 2026, el despliegue multiplataforma y el precio inicial de $9.99."
         },
         {
-          "name": "Fusiones iniciales probadas por la comunidad",
-          "description": "Ejemplos iniciales populares incluyen Osmio más Palo para un Pico de Escarcha, Palo más Apéndice de Tungsteno para Azrael, y Azrael más Magnetita para el Estoque de Zarcillo."
+          "name": "Tráiler de Xbox Game Pass desde el primer día",
+          "description": "Presenta la campaña de lanzamiento de Xbox y el mensaje de suscripción desde el primer día para las audiencias de Xbox y PC."
         }
       ],
       "milestones": [
-        "Fusionar un objeto",
-        "Fusionar una alimaña",
-        "Fusionar un artefacto divino"
+        "Tráiler de revelación publicado",
+        "Tráiler de sistemas de jugabilidad publicado",
+        "Tráiler de fecha de lanzamiento publicado",
+        "Tráiler de lanzamiento de Game Pass publicado"
       ]
     },
     "lucidBlocksToolsAndWeapons": {
-      "title": "Herramientas y armas de Lucid Blocks",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mezcla equipo de utilidad oficial con armas iniciales descubiertas por la comunidad. La mejor configuración suele ser una mezcla de minería rápida, travesía segura y una opción de combate confiable.",
+      "title": "Demo de Vampire Crawlers",
+      "displayType": "accordion",
+      "intro": "La demo de Vampire Crawlers es la forma más rápida de aprender el ritmo del mapa, el encadenamiento de cartas y el ritmo de la partida antes de comprometerse con la progresión completa.",
       "items": [
         {
-          "name": "Pico de Escarcha",
-          "type": "Herramienta de minería",
-          "description": "Un pico inicial rápido y económico hecho de Osmio y Palo. Los jugadores lo usan para acelerar la recolección inicial de materiales."
+          "name": "¿Dónde puedo descargar la demo de Vampire Crawlers?",
+          "type": "Acceso",
+          "description": "La demo está disponible como una descarga independiente en Steam y como un listado gratuito en la tienda de Xbox."
         },
         {
-          "name": "Azrael",
-          "type": "Arma inicial",
-          "description": "Una ruta práctica para un arma inicial fabricada con un Palo y un Apéndice de Tungsteno."
+          "name": "¿Se transfiere el progreso de la demo de Vampire Crawlers?",
+          "type": "Datos de guardado",
+          "description": "Sí. Las preguntas frecuentes oficiales indican que el progreso de la demo de Steam se puede transferir al pasar al juego completo."
         },
         {
-          "name": "Estoque de Zarcillo",
-          "type": "Arma mejorada",
-          "description": "Una continuación más fuerte creada al combinar Azrael con Magnetita. Es una de las rutas de combate inicial-media más útiles compartidas por los jugadores."
+          "name": "¿Qué puedo jugar en la demo de Vampire Crawlers?",
+          "type": "Ciclo principal",
+          "description": "Puedes explorar mapas, subir de nivel poderes, luchar contra monstruos, recolectar tesoros y practicar el sistema de combos por turnos."
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Herramienta de movilidad",
-          "description": "Un objeto de travesía oficial que mejora enormemente el movimiento y la exploración vertical."
+          "name": "¿Qué cambia en el lanzamiento completo de Vampire Crawlers?",
+          "type": "Lanzamiento completo",
+          "description": "El juego completo amplía el alcance del contenido e incluye correcciones y mejoras adicionales más allá de la muestra de la demo."
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Herramienta de movilidad",
-          "description": "Un objeto de movimiento oficial que ayuda a cubrir terreno de forma más segura y eficiente."
+          "name": "¿Por qué una partida de la demo de Vampire Crawlers termina pronto?",
+          "type": "Límite de la demo",
+          "description": "La demo es una muestra independiente. Llegar al final significa que has completado el segmento previsto de la demo."
         },
         {
-          "name": "Varita de Bola",
-          "type": "Arma de utilidad",
-          "description": "Un objeto de utilidad a distancia oficial que expande tus opciones de combate y acertijos."
-        },
-        {
-          "name": "Equipo de buceo",
-          "type": "Equipo de travesía",
-          "description": "Un objeto de utilidad oficial para llegar a áreas que de otro modo ralentizarían la exploración."
-        },
-        {
-          "name": "Explosivos",
-          "type": "Daño de utilidad",
-          "description": "Destacados oficialmente como parte del conjunto de herramientas principal y útiles para atravesar amenazas u obstáculos."
+          "name": "¿Seguirá disponible la demo de Vampire Crawlers?",
+          "type": "Disponibilidad",
+          "description": "Sí. Se planea que la demo siga estando disponible para descargar y reciba actualizaciones que reflejen la base del juego completo."
         }
       ]
     },
     "lucidBlocksStorageAndInventory": {
-      "title": "Almacenamiento e inventario de Lucid Blocks",
-      "displayType": "solutionCards",
-      "intro": "La presión del inventario comienza temprano en Lucid Blocks, por lo que construir almacenamiento debería ser uno de tus primeros objetivos. Ya destacan varias soluciones probadas por jugadores reales.",
+      "title": "Plataformas de Vampire Crawlers y Game Pass",
+      "displayType": "table",
+      "intro": "Vampire Crawlers se lanzó en PC y en las principales consolas, con soporte confirmado de Game Pass desde el primer día para los jugadores del ecosistema Xbox.",
       "solutions": [
         {
-          "name": "Cubo de Almacenamiento",
-          "role": "Almacenamiento tipo cofre",
-          "description": "Los Cubos de Almacenamiento son una de las soluciones prácticas más tempranas y los jugadores los tratan como el contenedor principal tipo cofre del juego."
+          "name": "Steam",
+          "role": "Plataforma de lanzamiento",
+          "description": "Steam se lanzó el 21 de abril de 2026 con acceso a la demo, Steam Cloud, logros y préstamo familiar."
         },
         {
-          "name": "Gabinete",
-          "role": "Almacenamiento de base simple",
-          "description": "Los gabinetes son otra opción de almacenamiento confirmada. Una receta inicial compartida usa 1 de Madera cortada y 1 de Cuerda."
+          "name": "Xbox",
+          "role": "Plataforma de lanzamiento",
+          "description": "El soporte de lanzamiento de Xbox incluye Series X|S, PC y portátiles con Smart Delivery, guardado en la nube y Play Anywhere."
         },
         {
-          "name": "Qualia personal",
-          "role": "Centro de almacenamiento a largo plazo",
-          "description": "Una vez desbloqueada, tu Qualia personal se convierte en un lugar natural para organizar materiales, fabricar en paz y expandir la configuración de tu base."
+          "name": "PlayStation",
+          "role": "Plataforma de lanzamiento",
+          "description": "El listado de la PlayStation Store confirma la disponibilidad para el 21 de abril de 2026 en la ventana de lanzamiento."
         },
         {
-          "name": "Seguimiento en el diario",
-          "role": "Eficiencia de inventario",
-          "description": "Registrar combinaciones útiles en tu diario reduce el desperdicio de materiales y facilita mucho la gestión del inventario."
+          "name": "Nintendo",
+          "role": "Plataforma de lanzamiento",
+          "description": "La comunicación oficial del lanzamiento incluye a Nintendo con páginas en la tienda disponibles para el hardware de la generación Switch."
+        },
+        {
+          "name": "Game Pass",
+          "role": "Suscripción desde el primer día",
+          "description": "Game Pass Ultimate y PC Game Pass brindan acceso desde el primer día a través de la nube y los canales compatibles de la plataforma Xbox."
         }
       ],
       "managementTips": [
-        "Prioriza una opción de almacenamiento confiable antes de acumular botines raros.",
-        "Construye alrededor de tu Qualia personal una vez que esté disponible.",
-        "Mantén separados los materiales de artesanía, las herramientas de combate y el equipo de movimiento para que las mejoras sean más fáciles de planificar.",
-        "Usa tu diario como parte de la gestión del inventario, no solo para descubrir recetas."
+        "Steam, Xbox, PlayStation y Nintendo fueron incluidos en los mensajes de lanzamiento.",
+        "Game Pass Ultimate y PC Game Pass brindan acceso por suscripción desde el primer día.",
+        "Las versiones móviles están planeadas para finales de 2026.",
+        "Elige una plataforma basada en las características de la tienda y el acceso por suscripción."
       ]
     },
     "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Qualia y construcción de bases en Lucid Blocks",
-      "displayType": "cards",
-      "intro": "La Qualia es uno de los hitos de progresión más importantes en Lucid Blocks. Te brinda un espacio personal para reagruparte, almacenar materiales y convertir gradualmente el progreso de exploración en una verdadera base de operaciones.",
+      "title": "Resumen de reseñas de Vampire Crawlers",
+      "subtitle": "A los críticos les gusta el motor de combos y el estilo de Vampire Survivors, pero están divididos sobre la profundidad de los mazos a largo plazo.",
+      "displayType": "card-list",
+      "intro": "El panorama de las reseñas de lanzamiento es mixto pero activo. GameSpot es muy positivo, The Verge está muy entusiasmado con el cambio de género y PC Gamer es mucho más frío con la variedad del combate inicial.",
       "cards": [
         {
-          "name": "Qualia personal",
-          "description": "Desbloquear una Qualia es un hito inicial que te da un lugar más confiable al cual regresar mientras exploras el mundo exterior."
+          "name": "GameSpot",
+          "headline": "Reseña de GameSpot",
+          "verdict": "8/10 - Genial",
+          "summary": "GameSpot dice que Vampire Crawlers traslada notablemente bien el tono, los personajes, los objetos y la identidad retro de Vampire Survivors a un Crawler en primera persona con batallas de cartas por turnos.",
+          "praise": [
+            "La construcción de mazos y los multiplicadores de combos se sienten inmensamente satisfactorios",
+            "La estrategia importa sin llegar a ser castigadora para los jugadores casuales",
+            "El final del juego puede convertirse en un alegre sandbox de poder absoluto"
+          ],
+          "criticisms": [
+            "Las ofertas de cartas aún introducen algo de aleatoriedad entre partidas",
+            "La tensión de la planificación de rutas importa más al principio, antes de que las mejoras suavicen las cosas"
+          ]
         },
         {
-          "name": "Construcción centrada en el almacenamiento",
-          "description": "Muchos jugadores comienzan usando su Qualia como un centro de almacenamiento antes de convertirla en una base más grande con espacios organizados para artesanía y construcción."
+          "name": "PC Gamer",
+          "headline": "Reseña de PC Gamer",
+          "verdict": "50/100",
+          "summary": "A PC Gamer le gusta el intento de hacer que un constructor de mazos se sienta como Vampire Survivors, pero dice que demasiados turnos iniciales se reducen a secuencias de maná obvias antes de que el juego se abra lo suficiente.",
+          "praise": [
+            "El ciclo de dopamina al subir de nivel sigue funcionando",
+            "Hay destellos de diversión una vez que comienzan a aparecer configuraciones más fuertes",
+            "El spin-off mantiene los ritmos reconocibles de Vampire Survivors"
+          ],
+          "criticisms": [
+            "Las decisiones de combate iniciales pueden sentirse demasiado resueltas",
+            "El avance puede sentirse repetitivo y tedioso durante horas",
+            "Otros constructores de mazos ofrecen una variedad táctica más aguda"
+          ]
         },
         {
-          "name": "Construcción creativa de hogares",
-          "description": "Lucid Blocks admite la construcción creativa, y los jugadores ya están usando los espacios de Qualia para crear casas y diseños personalizados."
-        },
-        {
-          "name": "Centro de progresión",
-          "description": "Una base sólida te ayuda a separar el botín de exploración, los materiales de artesanía, las semillas, las herramientas y el equipo de movilidad para planificar mejor tus próximas mejoras."
+          "name": "The Verge",
+          "headline": "Artículo de The Verge",
+          "verdict": "Positivo",
+          "summary": "The Verge sostiene que Vampire Crawlers traduce con éxito la energía absurda de construcción de personajes del juego original a mapas de mazmorras y duelos por turnos, con un fuerte impulso de 'una partida más'.",
+          "praise": [
+            "Las cadenas de maná ascendentes son fáciles de leer y satisfactorias de ejecutar",
+            "La visibilidad del mapa hace que la planificación de rutas sea práctica",
+            "La progresión permanente y los desbloqueos de personajes mantienen el ritmo de las partidas"
+          ],
+          "criticisms": [
+            "La exploración de mazmorras sigue siendo bastante simple",
+            "La frescura a largo plazo sigue siendo la verdadera prueba posterior al lanzamiento"
+          ]
         }
       ],
       "highlights": [
-        "Entrar en una qualia",
-        "Almacenar materiales de forma segura",
-        "Expandir de la utilidad a la decoración",
-        "Usar el espacio de la base para apoyar la artesanía y el cultivo"
+        "Consenso de reseñas de Vampire Crawlers: mixto pero animado",
+        "Mayor elogio de Vampire Crawlers: flujo de combos y creación de personajes",
+        "Principal preocupación de Vampire Crawlers: repetición en los turnos iniciales para algunos jugadores",
+        "El valor de lanzamiento de Vampire Crawlers sigue siendo fácil de evaluar en $9.99"
       ]
     },
     "lucidBlocksWorldRegions": {
-      "title": "Regiones del mundo de Lucid Blocks",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks utiliza generación de mundo infinito, por lo que los jugadores siguen descubriendo nuevos entornos y estructuras. Algunos lugares con nombre ya aparecen en los logros y en las discusiones de la comunidad.",
+      "title": "Vampire Crawlers Beginner Guide: How to Start Strong",
+      "subtitle": "Your first strong runs usually come from clean Mana Chains, a small deck, and one fast evolution.",
+      "displayType": "step-by-step",
+      "intro": "The opening hours are more structured than they first look. Learn the 0-to-3 rhythm, buy high-value village upgrades, and rush a simple first evolution instead of bloating your deck with every flashy pickup.",
       "regions": [
         {
-          "name": "Fog Meadow",
-          "type": "Área destacada por la comunidad",
-          "description": "Fog Meadow ya es conocida entre los jugadores como un área tensa asociada con amenazas ocultas y encuentros peligrosos."
+          "step": 1,
+          "name": "Play for 0 -> 1 -> 2 -> 3 first",
+          "description": "Your first skill check is strict ascending cost order. Even average cards become strong when they extend a Mana Chain, so early success is more about sequencing than rarity.",
+          "tips": [
+            "Treat 3-cost cards as finishers, not openers",
+            "Use Wild Cards to patch missing costs",
+            "Do not break a clean chain for a low-value side play"
+          ]
         },
         {
-          "name": "Línea ley de Tiamana",
-          "type": "Punto de referencia de descubrimiento",
-          "description": "La línea ley de tiamana es lo suficientemente importante como para tener su propio hito de logro, lo que la convierte en uno de los descubrimientos mundiales con nombre más claros hasta ahora."
+          "step": 2,
+          "name": "Spend village gold on always-on power",
+          "description": "Between runs, permanent power-ups matter more than one lucky draft. Max HP and damage upgrades pay off on every character, and cheap survivability upgrades make early evolutions safer.",
+          "tips": [
+            "Buy broad survivability early",
+            "Take universal damage before niche upgrades",
+            "Use failed runs to build account power, not to fish for perfect hands"
+          ]
         },
         {
-          "name": "Clonaqualia",
-          "type": "Espacio de construcción",
-          "description": "Los jugadores ya están usando Clonaqualia como un lugar para construir casas, almacenar materiales y experimentar con diseños más permanentes."
+          "step": 3,
+          "name": "Keep your deck small and chainable",
+          "description": "A 12-14 card deck is the standard target for most Crawlers because it shows chain pieces more often. Build around one reliable opener, 1/2-cost bridges, one 3-cost finisher, and 2-3 Wild Cards.",
+          "tips": [
+            "Small decks see their best cards more often",
+            "Too many Wild Cards dilute damage draws",
+            "Remove dead cards that do not support chain or evolution plans"
+          ]
         },
         {
-          "name": "Ciénaga de Esencia",
-          "type": "Área de recolección",
-          "description": "La Ciénaga de Esencia está siendo compartida por los jugadores como una ubicación útil para recolectar recursos, especialmente para luchar contra slimes y ganar experiencia."
+          "step": 4,
+          "name": "Explore the whole floor before moving on",
+          "description": "Walk the map, bump into chests for rewards, grab Chickens for free healing, and scout for Gem Stations. Full floor visibility makes evolution decisions safer.",
+          "tips": [
+            "Open chests by walking directly into them",
+            "Save the Shovel until you have seen the floor",
+            "Watch for Gem Stations once you hold a recipe pair"
+          ]
+        },
+        {
+          "step": 5,
+          "name": "Rush a simple first evolution",
+          "description": "Antonio is the cleanest starter because Bloody Tear is a straightforward first spike. Pair Whip with Hollow Heart, keep the weapon Gem Socket empty, and evolve as soon as the pair is online.",
+          "tips": [
+            "Do not use Hollow Heart marked Destroyed after use",
+            "The base weapon must keep an empty Gem Socket",
+            "Bloody Tear gives broad damage plus lifesteal"
+          ]
+        },
+        {
+          "step": 6,
+          "name": "Pick the right first character plan",
+          "description": "Antonio is easiest for first clears, while Imelda scales harder once you understand draw and XP loops. Antonio teaches clean chains; Imelda teaches controlled stalling and timing-heavy draw engines.",
+          "tips": [
+            "Start with Antonio for first clears",
+            "Move to Imelda when you want faster scaling",
+            "Do not evolve Attractorb too early on Imelda"
+          ]
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
-      "title": "Criaturas y enemigos de Lucid Blocks",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mezcla criaturas surreales con peligros reales. Las descripciones oficiales y las publicaciones de la comunidad apuntan a un mundo lleno de vida extraña, amenazas hostiles y algunos encuentros destacados que los jugadores recuerdan rápidamente.",
+      "title": "Vampire Crawlers TurboTurn and Mana Chain Guide",
+      "subtitle": "TurboTurn rewards speed, but real damage comes from sequencing your hand correctly.",
+      "displayType": "step-by-step",
+      "intro": "TurboTurn is the signature system that makes the game feel faster than a typical deckbuilder. You can play quickly or slowly, but the strongest turns still come from clean mana order, smart gap repair, and deliberate cash-out cards.",
       "creatures": [
         {
-          "name": "Maniquíes",
-          "role": "Enemigo hostil",
-          "description": "Los maniquíes son uno de los enemigos nombrados oficialmente en el mundo y parte del catálogo de amenazas surreales del juego."
+          "step": 1,
+          "name": "Read the multiplier ladder",
+          "description": "When costs rise cleanly, each next card gets stronger: after 0-cost comes x2, after 1-cost comes x3, after 2-cost comes x4, and a 3-cost finisher cashes out at x5.",
+          "tips": [
+            "A full 0->1->2->3 sequence can produce a x120 finisher",
+            "Treat each card as setup for the next, not as a standalone play"
+          ]
         },
         {
-          "name": "Geles blandos",
-          "role": "Enemigo hostil",
-          "description": "Los geles blandos son otro tipo de enemigo nombrado oficialmente y ayudan a definir el extraño estilo biológico del juego."
+          "step": 2,
+          "name": "Build turns around a real sequence",
+          "description": "An official-style pattern is 0 Spellbinder -> 1 Knife -> 2 Fire Wand -> 3 Holy Wand. The final card receives the full stacked bonus, so cheap setup cards are often more important than flashy openers.",
+          "tips": [
+            "Do not lead with your best 3-cost card",
+            "Protect sequence integrity before chasing payout"
+          ]
         },
         {
-          "name": "Seres de dimensiones superiores",
-          "role": "Enemigo hostil",
-          "description": "Estos seres se presentan como parte del catálogo de enemigos más abstractos e inquietantes del mundo."
+          "step": 3,
+          "name": "Use Wild Cards to fix broken hands",
+          "description": "Wild Cards preserve ascending order when you are missing a specific cost. They do not add a multiplier themselves, but they keep your chain from collapsing.",
+          "tips": [
+            "Play a Wild between 0 and 2 when you are missing 1",
+            "More than three Wilds usually dilutes damage draws"
+          ]
         },
         {
-          "name": "Arañas colosales",
-          "role": "Amenaza mayor",
-          "description": "Las arañas son uno de los enemigos más temidos de inmediato en las discusiones de la comunidad y son claramente un peligro memorable."
+          "step": 4,
+          "name": "Spend multipliers where they matter most",
+          "description": "Attack cards love bonus scaling, but setup cards can also be premium targets. A chained buff can stabilize a run before a high-value 3-cost closer cashes out the turn.",
+          "tips": [
+            "Buff first when it improves survival or scaling",
+            "Use your strongest 3-cost card as the final cash-out"
+          ]
         },
         {
-          "name": "__PROTECTED_26ee183b__",
-          "role": "Criatura con nombre",
-          "description": "__PROTECTED_26ee183b__ es lo suficientemente notable como para tener su propio logro, lo que lo convierte en uno de los encuentros con criaturas nombradas más claros del juego."
+          "step": 5,
+          "name": "Tune the deck for consistency",
+          "description": "TurboTurn becomes reliable when your deck is compact and curved. Most stable lists keep one opener, several 1/2-cost bridges, one premium closer, and enough quality to cut dead draws.",
+          "tips": [
+            "A 12-14 card deck remains the standard target",
+            "Remove cards that do not support chain or evolution plans"
+          ]
         },
         {
-          "name": "Alimañas adorables",
-          "role": "Criatura interactuable",
-          "description": "Las alimañas no solo son parte de la progresión de fusión, también se les puede cambiar el nombre, dándoles un papel más personal que a los enemigos estándar."
-        },
-        {
-          "name": "Criatura blasfema",
-          "role": "Amenaza de élite",
-          "description": "La criatura blasfema está vinculada a un logro de combate dedicado, lo que la marca como un encuentro enemigo significativo."
+          "step": 6,
+          "name": "Avoid the common chain killers",
+          "description": "Most failed turns come from sequencing mistakes, not pure luck. Common traps are opening expensive, overstuffing filler, or spending your last Wild too early.",
+          "tips": [
+            "Do not burn a 3-cost card just because it is in hand",
+            "Save repair tools for the missing chain link",
+            "Keep at least one line to your finisher alive each turn"
+          ]
         }
       ]
     },
     "lucidBlocksMobilityGear": {
-      "title": "Equipo de movilidad de Lucid Blocks",
-      "displayType": "itemCards",
-      "intro": "Las mejoras de movimiento son uno de los mayores saltos en la calidad de vida en Lucid Blocks. Una vez que desbloqueas tus primeras herramientas de travesía, la exploración se vuelve más rápida, segura y mucho más gratificante.",
+      "title": "Vampire Crawlers Evolution Recipes",
+      "subtitle": "Every confirmed recipe pairs one base weapon with one item, then upgrades at a Gem Station.",
+      "displayType": "table",
+      "intro": "Evolution is the cleanest way to spike a run. Keep the base weapon Gem Socket empty, hold the matching item at the same time, and evolve at a Gem Station. Items marked Destroyed after use do not count as recipe ingredients.",
       "items": [
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Herramienta de travesía",
-          "description": "El gancho es uno de los hitos de movimiento más claros del juego y tiene su propio logro dedicado."
+          "name": "Whip + Hollow Heart",
+          "baseCard": "Whip",
+          "itemCard": "Hollow Heart",
+          "evolvedCard": "Bloody Tear",
+          "mana": 2,
+          "bestFor": "Safe early sustain",
+          "effect": "Heavy wide-arc slash with lifesteal equal to 15% of damage dealt.",
+          "notes": "A reliable first evolution for Antonio."
         },
         {
-          "name": "Guante planeador",
-          "type": "Movilidad aérea",
-          "description": "El guante planeador permite un viaje mucho más fluido y es otro hito importante de progresión con su propio logro."
+          "name": "Knife + Bracer",
+          "baseCard": "Knife",
+          "itemCard": "Bracer",
+          "evolvedCard": "Thousand Edge",
+          "mana": 1,
+          "bestFor": "Fast single-target pressure",
+          "effect": "Dense barrage of 8 blades at the nearest enemy.",
+          "notes": "Excellent low-cost damage inside short chains."
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Herramienta de travesía",
-          "description": "Los planeadores abeja se destacan oficialmente como parte del conjunto de herramientas de movimiento del juego para cubrir terreno de manera más eficiente."
+          "name": "Magic Wand + Empty Tome",
+          "baseCard": "Magic Wand",
+          "itemCard": "Empty Tome",
+          "evolvedCard": "Holy Wand",
+          "mana": 2,
+          "bestFor": "Mid-run burst and clean targeting",
+          "effect": "4 holy bolts seek different targets with high base damage.",
+          "notes": "A major power spike for Imelda once chain flow is online."
         },
         {
-          "name": "Varita de Bola",
-          "type": "Equipo de utilidad",
-          "description": "Las varitas de bola son una de las herramientas especiales destacadas oficialmente y expanden la forma en que te mueves o interactúas con el mundo."
+          "name": "Axe + Candella",
+          "baseCard": "Axe",
+          "itemCard": "Candella",
+          "evolvedCard": "Death Spiral",
+          "mana": 2,
+          "bestFor": "Sweeping two-hit coverage",
+          "effect": "A spinning spectral axe orbits out and back, hitting enemies twice.",
+          "notes": "Strong generalist choice for broad lane control."
         },
         {
-          "name": "Equipo de buceo",
-          "type": "Equipo de exploración",
-          "description": "El equipo de buceo figura oficialmente como parte del conjunto de utilidad principal para llegar a áreas que de otro modo serían más difíciles de explorar."
+          "name": "King Bible + Spellbinder",
+          "baseCard": "King Bible",
+          "itemCard": "Spellbinder",
+          "evolvedCard": "Unholy Vespers",
+          "mana": 3,
+          "bestFor": "Chain-ending payoff",
+          "effect": "3 orbiting dark tomes deal contact damage.",
+          "notes": "A premium 3-cost finisher for full Mana Chain cash-outs."
         },
         {
-          "name": "Explosivos",
-          "type": "Daño de utilidad",
-          "description": "Los explosivos están destacados oficialmente y vinculados a un hito de logro, lo que los hace parte de la progresión de utilidad principal del juego."
+          "name": "Fire Wand + Spinach",
+          "baseCard": "Fire Wand",
+          "itemCard": "Spinach",
+          "evolvedCard": "Hellfire",
+          "mana": 3,
+          "bestFor": "Explosive area damage",
+          "effect": "3 massive fireballs leave burning pools for 3 turns.",
+          "notes": "Arca favorite because Fire Wand starts at 0 mana."
+        },
+        {
+          "name": "Garlic + Pummarola",
+          "baseCard": "Garlic",
+          "itemCard": "Pummarola",
+          "evolvedCard": "Soul Eater",
+          "mana": 2,
+          "bestFor": "Snowball scaling",
+          "effect": "Soul-stealing aura gains +2% damage for each defeated enemy soul.",
+          "notes": "Scales quickly in high-density fights."
+        },
+        {
+          "name": "Santa Water + Attractorb",
+          "baseCard": "Santa Water",
+          "itemCard": "Attractorb",
+          "evolvedCard": "La Borra",
+          "mana": 2,
+          "bestFor": "Pull control and burn pressure",
+          "effect": "Holy-water vortex drags enemies inward and burns them each turn.",
+          "notes": "Powerful, but evolving Attractorb removes a strong draw tool."
+        },
+        {
+          "name": "Runetracer + Armor",
+          "baseCard": "Runetracer",
+          "itemCard": "Armor",
+          "evolvedCard": "NO FUTURE",
+          "mana": 3,
+          "bestFor": "Group fights and boss rooms with adds",
+          "effect": "Piercing runestone can bounce up to 7 times for full damage.",
+          "notes": "One of the strongest crowd-control finishers in the current pool."
         }
       ],
       "unlockMilestones": [
-        "Dominar un gancho",
-        "Volar con el guante planeador",
-        "Empuñar una varita de proyectiles",
-        "Empuñar un explosivo"
+        "Keep base-weapon Gem Sockets empty before evolving.",
+        "Do not consume recipe items marked Destroyed after use.",
+        "Use Gem Stations only after both matching pieces are online.",
+        "Prioritize one stable first evolution before branching into greed routes."
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
-      "title": "Cultivo y crecimiento en Lucid Blocks",
-      "displayType": "mixedCards",
-      "intro": "El crecimiento es parte de la progresión real en Lucid Blocks. El cultivo no se trata solo de plantar y cosechar, sino también de establecer rutas de materiales repetibles que mantengan el flujo de tus herramientas, armas y opciones de artesanía.",
-      "sections": [
+      "eyebrow": "Selecciones de Poder",
+      "title": "Las mejores evoluciones de Vampire Crawlers para buscar primero",
+      "displayType": "tier-grid",
+      "subtitle": "Estas son las evoluciones que ofrecen la mayor recompensa en cuanto a poder, consistencia e impacto real en la partida. La lista premia a las armas que deciden combates de inmediato o que encajan perfectamente en los planes de cadena más fuertes.",
+      "intro": "Las evoluciones son el mayor pico de poder en Vampire Crawlers, pero no todas las recetas son igual de valiosas en una partida real. Las mejores selecciones alcanzan un umbral de daño temprano, cierran cadenas con un gran potencial o crean una presión de bola de nieve que sigue rindiendo piso tras piso.",
+      "items": [
         {
-          "name": "Progresión de semillas",
-          "description": "Plantar y fertilizar semillas es un hito real en el juego, y cosechar una nuez completamente crecida es parte de la misma ruta de crecimiento."
+          "tier": "S",
+          "name": "Vara Sagrada",
+          "recipe": "Vara Mágica + Tomo Vacío",
+          "best_for": "Mazos de escalado de Imelda y ráfagas limpias a mitad de la partida",
+          "why_it_ranks_here": "Dispara 4 proyectiles sagrados a la vez, cada uno buscando un objetivo diferente, y la guía la califica como una de las evoluciones más fuertes a mitad de una partida.",
+          "standout_detail": "Con Cadena de Maná x3, alcanza unos 594 de daño por proyectil para un total de 2376."
         },
         {
-          "name": "Recolección de materiales",
-          "description": "Un ciclo práctico de recolección inicial es crear Cápsulas de Mercurio, que generan pequeños slimes que sueltan zarcillos y viscosidad para materiales de artesanía repetibles."
+          "tier": "S",
+          "name": "Fuego Infernal",
+          "recipe": "Vara de Fuego + Espinaca",
+          "best_for": "Cadenas de quemadura de Arca y presión en toda la habitación",
+          "why_it_ranks_here": "Lanza tres grandes bolas de fuego y deja charcos ardientes, por lo que sigue infligiendo daño después del lanzamiento en lugar de terminar como un solo golpe.",
+          "standout_detail": "Arca convierte la Vara de Fuego en un iniciador de costo 0, lo que hace que el camino del Fuego Infernal sea una de las formas más limpias de construir cadenas explosivas."
         },
         {
-          "name": "Sustento de herramientas",
-          "description": "La recolección de recursos se vuelve mucho más fuerte una vez que puedes reunir consistentemente Osmio, fragmentos de vidrio, plantas y materiales de slime para artesanías posteriores."
+          "tier": "S",
+          "name": "NO FUTURE",
+          "recipe": "Runetracer + Armadura",
+          "best_for": "Mazos de bucle de Poe, jefes con muchos súbditos y finalizadores de cadena",
+          "why_it_ranks_here": "Rebota entre todos los enemigos en pantalla hasta 7 veces y se describe como un finalizador de primera contra grupos y encuentros con jefes que tienen súbditos.",
+          "standout_detail": "Es el arma de recompensa natural una vez que el bucle de robo de Poe ya está activo."
         },
         {
-          "name": "Rutina de base",
-          "description": "La mejor configuración de cultivo apoya más que solo la comida. Debería abastecer tu almacenamiento, herramientas de movimiento, mejoras de armas y futuros experimentos de fusión."
+          "tier": "A",
+          "name": "Vísperas Impías",
+          "recipe": "Biblia del Rey + Spellbinder",
+          "best_for": "Finalizadores de cadena tardía y daño por contacto sostenido",
+          "why_it_ranks_here": "Los tomos que orbitan siguen infligiendo daño después de aparecer, y la guía la destaca específicamente como un finalizador de cadena ideal para el máximo daño.",
+          "standout_detail": "Su presión persistente la hace fuerte incluso cuando un turno no elimina por completo a todos en la habitación."
+        },
+        {
+          "tier": "A",
+          "name": "Lágrima Sangrienta",
+          "recipe": "Látigo + Corazón Hueco",
+          "best_for": "Inicios con Antonio y estabilidad temprana",
+          "why_it_ranks_here": "Es el camino de primera evolución más simple para Antonio y añade daño de arco amplio más robo de vida, que es exactamente lo que más necesitan las partidas iniciales.",
+          "standout_detail": "El robo de vida restaura HP equivalente al 15% del daño infligido."
+        },
+        {
+          "tier": "A",
+          "name": "Devorador de Almas",
+          "recipe": "Ajo + Pummarola",
+          "best_for": "Partidas de bola de nieve con habitaciones densas de enemigos",
+          "why_it_ranks_here": "Cada alma absorbida otorga +2% de daño por el resto de la partida, por lo que mejora cuanto más tiempo sobrevivas.",
+          "standout_detail": "La guía recomienda priorizarla en encuentros de élite en Mad Forest, donde el recuento de enemigos sigue siendo alto."
+        },
+        {
+          "tier": "B",
+          "name": "La Borra",
+          "recipe": "Agua Bendita + Atractor",
+          "best_for": "Combates con mucho control y denegación de área",
+          "why_it_ranks_here": "El efecto de atracción más la quemadura es un excelente control de masas, pero el costo de oportunidad es real porque el Atractor es también uno de los mejores motores de robo del juego.",
+          "standout_detail": "Esto es poderoso una vez que tu motor ya es estable, no siempre es la primera mejora que deberías priorizar."
+        },
+        {
+          "tier": "B",
+          "name": "Espiral de Muerte",
+          "recipe": "Hacha + Candella",
+          "best_for": "Limpieza de habitaciones amplias y daño de propósito general",
+          "why_it_ranks_here": "Golpea al salir y al volver, lo que le da una cobertura de habitación confiable sin requerir una configuración especial para funcionar.",
+          "standout_detail": "Se mantiene más fuerte en combates amplios en lugar de ser un ataque dedicado para jefes."
+        },
+        {
+          "tier": "B",
+          "name": "Mil Filos",
+          "recipe": "Cuchillo + Brazal",
+          "best_for": "Presión rápida a un solo objetivo",
+          "why_it_ranks_here": "La densa ráfaga de 8 cuchillas es confiable y fácil de entender, pero no redefine una partida tanto como las mejores recompensas de evolución.",
+          "standout_detail": "Es una adquisición limpia cuando quieres daño concentrado sin cambiar tu plan de mazo."
         }
-      ],
-      "growthMilestones": [
-        "Fertilizar una semilla",
-        "Cosechar una nuez completamente crecida",
-        "Crear ciclos de materiales repetibles",
-        "Convertir el cultivo en progresión a largo plazo"
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
-      "title": "Mejores desbloqueos iniciales de Lucid Blocks",
-      "displayType": "priorityCards",
-      "intro": "Los desbloqueos iniciales más fuertes son aquellos que mejoran la seguridad, el almacenamiento y el movimiento. En Lucid Blocks, unas pocas mejoras prácticas pueden hacer que el resto del juego sea mucho más fluido.",
-      "priorities": [
+      "eyebrow": "Builds Listas para Usar",
+      "title": "Vampire Crawlers: Cuatro builds fuertes que puedes copiar",
+      "displayType": "card-list",
+      "subtitle": "Estas builds se ajustan directamente a lo que las pasivas de los personajes actuales realmente recompensan. Cada una tiene una forma de mazo clara, un camino de evolución preferido y un plan de combate simple.",
+      "intro": "La forma más limpia de mejorar en Vampire Crawlers es dejar de elegir cartas buenas al azar y empezar a diseñar hacia un motor específico. Los cuatro arquetipos tempranos más fuertes provienen directamente del elenco actual: tempo de Antonio, bola de nieve de XP de Imelda, control de bucle de Poe y cadenas de quemadura de Arca.",
+      "items": [
         {
-          "name": "Qualia personal",
-          "priority": "Esencial",
-          "description": "Tan pronto como obtengas acceso a tu Qualia personal, tu partida se volverá mucho más estable. Actúa como un centro confiable para el almacenamiento, la construcción y el reagrupamiento."
+          "name": "Control de Bucle Azul de Poe",
+          "best_for": "Partidas con el techo más alto y abuso de cadenas",
+          "recommended_character": "Poe Ratcho",
+          "core_cards": [
+            "Armadura",
+            "Atractor",
+            "Pummarola",
+            "Candella",
+            "Comodín"
+          ],
+          "priority_evolutions": [
+            "NO FUTURE",
+            "La Borra"
+          ],
+          "deck_shape": "Motor de robo centrado en azul con un finalizador real",
+          "how_to_play": "Prioriza las cartas de Armadura azules para que cada robo mantenga el turno activo. Una vez que el bucle sea estable, añade el Runetracer como el único finalizador de alto daño y liquida al final de la cadena."
         },
         {
-          "name": "Pico de Escarcha",
-          "priority": "Muy alta",
-          "description": "Una herramienta de minería inicial rápida y barata hecha de Osmio y Palo. Es una de las mejoras más útiles para acelerar la recolección inicial de recursos."
+          "name": "Cadena de Quemadura de Fuego Infernal de Arca",
+          "best_for": "Limpiezas rápidas y escalado de daño fácil",
+          "recommended_character": "Arca Ladonna",
+          "core_cards": [
+            "Vara de Fuego",
+            "Espinaca",
+            "Comodín",
+            "Hacha",
+            "Candella"
+          ],
+          "priority_evolutions": [
+            "Fuego Infernal",
+            "Espiral de Muerte"
+          ],
+          "deck_shape": "Lista de daño compacta construida alrededor de un abridor de costo 0",
+          "how_to_play": "Usa la Vara de Fuego como iniciador de cadena, aplica quemadura primero y luego multiplica tu seguimiento más grande. Una vez que el Fuego Infernal esté activo, lucha cerca de los charcos de fuego para que la habitación siga recibiendo daño tras terminar tu turno."
         },
         {
-          "name": "Cubo de Almacenamiento",
-          "priority": "Muy alta",
-          "description": "La presión del inventario comienza pronto, por lo que obtener tu primer contenedor confiable tipo cofre es una mejora importante de calidad de vida."
+          "name": "Tempo de Lágrima Sangrienta de Antonio",
+          "best_for": "Limpiezas iniciales consistentes y partidas tempranas permisivas",
+          "recommended_character": "Antonio Belpaese",
+          "core_cards": [
+            "Látigo",
+            "Corazón Hueco",
+            "Cuchillo",
+            "Brazal",
+            "Comodín"
+          ],
+          "priority_evolutions": [
+            "Lágrima Sangrienta",
+            "Mil Filos"
+          ],
+          "deck_shape": "Mazo de cadena pequeño de 12-14 cartas con atacantes de bajo costo",
+          "how_to_play": "Carga el mazo con cartas de costo 0 y 1 para que el Látigo aparezca con frecuencia. Evoluciona a Lágrima Sangrienta rápidamente, estabiliza con robo de vida y usa Mil Filos como carta de daño de seguimiento si la partida lo permite."
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "priority": "Alta",
-          "description": "El gancho es uno de los hitos de movimiento más claros del juego y rápidamente hace que la exploración sea más rápida y segura."
-        },
-        {
-          "name": "Guante planeador",
-          "priority": "Alta",
-          "description": "El guante planeador añade otro gran impulso a la movilidad y hace que el movimiento a larga distancia sea mucho más eficiente."
-        },
-        {
-          "name": "Varita de proyectiles o bombas",
-          "priority": "Alta",
-          "description": "Una herramienta a distancia o una opción explosiva te brinda una respuesta más segura ante enemigos peligrosos y encuentros tipo desafío."
+          "name": "Bola de Nieve de XP de Imelda",
+          "best_for": "Partidas de escalado y dominio basado en niveles",
+          "recommended_character": "Imelda Belpaese",
+          "core_cards": [
+            "Vara Mágica",
+            "Tomo Vacío",
+            "Atractor",
+            "Spellbinder",
+            "Consumibles amarillos"
+          ],
+          "priority_evolutions": [
+            "Vara Sagrada",
+            "Vísperas Impías"
+          ],
+          "deck_shape": "Mazo de motor pequeño que protege sus herramientas de robo y XP",
+          "how_to_play": "Deja un enemigo débil vivo al principio, cicla cartas amarillas para acumular XP permanente y no canjees el Atractor demasiado pronto. Una vez que el bono de XP esté funcionando, la Vara Sagrada le da a la build la ráfaga necesaria para convertir los niveles en control del tablero."
         }
       ]
     },
     "lucidBlocksAchievementTracker": {
-      "title": "Seguimiento de logros de Lucid Blocks",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks tiene actualmente 19 logros de Steam, y se dividen naturalmente en progresión de exploración, artesanía, movilidad, combate y crecimiento.",
-      "groups": [
+      "eyebrow": "Core System",
+      "title": "Vampire Crawlers Deck Building That Actually Chains",
+      "displayType": "step-by-step",
+      "subtitle": "Good lists in Vampire Crawlers are usually smaller, cleaner, and more deliberate than new players expect. The goal is not to collect every strong card; it is to see the right costs in the right order every turn.",
+      "intro": "TurboTurn rewards sequencing, not pile size. A good deck makes it easy to open a chain, bridge missing costs, and finish on a real payoff card without filling your draw pile with cards that do not advance the plan.",
+      "items": [
         {
-          "name": "Exploración",
-          "achievements": [
-            {
-              "title": "__PROTECTED_c973d4a3__ α",
-              "description": "Entrar en una qualia."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ γ",
-              "description": "Descubrir una línea ley de tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ δ",
-              "description": "Superar un desafío de tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ ε",
-              "description": "Logro oculto."
-            }
-          ]
+          "step": 1,
+          "heading": "Start with a small deck",
+          "details": "The community baseline is 12-14 cards for most Crawlers because smaller decks redraw chain pieces more often and make your best cards feel consistent instead of random."
         },
         {
-          "name": "Artesanía e invocación",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fusionar un objeto."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fusionar una alimaña."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fusionar un artefacto divino."
-            },
-            {
-              "title": "Arcángel β",
-              "description": "Invoca tu fe."
-            }
-          ]
+          "step": 2,
+          "heading": "Guarantee a real opener",
+          "details": "You want at least one reliable 0-cost start or a Wild Card that can stand in for one. Empty Tome and Spellbinder are especially valuable because they help the chain without wasting tempo."
         },
         {
-          "name": "Movilidad y utilidad",
-          "achievements": [
-            {
-              "title": "Virtud α",
-              "description": "Volar con el guante planeador."
-            },
-            {
-              "title": "Virtud β",
-              "description": "Dominar un gancho."
-            },
-            {
-              "title": "Arcángel α",
-              "description": "Empuñar una varita de proyectiles."
-            },
-            {
-              "title": "Arcángel γ",
-              "description": "Empuñar un explosivo."
-            }
-          ]
+          "step": 3,
+          "heading": "Do not skip the middle of the curve",
+          "details": "Most failed turns happen because the deck has a cute finisher but not enough 1-cost or 2-cost cards. Build redundancy in the middle so one bad draw does not brick the whole turn."
         },
         {
-          "name": "Combate y criaturas",
-          "achievements": [
-            {
-              "title": "Masacre de __PROTECTED_26ee183b__",
-              "description": "Derrotar osos burbuja inocentes."
-            },
-            {
-              "title": "Arcángel δ",
-              "description": "Eliminar una criatura blasfema."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ β",
-              "description": "Morir."
-            },
-            {
-              "title": "Dominio γ",
-              "description": "Cambiar el nombre a una alimaña adorable."
-            }
-          ]
+          "step": 4,
+          "heading": "Reserve space for one premium closer",
+          "details": "Once the deck can reliably go up the curve, add a true payoff card. Unholy Vespers and NO FUTURE are the clearest examples of finishers that reward a clean chain."
         },
         {
-          "name": "Crecimiento y cultivo",
-          "achievements": [
-            {
-              "title": "Dominio α",
-              "description": "Fertilizar una semilla."
-            },
-            {
-              "title": "Dominio β",
-              "description": "Cosechar una nuez completamente crecida."
-            },
-            {
-              "title": "Dominio δ",
-              "description": "Logro oculto."
-            }
-          ]
+          "step": 5,
+          "heading": "Run Wild Cards, but stop at 2-3",
+          "details": "Wild Cards preserve ascending order when a cost is missing, which is why most decks want two or three of them. Going heavier starts to dilute the cards that actually deal damage."
+        },
+        {
+          "step": 6,
+          "heading": "Cut dead cards before adding average cards",
+          "details": "The deck-building guide is explicit here: removing a card that never helps your chain or evolution plan is often stronger than taking another mediocre pickup from a shop or event."
+        },
+        {
+          "step": 7,
+          "heading": "Treat Poe as the exception",
+          "details": "Standard deck rules are for standard decks. Poe can bend the normal structure once the blue draw loop is online, but that is a special-case engine, not the baseline for every character."
         }
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Preguntas frecuentes sobre un solo jugador y plataformas de Lucid Blocks",
-      "displayType": "accordion",
-      "intro": "Estas son las preguntas principales sobre plataformas y acceso que los jugadores suelen hacer antes de comprar Lucid Blocks.",
-      "faqs": [
+      "eyebrow": "Roster Ranking",
+      "title": "Vampire Crawlers Current Character Tier List",
+      "displayType": "tier-grid",
+      "subtitle": "The current roster rewards very different kinds of play, so this tier list weighs both raw ceiling and how easy each Crawler is to convert into a winning run. The result is less about hype and more about how each passive changes deck-building decisions.",
+      "intro": "The current launch roster gives you four very different lanes: Poe for ceiling, Antonio for safety, Arca for tempo, and Imelda for scaling. This list weighs both raw payoff and how quickly each passive turns into a dependable run.",
+      "items": [
         {
-          "question": "¿Es Lucid Blocks para un solo jugador?",
-          "answer": "Sí. Lucid Blocks es un juego para un solo jugador."
+          "tier": "S",
+          "name": "Poe Ratcho",
+          "difficulty": "Advanced",
+          "unlock": "Complete Mad Forest Floor 3",
+          "starter": "Armor",
+          "best_for": "Loop decks and the highest combo ceiling",
+          "why_it_ranks_here": "His passive draws a card every time you play a blue Armor card, and that can chain into more blue draws until the whole deck starts cycling itself.",
+          "signature_pairings": [
+            "NO FUTURE",
+            "La Borra",
+            "Attractorb"
+          ]
         },
         {
-          "question": "¿Está planeado el multijugador o cooperativo?",
-          "answer": "No. No se planea multijugador para el lanzamiento ni para futuras actualizaciones."
+          "tier": "A",
+          "name": "Arca Ladonna",
+          "difficulty": "Intermediate",
+          "unlock": "Complete Inlaid Library Floor 2",
+          "starter": "Fire Wand",
+          "best_for": "Fast pressure and burn-based chain starts",
+          "why_it_ranks_here": "Making Fire Wand cost 0 is a huge tempo edge, and the burn debuff means later cards hit even harder after the opener lands.",
+          "signature_pairings": [
+            "Hellfire",
+            "Death Spiral",
+            "Spinach"
+          ]
         },
         {
-          "question": "¿Dónde puedo jugar Lucid Blocks?",
-          "answer": "Actualmente está disponible en Steam para Windows."
+          "tier": "A",
+          "name": "Antonio Belpaese",
+          "difficulty": "Beginner",
+          "unlock": "Available from the start",
+          "starter": "Whip",
+          "best_for": "New players and stable first clears",
+          "why_it_ranks_here": "He starts with an extra 0-cost Charge card and keeps gaining Max HP as he levels, which makes his deck the easiest to pilot cleanly from the opening floor onward.",
+          "signature_pairings": [
+            "Bloody Tear",
+            "Thousand Edge",
+            "Hollow Heart"
+          ]
         },
         {
-          "question": "¿Cuánto cuesta Lucid Blocks?",
-          "answer": "$9.99 en Steam."
-        },
-        {
-          "question": "¿Lucid Blocks es compatible con controles?",
-          "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello."
-        },
-        {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
-          "answer": "Sí. Proton 9.0 o 9.0.4 es la configuración recomendada habitualmente para Steam Deck."
-        },
-        {
-          "question": "¿Lucid Blocks funciona en Linux?",
-          "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
-        },
-        {
-          "question": "¿Habrá soporte para Mac o Android?",
-          "answer": "Es posible que sean compatibles en el futuro, pero no son plataformas de lanzamiento actuales."
-        },
-        {
-          "question": "¿Lucid Blocks tiene traducciones?",
-          "answer": "No. Actualmente no hay traducciones planeadas."
-        },
-        {
-          "question": "¿Lucid Blocks seguirá recibiendo actualizaciones?",
-          "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
+          "tier": "B",
+          "name": "Imelda Belpaese",
+          "difficulty": "Intermediate",
+          "unlock": "Available from the start",
+          "starter": "Magic Wand",
+          "best_for": "XP farming and late-run scaling",
+          "why_it_ranks_here": "Her payoff is excellent, but it asks for more setup because the deck wants to stall early fights, cycle yellow consumables, and protect tools like Attractorb instead of evolving them too fast.",
+          "signature_pairings": [
+            "Holy Wand",
+            "Unholy Vespers",
+            "Attractorb"
+          ]
         }
       ]
     },
     "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks en Steam Deck y controles",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks puede ejecutarse en Steam Deck, pero la configuración predeterminada puede necesitar ajustes. El teclado y el mouse siguen siendo la opción más fluida para los menús y el juego en general.",
+      "title": "Vampire Crawlers Characters and Unlocks",
+      "displayType": "card-list",
+      "intro": "Each Crawler bends Mana Chains in a different direction. Compare starters, passives, unlock goals, and first upgrade targets so your first unlock route powers a stronger early game.",
       "faqs": [
         {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
-          "answer": "Sí. Proton 9.0 funciona bien, y Proton 9.0.4 es una solución compartida habitualmente para problemas en Steam Deck."
+          "question": "Antonio Belpaese",
+          "name": "Antonio Belpaese",
+          "difficulty": "Beginner",
+          "unlock": "Available from the start",
+          "starter_card": "Whip",
+          "passive": "Starts each run with an additional 0-cost Charge card and gains +5 Max HP every 5 levels.",
+          "best_evolutions": [
+            "Bloody Tear",
+            "Thousand Edge"
+          ],
+          "playstyle": "Aggressive melee opener that wants a tight 12-card deck and an early Bloody Tear."
         },
         {
-          "question": "¿Qué debo hacer si los controles de Steam Deck no funcionan?",
-          "answer": "Fuerza la compatibilidad y cambia el juego a Proton 9.0.4. Es posible que la configuración predeterminada no acepte correctamente la entrada del control."
+          "question": "Imelda Belpaese",
+          "name": "Imelda Belpaese",
+          "difficulty": "Intermediate",
+          "unlock": "Available from the start",
+          "starter_card": "Magic Wand",
+          "passive": "Each yellow Consumable card grants +5% permanent XP bonus, stacking up to +90%; at level 10 she gains +1 card draw in the opening hand.",
+          "best_evolutions": [
+            "Holy Wand",
+            "Unholy Vespers"
+          ],
+          "playstyle": "An XP-snowball specialist that stalls early fights, cycles yellow cards, and spikes hard once her level curve takes off."
         },
         {
-          "question": "¿Lucid Blocks es compatible con controles?",
-          "answer": "Sí, pero no se recomienda jugar con control porque los menús del juego no están diseñados para ello."
+          "question": "Poe Ratcho",
+          "name": "Poe Ratcho",
+          "difficulty": "Advanced",
+          "unlock": "Complete Mad Forest Floor 3",
+          "starter_card": "Armor",
+          "passive": "Each blue Armor or Shield card draws 1 card immediately, enabling long blue-card loops.",
+          "best_evolutions": [
+            "NO FUTURE",
+            "La Borra"
+          ],
+          "playstyle": "A combo engine built around blue-card draw chains, compact decks, and long turns that keep the hand flowing."
         },
         {
-          "question": "¿Es posible el soporte para Linux?",
-          "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
-        },
-        {
-          "question": "¿Cuál es la mejor configuración de entrada?",
-          "answer": "El teclado y el mouse son la opción más fluida para la navegación por los menús y el juego general momento a momento."
+          "question": "Arca Ladonna",
+          "name": "Arca Ladonna",
+          "difficulty": "Intermediate",
+          "unlock": "Complete Inlaid Library Floor 2",
+          "starter_card": "Fire Wand",
+          "passive": "Fire Wand costs 0 for Arca, and burning enemies take +15% damage from all sources for 2 turns.",
+          "best_evolutions": [
+            "Hellfire",
+            "Death Spiral"
+          ],
+          "playstyle": "A fire-focused Crawler that uses a free Fire Wand to open or extend chains before cashing out with heavy AoE."
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
-      "title": "Ajustes y accesibilidad de Lucid Blocks",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks ya cuenta con algunos ajustes prácticos y notas de compatibilidad que son importantes de inmediato cuando los jugadores inician el juego por primera vez.",
+      "title": "Vampire Crawlers Card List",
+      "displayType": "table",
+      "intro": "Use this Vampire Crawlers card list to scan card costs, roles, and evolution paths at a glance when planning your next chain.",
       "settings": [
         {
-          "name": "Ajustes de pantalla",
-          "type": "Opción de comodidad",
-          "description": "Los ajustes de pantalla incluyen una opción que permite a los jugadores ocultar las manos en pantalla."
+          "name": "Vampire Crawlers Weapon Cards",
+          "category": "Base Weapon",
+          "cost": "1",
+          "upgrade_or_recipe": "Evolves to Bloody Tear",
+          "effect": "Deals damage to the closest enemy and can clip adjacent enemies with its whip-crack arc."
         },
         {
-          "name": "Compatibilidad de gráficos",
-          "type": "Requisito del sistema",
-          "description": "Se requiere soporte de __PROTECTED_38625270__ para que los gráficos se rendericen correctamente. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados y errores gráficos graves."
+          "name": "Knife",
+          "category": "Base Weapon",
+          "cost": "1",
+          "upgrade_or_recipe": "Evolves to Thousand Edge",
+          "effect": "Fires rapidly at the nearest enemy; low single-hit damage but excellent hit count."
         },
         {
-          "name": "Preferencia de entrada",
-          "type": "Configuración de control",
-          "description": "Existe soporte para controles, pero el teclado y el mouse brindan una experiencia más fluida porque los menús no están diseñados para el uso de controles."
+          "name": "Magic Wand",
+          "category": "Base Weapon",
+          "cost": "2",
+          "upgrade_or_recipe": "Evolves to Holy Wand",
+          "effect": "Reliable mid-chain magic bolts aimed at the nearest enemy."
         },
         {
-          "name": "Soporte de idiomas",
-          "type": "Localización",
-          "description": "La configuración actual es solo en inglés y no hay traducciones planeadas en este momento."
+          "name": "Axe",
+          "category": "Base Weapon",
+          "cost": "2",
+          "upgrade_or_recipe": "Evolves to Death Spiral",
+          "effect": "Slow but powerful sweeping damage that can catch every enemy in an arc."
+        },
+        {
+          "name": "King Bible",
+          "category": "Base Weapon",
+          "cost": "3",
+          "upgrade_or_recipe": "Evolves to Unholy Vespers",
+          "effect": "Orbiting projectiles that persist and hit repeatedly; a natural chain finisher."
+        },
+        {
+          "name": "Fire Wand",
+          "category": "Base Weapon",
+          "cost": "1",
+          "upgrade_or_recipe": "Evolves to Hellfire",
+          "effect": "Piercing fire attack that passes through enemies; Arca treats it as 0-cost."
+        },
+        {
+          "name": "Garlic",
+          "category": "Base Weapon",
+          "cost": "2",
+          "upgrade_or_recipe": "Evolves to Soul Eater",
+          "effect": "Creates a damaging aura around the Crawler for one turn."
+        },
+        {
+          "name": "Santa Water",
+          "category": "Base Weapon",
+          "cost": "1",
+          "upgrade_or_recipe": "Evolves to La Borra",
+          "effect": "Lobs holy water that damages where it lands and can hit multiple enemies."
+        },
+        {
+          "name": "Runetracer",
+          "category": "Base Weapon",
+          "cost": "3",
+          "upgrade_or_recipe": "Evolves to NO FUTURE",
+          "effect": "Bounces between enemies and shines as a late-chain finisher."
+        },
+        {
+          "name": "Peachone",
+          "category": "Base Weapon",
+          "cost": "2",
+          "upgrade_or_recipe": "No documented evolution",
+          "effect": "A homing bird weapon with 2 Gem Slots; unlocks at Character Level 25."
+        },
+        {
+          "name": "Hollow Heart",
+          "category": "Key Item",
+          "cost": "1",
+          "upgrade_or_recipe": "Ingredient for Whip -> Bloody Tear",
+          "effect": "+20% Max HP passively; the 'Destroyed after use' version cannot be used for evolution."
+        },
+        {
+          "name": "Bracer",
+          "category": "Key Item",
+          "cost": "1",
+          "upgrade_or_recipe": "Ingredient for Knife -> Thousand Edge",
+          "effect": "+15% Projectile Speed and +10% damage passively."
+        },
+        {
+          "name": "Empty Tome",
+          "category": "Key Item",
+          "cost": "0",
+          "upgrade_or_recipe": "Ingredient for Magic Wand -> Holy Wand",
+          "effect": "-8% Cooldown passively and a strong 0-cost chain starter."
+        },
+        {
+          "name": "Candella",
+          "category": "Key Item",
+          "cost": "1",
+          "upgrade_or_recipe": "Ingredient for Axe -> Death Spiral",
+          "effect": "+20 Armor on play; a blue card that also helps Poe's draw loops."
+        },
+        {
+          "name": "Spellbinder",
+          "category": "Key Item",
+          "cost": "0",
+          "upgrade_or_recipe": "Ingredient for King Bible -> Unholy Vespers",
+          "effect": "+10% Spell Duration passively and one of the cleanest 0-cost openers."
+        },
+        {
+          "name": "Spinach",
+          "category": "Key Item",
+          "cost": "1",
+          "upgrade_or_recipe": "Ingredient for Fire Wand -> Hellfire",
+          "effect": "+10% All Damage passively."
+        },
+        {
+          "name": "Pummarola",
+          "category": "Key Item",
+          "cost": "0",
+          "upgrade_or_recipe": "Ingredient for Garlic -> Soul Eater",
+          "effect": "+0.2 HP per second passive regen; a blue card that also triggers Poe's draw."
+        },
+        {
+          "name": "Attractorb",
+          "category": "Key Item",
+          "cost": "1",
+          "upgrade_or_recipe": "Ingredient for Santa Water -> La Borra",
+          "effect": "On play, draw 2 cards; a blue card that also helps Poe and powers Imelda's XP engine."
+        },
+        {
+          "name": "Armor",
+          "category": "Key Item",
+          "cost": "2",
+          "upgrade_or_recipe": "Ingredient for Runetracer -> NO FUTURE",
+          "effect": "+30 Armor on play; a blue card that also triggers Poe's draw."
+        },
+        {
+          "name": "Wild Card",
+          "category": "Wild",
+          "cost": "W",
+          "upgrade_or_recipe": "-",
+          "effect": "Counts as any mana cost in a Mana Chain without breaking ascending order."
+        },
+        {
+          "name": "Bloody Tear",
+          "category": "Evolved Weapon",
+          "cost": "1",
+          "upgrade_or_recipe": "Recipe: Whip + Hollow Heart",
+          "effect": "Critical damage plus XP steal on kill."
+        },
+        {
+          "name": "Thousand Edge",
+          "category": "Evolved Weapon",
+          "cost": "1",
+          "upgrade_or_recipe": "Recipe: Knife + Bracer",
+          "effect": "Eight rapid hits with no cooldown."
+        },
+        {
+          "name": "Holy Wand",
+          "category": "Evolved Weapon",
+          "cost": "2",
+          "upgrade_or_recipe": "Recipe: Magic Wand + Empty Tome",
+          "effect": "Continuous bolts with no delay."
+        },
+        {
+          "name": "Death Spiral",
+          "category": "Evolved Weapon",
+          "cost": "2",
+          "upgrade_or_recipe": "Recipe: Axe + Candella",
+          "effect": "Passes through all enemies for strong room clear."
+        },
+        {
+          "name": "Unholy Vespers",
+          "category": "Evolved Weapon",
+          "cost": "3",
+          "upgrade_or_recipe": "Recipe: King Bible + Spellbinder",
+          "effect": "Persistent orbiting projectiles that last for 3 turns."
+        },
+        {
+          "name": "Hellfire",
+          "category": "Evolved Weapon",
+          "cost": "0",
+          "upgrade_or_recipe": "Recipe: Fire Wand + Spinach",
+          "effect": "Piercing fireballs with lingering burning pools."
+        },
+        {
+          "name": "Soul Eater",
+          "category": "Evolved Weapon",
+          "cost": "2",
+          "upgrade_or_recipe": "Recipe: Garlic + Pummarola",
+          "effect": "Steals Max HP from enemies permanently."
+        },
+        {
+          "name": "La Borra",
+          "category": "Evolved Weapon",
+          "cost": "1",
+          "upgrade_or_recipe": "Recipe: Santa Water + Attractorb",
+          "effect": "Growing holy-water zones that burn enemies."
+        },
+        {
+          "name": "NO FUTURE",
+          "category": "Evolved Weapon",
+          "cost": "3",
+          "upgrade_or_recipe": "Recipe: Runetracer + Armor",
+          "effect": "Explodes on play and triggers another explosion when hit."
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Actualizaciones y notas del parche de Lucid Blocks",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks ya está recibiendo correcciones rápidas post-lanzamiento y pequeñas actualizaciones de usabilidad.",
+      "title": "Vampire Crawlers Dungeon Events",
+      "displayType": "card-list",
+      "intro": "Vampire Crawlers dungeon events are major power swings. Learn which detours are worth the floor time so your run stays stable and scales harder.",
       "entries": [
         {
-          "title": "Actualización 2.8.2",
-          "type": "Actualización de IU",
-          "description": "Se cambió el nombre de \"awaken\" (despertar) a \"exit\" (salir) en el menú principal."
+          "type": "Healing",
+          "title": "Healing Spring",
+          "name": "Healing Spring",
+          "location": "Mad Forest · Inlaid Library",
+          "reward": "+40 HP",
+          "cost": "Free",
+          "description": "A restorative pool that heals a large chunk of HP with no downside.",
+          "best_time_to_take": "Any time you are missing health; it is an easy detour."
         },
         {
-          "title": "Pequeño parche para cierres al iniciar",
-          "type": "Hotfix",
-          "description": "Se lanzó un parche dedicado para los jugadores cuyo juego se cerraba inesperadamente al iniciar."
+          "type": "Risk Reward",
+          "title": "Sealed Treasure Chamber",
+          "name": "Sealed Treasure Chamber",
+          "location": "Mad Forest · Inlaid Library",
+          "reward": "3 Evolution Gems or rare loot",
+          "cost": "~20 HP",
+          "description": "Spend a little life to open a sealed room packed with valuable rewards.",
+          "best_time_to_take": "Take it unless you are below roughly 30% HP and have no healing lined up."
         },
         {
-          "title": "Soporte de contenido post-lanzamiento",
-          "type": "Nota de hoja de ruta",
-          "description": "Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
+          "type": "Arcana Spike",
+          "title": "Vampire Portrait Gallery",
+          "name": "Vampire Portrait Gallery",
+          "location": "Inlaid Library",
+          "reward": "Random Arcana",
+          "cost": "Free exploration",
+          "description": "A hidden corridor that grants one of the strongest run upgrades in the game.",
+          "best_time_to_take": "High priority whenever it appears."
+        },
+        {
+          "type": "Chain Repair",
+          "title": "Wild Card Fountain",
+          "name": "Wild Card Fountain",
+          "location": "Mad Forest · Inlaid Library",
+          "reward": "+2 Wild Cards",
+          "cost": "Free",
+          "description": "Adds extra Wild Cards to smooth awkward hands and rescue broken Mana Chains.",
+          "best_time_to_take": "Best when you have fewer than three Wild Cards already."
+        },
+        {
+          "type": "Economy",
+          "title": "Wandering Blacksmith",
+          "name": "Wandering Blacksmith",
+          "location": "Mad Forest · Inlaid Library",
+          "reward": "Discounted socketing or upgrades",
+          "cost": "Gold (~35g+)",
+          "description": "A cheaper way to add a Gem Socket or improve a key card before the village vendor would.",
+          "best_time_to_take": "Excellent before your first evolution if your base weapon still lacks a socket."
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Solución de cierres inesperados y solución de problemas de Lucid Blocks",
-      "displayType": "steps",
-      "intro": "La mayoría de los problemas inmediatos de inicio y cierres deben revisarse en un orden sencillo: nivel de parche, soporte de gráficos, compatibilidad de plataforma y registros.",
+      "title": "Vampire Crawlers Steam Deck and Controller Support",
+      "displayType": "table",
+      "intro": "Use this Vampire Crawlers compatibility matrix to confirm handheld status, controller support, cloud features, and current cross-save expectations.",
       "steps": [
         {
-          "title": "Instala el último hotfix para cierres inesperados",
-          "description": "Si el juego se cierra al iniciar, actualiza primero y prueba de nuevo con el parche más reciente para cierres al inicio."
+          "title": "Steam Deck compatibility",
+          "feature": "Steam Deck compatibility",
+          "status": "Verified",
+          "details": "Steam currently marks Vampire Crawlers as Steam Deck Verified with approved controller layout and legible HUD text."
         },
         {
-          "title": "Verifica el soporte de __PROTECTED_38625270__",
-          "description": "Lucid Blocks requiere soporte de __PROTECTED_38625270__. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados o problemas graves de renderizado."
+          "title": "Controller support",
+          "feature": "Controller support",
+          "status": "Included",
+          "details": "Controller support is included across launch platforms."
         },
         {
-          "title": "Usa Proton 9.0.4 en Steam Deck",
-          "description": "Si la entrada o el comportamiento de inicio en Steam Deck fallan, fuerza la compatibilidad y cambia a Proton 9.0.4."
+          "title": "Steam Cloud",
+          "feature": "Steam Cloud",
+          "status": "Yes",
+          "details": "Steam Cloud is available for the Steam version."
         },
         {
-          "title": "Recopila registros de cierres (logs)",
-          "description": "Abre Ejecutar de Windows, pega %APPDATA%, ve a lucid blocks/logs y reúne los archivos .txt para solucionar el problema."
+          "title": "Family Sharing",
+          "feature": "Family Sharing",
+          "status": "Yes",
+          "details": "Family Sharing is listed on the Steam store page."
         },
         {
-          "title": "Reporta el problema correctamente",
-          "description": "Comparte los registros y los detalles del dispositivo a través del foro oficial de reportes de errores en Discord o en la página de la comunidad de Steam."
+          "title": "Cross-save",
+          "feature": "Cross-save",
+          "status": "Not at launch",
+          "details": "Cross-save is not available at launch and is planned for later platform expansion."
+        },
+        {
+          "title": "Launch platforms",
+          "feature": "Launch platforms",
+          "status": "Steam, Nintendo Switch, Xbox, PlayStation",
+          "details": "Launch coverage includes all four storefront ecosystems, with mobile planned for later."
         }
       ]
     }
   },
   "faq": {
-    "title": "Preguntas",
-    "titleHighlight": "frecuentes",
-    "subtitle": "Todo lo que necesitas saber sobre Lucid Blocks",
+    "title": "Vampire Crawlers Frequently Asked",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know to start strong in Vampire Crawlers.",
     "questions": [
       {
-        "question": "¿Es Lucid Blocks un juego para un solo jugador?",
-        "answer": "Sí. Lucid Blocks es un juego exclusivamente para un solo jugador, sin planes para multijugador o cooperativo."
+        "question": "Is Vampire Crawlers a singleplayer game?",
+        "answer": "Yes. Vampire Crawlers is designed as a singleplayer experience focused on solo run progression."
       },
       {
-        "question": "¿Qué es el sistema Apotheosis en Lucid Blocks?",
-        "answer": "Apotheosis es el sistema de creación por fusión de forma libre de Lucid Blocks. En lugar de seguir recetas fijas, combinas materiales y descubres tus propias rutas de creación."
+        "question": "What is TurboTurn in Vampire Crawlers?",
+        "answer": "TurboTurn is the core combat sequencing loop in Vampire Crawlers, where mana order and chain timing drive run outcomes."
       },
       {
-        "question": "¿Dónde puedo jugar Lucid Blocks?",
-        "answer": "Lucid Blocks está disponible actualmente en Steam para Windows. El soporte para Linux y Steam Deck está disponible a través de Proton 9.0."
+        "question": "Where can I play Vampire Crawlers?",
+        "answer": "Vampire Crawlers is available on Steam, Xbox, PlayStation, and Nintendo launch channels, with mobile planned for later."
       },
       {
-        "question": "¿Cuánto cuesta Lucid Blocks?",
-        "answer": "Lucid Blocks cuesta $9.99 en Steam."
+        "question": "How much does Vampire Crawlers cost?",
+        "answer": "Vampire Crawlers launched at $9.99 / £9.99 / €9.99 / ¥1200."
       },
       {
-        "question": "¿Lucid Blocks es compatible con controles?",
-        "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello. El teclado y el mouse son la opción más fluida."
+        "question": "Does Vampire Crawlers support controllers?",
+        "answer": "Yes. Vampire Crawlers supports controller play, and setup quality improves with a tuned profile on each platform."
       },
       {
-        "question": "¿Recibirá actualizaciones Lucid Blocks?",
-        "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no se pretende que continúen con un calendario regular indefinido."
+        "question": "Will Vampire Crawlers keep getting updates?",
+        "answer": "Vampire Crawlers receives ongoing update support, and major changes can shift build priorities and tier evaluations."
       }
     ]
   },
   "cta": {
-    "title": "¿Listo para explorar Lucid Blocks?",
-    "description": "¡Únete a la comunidad de Lucid Blocks en Discord para ver guías, actualizaciones y discusiones!",
-    "joinCommunity": "Únete a Discord",
-    "joinGame": "Juega en Steam"
+    "title": "Join the Vampire Crawlers Community",
+    "description": "Connect with players, track updates, and follow official announcements for Vampire Crawlers.",
+    "joinCommunity": "Join Discord",
+    "joinGame": "View on Steam"
   },
   "footer": {
-    "title": "Wiki de Lucid Blocks",
-    "description": "Tu centro completo de recursos para la fabricación, biomas, criaturas, logros y guías de supervivencia de Lucid Blocks.",
-    "resources": "Recursos",
-    "community": "Comunidad",
+    "title": "Vampire Crawlers Wiki",
+    "description": "Your complete fan resource hub for Vampire Crawlers guides, unlocks, maps, and platform updates.",
+    "resources": "Resources",
+    "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Comunidad de Steam",
-    "steamStore": "Tienda de Steam",
-    "about": "Acerca de",
-    "privacy": "Política de privacidad",
-    "terms": "Términos de servicio",
-    "copyrightNotice": "Derechos de autor",
-    "copyright": "© 2026 Wiki de Lucid Blocks. No afiliada con los desarrolladores de Lucid Blocks.",
-    "disclaimer": "Sitio web de recursos no oficial creado por fans."
+    "discord": "Official Discord",
+    "twitter": "Reddit",
+    "steamCommunity": "Steam Community",
+    "steamStore": "Steam Store",
+    "about": "About",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Vampire Crawlers Wiki. Not affiliated with poncle or platform holders.",
+    "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Guías de Lucid Blocks",
-      "description": "Guías completas de juego, desde conceptos básicos para principiantes hasta estrategias avanzadas de Apotheosis. Domina la supervivencia y la fabricación.",
-      "metaTitle": "Guías de Lucid Blocks - Estrategias de principiante a avanzado",
-      "metaDescription": "Guías completas de Lucid Blocks que cubren consejos para principiantes, el sistema Apotheosis, estrategias de supervivencia y tácticas expertas para dominar este sandbox surrealista.",
-      "categoryLabel": "GUÍAS DEL JUEGO",
-      "whatIs": "¿Qué son las guías?",
-      "whatIsDescription": "Guías exhaustivas que cubren mecánicas de juego, estrategias de supervivencia y el sistema de fabricación Apotheosis. Aprende todo, desde los primeros pasos hasta técnicas avanzadas.",
-      "why": "¿Por qué leer las guías?",
+    "release": {
+      "title": "Lanzamiento de Vampire Crawlers",
+      "description": "Sigue el cronograma de lanzamiento, precios, anuncios y cobertura de actualizaciones post-lanzamiento de Vampire Crawlers en un solo lugar.",
+      "metaTitle": "Lanzamiento de Vampire Crawlers - Fecha, precio y noticias de estreno",
+      "metaDescription": "Sigue las actualizaciones de la fecha de lanzamiento de Vampire Crawlers, precios de estreno, cronograma de anuncios y noticias de parches para cada plataforma principal.",
+      "categoryLabel": "SEGUIMIENTO DE LANZAMIENTO",
+      "whatIs": "¿Qué es Lanzamiento?",
+      "whatIsDescription": "Lanzamiento de Vampire Crawlers recopila artículos enfocados en el estreno como /release/vampire-crawlers-release-date, /release/vampire-crawlers-announcement y /release/vampire-crawlers-update.",
+      "why": "¿Por qué seguir las actualizaciones de lanzamiento?",
       "whySteps": {
-        "step1Title": "Aprende las mecánicas principales",
-        "step1Description": "Entiende el sistema Apotheosis y evita errores comunes de principiante",
-        "step2Title": "Progresión rápida",
-        "step2Description": "Sigue caminos probados para sobrevivir y prosperar en este mundo surrealista",
-        "step3Title": "Domina las estrategias",
-        "step3Description": "Desarrolla tácticas avanzadas para la exploración y la fabricación"
+        "step1Title": "Rastrea el cronograma de estreno",
+        "step1Description": "Consulta ventanas de lanzamiento exactas, detalles del despliegue del primer día y cambios importantes de fecha.",
+        "step2Title": "Compara precios en tiendas",
+        "step2Description": "Revisa la cobertura de precios y diferencias entre tiendas antes de decidir dónde comprar.",
+        "step3Title": "Entérate de nuevas actualizaciones",
+        "step3Description": "Mantente al tanto de los anuncios oficiales y publicaciones de actualización a medida que llega nueva información."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de lanzamiento"
     },
-    "crafting": {
-      "title": "Fabricación en Lucid Blocks",
-      "description": "Domina el sistema de fusión Apotheosis con mecánicas de esencia, recetas y estrategias de fabricación para objetos poderosos.",
-      "metaTitle": "Fabricación en Lucid Blocks - Sistema Apotheosis y recetas",
-      "metaDescription": "Domina el sistema de fabricación Apotheosis de Lucid Blocks. Aprende mecánicas de esencia, recetas de fusión y estrategias para crear herramientas y armas poderosas.",
-      "categoryLabel": "SISTEMA DE FABRICACIÓN",
-      "whatIs": "¿Qué es la fabricación?",
-      "whatIsDescription": "El sistema Apotheosis es una mecánica de fusión única impulsada por esencias donde combinas hasta seis objetos para descubrir nuevas recetas. Sin menús de fabricación fijos: la experimentación es la clave.",
-      "why": "¿Por qué dominar la fabricación?",
+    "platform": {
+      "title": "Plataformas de Vampire Crawlers",
+      "description": "Compara la disponibilidad de plataformas, el estado en tiendas y opciones de suscripción como Game Pass para Vampire Crawlers.",
+      "metaTitle": "Plataformas de Vampire Crawlers - Steam, Xbox, PS5, Switch y más",
+      "metaDescription": "Mira dónde está disponible Vampire Crawlers, incluyendo Steam, Xbox, PS5, Switch y detalles de lanzamiento específicos de cada plataforma.",
+      "categoryLabel": "ACCESO A PLATAFORMAS",
+      "whatIs": "¿Qué es Plataforma?",
+      "whatIsDescription": "Plataformas de Vampire Crawlers cubre dónde jugar mediante artículos como /platform/vampire-crawlers-platforms, /platform/vampire-crawlers-steam y /platform/vampire-crawlers-xbox-game-pass.",
+      "why": "¿Por qué comparar plataformas?",
       "whySteps": {
-        "step1Title": "Desbloquea objetos poderosos",
-        "step1Description": "Descubre herramientas esenciales, armas y equipo de movilidad a través de la fusión",
-        "step2Title": "Entiende las esencias",
-        "step2Description": "Aprende cómo se combinan las esencias de los objetos para crear resultados predecibles",
-        "step3Title": "Optimiza recursos",
-        "step3Description": "Usa mecánicas de dilución para maximizar la producción con materiales baratos"
+        "step1Title": "Elige la mejor tienda",
+        "step1Description": "Consulta diferencias de funciones como guardado en la nube, beneficios del ecosistema y acceso específico de la tienda.",
+        "step2Title": "Planifica el acceso por suscripción",
+        "step2Description": "Entiende Game Pass y rutas de acceso relacionadas antes de pagar el precio completo.",
+        "step3Title": "Combina con tu dispositivo",
+        "step3Description": "Usa los detalles de plataforma para decidir el mejor ajuste para jugar en PC, consola o portátil."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías de fabricación"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de plataformas"
     },
-    "items": {
-      "title": "Objetos de Lucid Blocks",
-      "description": "Guías detalladas de objetos que cubren herramientas, armas, equipo de movilidad y soluciones de almacenamiento con recetas de fabricación y consejos de uso.",
-      "metaTitle": "Objetos de Lucid Blocks - Guía de herramientas, armas y equipo",
-      "metaDescription": "Base de datos completa de objetos para Lucid Blocks, incluyendo herramientas, armas, equipo de movilidad y almacenamiento. Aprende a fabricar y usar cada objeto de manera efectiva.",
-      "categoryLabel": "OBJETOS Y EQUIPAMIENTO",
-      "whatIs": "¿Qué son los objetos?",
-      "whatIsDescription": "Guías exhaustivas de herramientas, armas, equipo de movilidad y objetos funcionales. Aprende recetas de fabricación, estrategias de uso y combinaciones óptimas.",
-      "why": "¿Por qué consultar las guías de objetos?",
+    "demo": {
+      "title": "Demo de Vampire Crawlers",
+      "description": "Aprende cómo funciona la demo de Vampire Crawlers, qué contenido incluye y cómo se maneja el progreso.",
+      "metaTitle": "Demo de Vampire Crawlers - Acceso, duración y transferencia",
+      "metaDescription": "Usa el centro de la demo de Vampire Crawlers para consultar pasos de acceso, duración de la demo, comportamiento de progresión y diferencias con la versión final.",
+      "categoryLabel": "CENTRO DE DEMO",
+      "whatIs": "¿Qué es Demo?",
+      "whatIsDescription": "Demo de Vampire Crawlers es la sección enfocada en el pre-lanzamiento y pruebas con enlaces como /demo/vampire-crawlers-demo, /demo/vampire-crawlers-demo-length y /demo/vampire-crawlers-demo-carry-over-to-full-game.",
+      "why": "¿Por qué usar la cobertura de la demo?",
       "whySteps": {
-        "step1Title": "Aprende recetas de fabricación",
-        "step1Description": "Descubre cómo fabricar herramientas y armas esenciales usando Apotheosis",
-        "step2Title": "Optimiza tu equipamiento",
-        "step2Description": "Elige los mejores objetos para tu estilo de juego y etapa de progresión",
-        "step3Title": "Mejora tu supervivencia",
-        "step3Description": "Equípate con equipo de movilidad y armas para navegar por este mundo peligroso"
+        "step1Title": "Prueba la jugabilidad principal",
+        "step1Description": "Previsualiza el movimiento, la secuencia de cartas y el ritmo de combate antes de comprometerte por completo.",
+        "step2Title": "Establece expectativas",
+        "step2Description": "Entiende los límites de la demo, los sistemas incluidos y las fronteras de progresión antes del lanzamiento.",
+        "step3Title": "Prueba el rendimiento",
+        "step3Description": "Valida cómo corre el juego en tu hardware antes de elegir tu plataforma principal."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los objetos"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de la demo"
     },
-    "biomes": {
-      "title": "Biomas de Lucid Blocks",
-      "description": "Explora las regiones del mundo, características ambientales, ubicaciones de recursos y consejos de supervivencia para cada bioma.",
-      "metaTitle": "Biomas de Lucid Blocks - Regiones del mundo y exploración",
-      "metaDescription": "Explora los biomas de Lucid Blocks, incluyendo las Líneas Ley de Tiamana, Fog Meadow y regiones surrealistas. Encuentra recursos, evita peligros y navega por un mundo infinito.",
-      "categoryLabel": "REGIONES DEL MUNDO",
-      "whatIs": "¿Qué son los biomas?",
-      "whatIsDescription": "Guías de las diferentes regiones del mundo, características ambientales, distribución de recursos y zonas de peligro. Aprende qué esperar y cómo prepararte para cada área.",
-      "why": "¿Por qué explorar los biomas?",
+    "guide": {
+      "title": "Guía de Vampire Crawlers",
+      "description": "Domina los fundamentos de Vampire Crawlers con rutas para principiantes, consejos de secuencia de combate y guías de toma de decisiones a mitad de la partida.",
+      "metaTitle": "Guía de Vampire Crawlers - Consejos para principiantes, reglas y estrategia",
+      "metaDescription": "Lee contenido práctico de la guía de Vampire Crawlers para tus primeras partidas, reglas de batalla, consejos de supervivencia y planificación de rutas tras las primeras victorias.",
+      "categoryLabel": "GUÍA DE JUEGO",
+      "whatIs": "¿Qué es Guía?",
+      "whatIsDescription": "Guía de Vampire Crawlers es la categoría de estrategia principal que incluye /guide/vampire-crawlers-guide, /guide/vampire-crawlers-rules y /guide/vampire-crawlers-tips.",
+      "why": "¿Por qué leer artículos de la guía?",
       "whySteps": {
-        "step1Title": "Encuentra recursos",
-        "step1Description": "Localiza materiales raros y esencias específicas de cada región",
-        "step2Title": "Evita peligros",
-        "step2Description": "Entiende los riesgos ambientales y las criaturas hostiles",
-        "step3Title": "Planifica tu exploración",
-        "step3Description": "Prepara las herramientas y el equipo adecuados para cada tipo de bioma"
+        "step1Title": "Mejora tus primeras partidas",
+        "step1Description": "Aprende las prioridades iniciales y evita errores comunes de secuencia en los primeros pisos.",
+        "step2Title": "Gana más combates",
+        "step2Description": "Usa una planificación de turnos más limpia y mejores elecciones de ruta para preservar HP y ritmo.",
+        "step3Title": "Progresa más rápido",
+        "step3Description": "Sigue patrones prácticos para mejoras post-partida y victorias consecutivas más sólidas."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los biomas"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de la guía"
     },
-    "building": {
-      "title": "Construcción en Lucid Blocks",
-      "description": "Domina las dimensiones personales Qualia, la construcción de bases, la gestión de almacenamiento y técnicas creativas de construcción.",
-      "metaTitle": "Construcción en Lucid Blocks - Qualia y construcción de bases",
-      "metaDescription": "Domina la construcción en Lucid Blocks con las dimensiones personales Qualia, construcción de bases, soluciones de almacenamiento y técnicas creativas de construcción.",
-      "categoryLabel": "CONSTRUCCIÓN Y BASES",
-      "whatIs": "¿Qué es la construcción?",
-      "whatIsDescription": "Guías sobre el sistema de dimensiones personales Qualia, construcción de bases, gestión de almacenamiento y construcción creativa. Aprende a crear tu refugio seguro en este mundo surrealista.",
-      "why": "¿Por qué construir bases?",
+    "cards": {
+      "title": "Cartas de Vampire Crawlers",
+      "description": "Explora las cartas de Vampire Crawlers, la lógica de combos, pares de evolución y las referencias de listas de cartas usadas en mazos de alta consistencia.",
+      "metaTitle": "Cartas de Vampire Crawlers - Lista de cartas, combos y evoluciones",
+      "metaDescription": "Estudia las cartas de Vampire Crawlers con rutas de combos, requisitos de evolución y referencias de listas de cartas para partidas más rápidas y limpias.",
+      "categoryLabel": "SISTEMA DE CARTAS",
+      "whatIs": "¿Qué es Cartas?",
+      "whatIsDescription": "Cartas de Vampire Crawlers se enfoca en las piezas del mazo y mecánicas de combos, incluyendo /cards/vampire-crawlers-card-list, /cards/vampire-crawlers-combos y /cards/vampire-crawlers-how-combo-works.",
+      "why": "¿Por qué estudiar las mecánicas de cartas?",
       "whySteps": {
-        "step1Title": "Crea espacios seguros",
-        "step1Description": "Establece bases seguras para el almacenamiento y las operaciones de fabricación",
-        "step2Title": "Gestiona tus recursos",
-        "step2Description": "Organiza tus materiales de manera eficiente con soluciones de almacenamiento",
-        "step3Title": "Desbloquea Qualia",
-        "step3Description": "Accede a dimensiones de bolsillo personales para la máxima comodidad"
+        "step1Title": "Construye mejores cadenas",
+        "step1Description": "Planifica el orden de las cartas para que cada turno alcance multiplicadores más fuertes y remates más limpios.",
+        "step2Title": "Aprende las evoluciones",
+        "step2Description": "Usa referencias de recetas y combos para desbloquear efectos evolucionados más fuertes de manera consistente.",
+        "step3Title": "Reduce los robos muertos",
+        "step3Description": "Entiende el equilibrio de roles para que tu mazo se mantenga compacto, flexible y confiable."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías de construcción"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de cartas"
     },
-    "support": {
-      "title": "Soporte de Lucid Blocks",
-      "description": "Soporte técnico, compatibilidad de plataformas, optimización de rendimiento y solución de problemas comunes.",
-      "metaTitle": "Soporte de Lucid Blocks - Ayuda técnica y soluciones",
-      "metaDescription": "Obtén soporte técnico para Lucid Blocks, incluyendo la configuración de Steam Deck, soluciones a cierres inesperados, optimización de rendimiento y guías de compatibilidad de plataformas.",
-      "categoryLabel": "SOPORTE TÉCNICO",
-      "whatIs": "¿Qué es el soporte?",
-      "whatIsDescription": "Guías técnicas que cubren la compatibilidad de plataformas, optimización de rendimiento, soluciones a cierres inesperados y problemas comunes. Obtén ayuda con Steam Deck, preguntas sobre multijugador y ajustes.",
-      "why": "¿Por qué consultar el soporte?",
+    "builds": {
+      "title": "Builds de Vampire Crawlers",
+      "description": "Planifica builds sólidas de Vampire Crawlers con elecciones de personajes, prioridades de mejora y apoyo para la toma de decisiones estilo tier-list.",
+      "metaTitle": "Builds de Vampire Crawlers - Mejores personajes, mejoras y elecciones de tier",
+      "metaDescription": "Usa la cobertura de builds de Vampire Crawlers para prioridades de personajes, planes de mejora y recomendaciones estilo tier-list a través de las etapas de la partida.",
+      "categoryLabel": "PLANIFICADOR DE BUILDS",
+      "whatIs": "¿Qué es Builds?",
+      "whatIsDescription": "Builds de Vampire Crawlers reúne guías de configuración prácticas como /builds/vampire-crawlers-tier-list, /builds/vampire-crawlers-characters y /builds/vampire-crawlers-upgrades.",
+      "why": "¿Por qué usar guías de builds?",
       "whySteps": {
-        "step1Title": "Soluciona problemas técnicos",
-        "step1Description": "Resuelve cierres inesperados, problemas de rendimiento y de compatibilidad",
-        "step2Title": "Optimiza el rendimiento",
-        "step2Description": "Configura los ajustes para obtener la mejor experiencia en tu plataforma",
-        "step3Title": "Compatibilidad de plataformas",
-        "step3Description": "Aprende sobre Steam Deck, soporte para controles y requisitos del sistema"
+        "step1Title": "Elige mejores iniciales",
+        "step1Description": "Selecciona personajes y mejoras iniciales que estabilicen los primeros combates y escalen limpiamente.",
+        "step2Title": "Apunta a mejoras de alto valor",
+        "step2Description": "Prioriza mejoras que aumenten tanto la consistencia como el daño en las etapas finales de la partida.",
+        "step3Title": "Adáptate a los encuentros",
+        "step3Description": "Cambia de ruta de build rápidamente cuando los encuentros de piso o los jefes exijan herramientas diferentes."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de builds"
+    },
+    "stats": {
+      "title": "Estadísticas de Vampire Crawlers",
+      "description": "Comprende las estadísticas de Vampire Crawlers como Poder, Suerte, Codicia, Área y Mano para ajustar el daño, la economía y la supervivencia.",
+      "metaTitle": "Estadísticas de Vampire Crawlers - Poder, Suerte, Codicia y más",
+      "metaDescription": "Lee el desglose de las estadísticas de Vampire Crawlers para optimizar el escalado de daño, el flujo económico, la supervivencia y la eficiencia de las cartas en cada partida.",
+      "categoryLabel": "REFERENCIA DE ESTADÍSTICAS",
+      "whatIs": "¿Qué son las estadísticas?",
+      "whatIsDescription": "Estadísticas de Vampire Crawlers explica los atributos principales con páginas enfocadas como /stats/vampire-crawlers-stats, /stats/vampire-crawlers-might-stat y /stats/vampire-crawlers-luck.",
+      "why": "¿Por qué rastrear las interacciones de las estadísticas?",
+      "whySteps": {
+        "step1Title": "Priorizar subidas de nivel",
+        "step1Description": "Conoce qué estadísticas ofrecen las mayores ganancias en diferentes momentos de una partida.",
+        "step2Title": "Equilibrar ataque y defensa",
+        "step2Description": "Ajusta la supervivencia y el daño para que las partidas se mantengan estables en los pisos más difíciles.",
+        "step3Title": "Escalar la economía de recursos",
+        "step3Description": "Usa la Codicia y estadísticas relacionadas para financiar mejoras más potentes entre intentos."
       },
       "featured": "Destacado y esencial",
-      "all": "Todos los artículos de soporte"
+      "all": "Todos los artículos de estadísticas"
+    },
+    "media": {
+      "title": "Multimedia de Vampire Crawlers",
+      "description": "Sigue la cobertura mediática de Vampire Crawlers a través de reseñas, tráileres, arte conceptual, referencias de actores de voz y capturas de discusiones de la comunidad.",
+      "metaTitle": "Multimedia de Vampire Crawlers - Reseñas, tráileres y cobertura comunitaria",
+      "metaDescription": "Explora las actualizaciones multimedia de Vampire Crawlers, incluyendo resúmenes de reseñas, cobertura de tráileres, recursos visuales y enlaces de referencia clave de la comunidad.",
+      "categoryLabel": "MESA DE PRENSA",
+      "whatIs": "¿Qué es Multimedia?",
+      "whatIsDescription": "Vampire Crawlers Media recopila cobertura externa y recursos a través de páginas como /media/vampire-crawlers-review, /media/vampire-crawlers-key-art y /media/vampire-crawlers-voice-actors.",
+      "why": "¿Por qué seguir las actualizaciones multimedia?",
+      "whySteps": {
+        "step1Title": "Rastrear el impulso de la cobertura",
+        "step1Description": "Monitorea cómo evolucionan las reseñas y los comentarios a medida que el juego recibe actualizaciones.",
+        "step2Title": "Ver tráileres oficiales",
+        "step2Description": "Usa las páginas de tráileres y demostraciones para revisar las mecánicas antes de cambiar tus builds.",
+        "step3Title": "Coleccionar referencias visuales",
+        "step3Description": "Mantén a la mano referencias de logos y arte conceptual para las páginas de la wiki y para compartir en la comunidad."
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todos los artículos multimedia"
     }
   }
 }
