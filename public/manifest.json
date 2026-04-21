@@ -1,12 +1,21 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "id": "/",
+  "name": "Vampire Crawlers Wiki - Guide, Unlocks & Release Date",
+  "short_name": "Vampire Crawlers",
+  "description": "Explore Vampire Crawlers guides, release date updates, platform info, characters, unlocks, and deck-building tips for Steam, PS5, Xbox, and Switch.",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "lang": "en",
+  "dir": "ltr",
+  "theme_color": "#298e7d",
+  "background_color": "#081311",
+  "categories": [
+    "games",
+    "entertainment",
+    "reference"
+  ],
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
