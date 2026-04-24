@@ -1,0 +1,101 @@
+export const metadata = {
+  title: "Control de Vampire Crawlers: Guía de configuración y solución de problemas de mando 2026",
+  description: "Soluciona los problemas de conexión de tu mando en Vampire Crawlers. Aprende a optimizar Steam Input, resolver conflictos de periféricos y mejorar la respuesta del gamepad.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/2d3436/fff?text=Vampire+Crawlers+Controller+Fix",
+  date: "2026-04-25",
+  author: "Equipo de la Wiki de Vampire Crawlers"
+}
+
+Navegar por los oscuros y atmosféricos pasillos de este *survivor-like* gótico requiere precisión, pero muchos jugadores han tenido problemas recientemente para que su configuración del **mando de Vampire Crawlers** funcione correctamente. Ya sea que uses un mando moderno de Xbox Series X, un DualSense de PlayStation o un gamepad especializado de terceros, los conflictos de software a menudo pueden impedir que el juego reconozca tus entradas. En esta guía completa, te guiaremos a través de los pasos esenciales para asegurar que tu **mando de Vampire Crawlers** esté totalmente optimizado para el juego en 2026. Desde el ajuste de la configuración interna de Steam hasta la gestión de conflictos de hardware derivados de periféricos USB adicionales, estas soluciones están diseñadas para que vuelvas a la caza sin la frustración de botones que no responden o palancas con *drift*. Sigue nuestra jerarquía experta de solución de problemas para identificar la causa raíz de tus fallos de conectividad e implementar una solución permanente.
+
+## Optimización de Steam Input para Vampire Crawlers
+
+La razón más común por la que un **mando de Vampire Crawlers** no se registra es un conflicto dentro de la API de Steam Input. Steam actúa como una capa de traducción entre tu hardware y el motor del juego. Dependiendo de cómo se haya desarrollado el juego, este puede requerir que Steam gestione la traducción o puede tener soporte nativo que entre en conflicto con la interfaz superpuesta de Steam.
+
+Para resolver esto, debes experimentar con el interruptor de Steam Input. Esto a menudo obliga al juego a reinicializar su secuencia de detección de hardware.
+
+| Paso | Acción | Resultado esperado |
+| :--- | :--- | :--- |
+| **1** | Haz clic derecho en el juego en tu **Biblioteca de Steam** | Abre el menú contextual |
+| **2** | Selecciona **Propiedades** > **Mando** | Accede a las anulaciones de entrada |
+| **3** | Cambia "Anulación" a **Activar Steam Input** | Fuerza a Steam a gestionar el mando |
+| **4** | **Reinicia el juego** | Aplica la nueva configuración |
+| **5** | Si falla, cambia a **Desactivar Steam Input** | Permite que el juego use controladores nativos |
+
+> **Nota:** Reinicia siempre el juego después de cambiar estos ajustes. El motor del juego normalmente busca hardware de control solo durante la secuencia de inicio inicial, lo que significa que los cambios a mitad de la partida rara vez surten efecto.
+
+## Soluciones de resolución y enfoque
+
+A veces, el problema no es que el mando no esté conectado, sino que la ventana del juego ha perdido el "foco" del sistema operativo Windows. Si el SO cree que estás interactuando con una ventana en segundo plano, es posible que deje de enviar datos del mando al juego.
+
+Una forma rápida de forzar al juego a recapturar la señal del **mando de Vampire Crawlers** es alternando el modo de pantalla. Presionar **Alt + Enter** en tu teclado cambiará el juego entre los modos Ventana y Pantalla completa. Esta acción obliga a la aplicación a volver a registrarse con el Administrador de ventanas de escritorio de Windows, lo que a menudo "despierta" el flujo de entrada del mando.
+
+<div style={{position: "relative", paddingBottom: "56.25%", height: 0, margin: "2rem 0", borderRadius: "0.5rem", overflow: "hidden"}}>
+  <iframe
+    style={{position: "absolute", top: 0, left: 0, width: "100%", height: "100%"}}
+    src="https://www.youtube.com/embed/TvUTcKsfR-0"
+    title="Fix Controller/Gamepad Not Working In Vampire Crawlers"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+  ></iframe>
+</div>
+
+## Gestión de conflictos de periféricos
+
+En 2026, las configuraciones de PC son más complejas que nunca. Los equipos de alta gama suelen incluir palancas de vuelo, volantes de carreras, cámaras web y tarjetas de sonido externas. Desafortunadamente, los motores basados en Unity o Unreal utilizados en muchos títulos modernos pueden "confundirse" si detectan múltiples entradas HID (Human Interface Device). Si tu PC cree que tu palanca de aceleración de vuelo es el dispositivo principal "Jugador 1", tu **mando de Vampire Crawlers** parecerá no funcionar.
+
+Consulta la siguiente tabla para ver los dispositivos en conflicto comunes que deben desconectarse durante el juego:
+
+| Tipo de dispositivo | Nivel de conflicto potencial | Acción recomendada |
+| :--- | :--- | :--- |
+| **Flight Sticks/HOTAS** | **Alto** | Desenchufar antes de iniciar el juego |
+| **Volantes/Pedales** | **Alto** | Desconectar cable USB |
+| **Micrófonos USB** | Bajo | Asegurarse de que no estén mapeados como "Mandos de juego" |
+| **Mandos virtuales** | **Alto** | Desactivar software como vJoy o DS4Windows |
+| **Smartphones (Cargando)** | Medio | Desenchufar para evitar interferencias de "Dispositivo multimedia" |
+
+> **Advertencia:** El uso de software de remapeo de terceros (como DS4Windows o JoyToKey) simultáneamente con Steam Input puede crear un error de "doble entrada" donde una pulsación de botón se registra dos veces. Se recomienda utilizar solo una capa de traducción a la vez.
+
+## Estabilidad de la conexión: Cableado vs. Inalámbrico
+
+Aunque la tecnología inalámbrica ha mejorado significativamente, la interferencia de Bluetooth sigue siendo el principal culpable de la pérdida de entradas. Si experimentas lag o desconexiones intermitentes con tu **mando de Vampire Crawlers**, cambiar a una conexión física es el paso de solución de problemas más fiable.
+
+| Característica | Inalámbrico (Bluetooth) | Cableado (USB-C/Micro) |
+| :--- | :--- | :--- |
+| **Latencia** | 5ms - 20ms | **< 1ms** |
+| **Estabilidad** | Propenso a interferencias | **Alta fiabilidad** |
+| **Configuración** | Requiere emparejamiento | **Plug and Play** |
+| **Batería** | Puede agotarse en plena batalla | **Energía constante** |
+
+Si debes jugar de forma inalámbrica, asegúrate de que tu adaptador Bluetooth no esté conectado a un puerto USB 3.0 directamente al lado de otro dispositivo USB activo, ya que se sabe que los puertos USB 3.0 emiten interferencias de 2.4GHz que pueden interrumpir las señales del mando. Usar un cable de extensión USB corto para alejar el receptor Bluetooth de la caja del PC puede mejorar significativamente la conexión de tu **mando de Vampire Crawlers**.
+
+## Soluciones avanzadas a nivel de sistema
+
+Si el juego sigue sin reconocer tu gamepad, el problema puede residir en los permisos administrativos o en el propio cliente de Steam. Steam necesita permisos específicos para engancharse al proceso del juego e inyectar la interfaz superpuesta del mando.
+
+1. **Reinicia Steam por completo**: No hagas solo clic en la "X". Ve al Administrador de tareas (Ctrl+Shift+Esc), busca Steam y selecciona **Finalizar tarea**.
+2. **Ejecutar como administrador**: Haz clic derecho en el acceso directo de Steam y selecciona **Ejecutar como administrador**. Esto permite a Steam eludir ciertas capas de seguridad de Windows que podrían estar bloqueando la API del mando.
+3. **Actualizar el firmware del mando**: Para los mandos de Xbox y PlayStation, utiliza la aplicación oficial "Accesorios de Xbox" o el "Firmware updater for DualSense" en Windows para asegurarte de que tu hardware esté ejecutando el último firmware de 2026.
+4. **Verificar los archivos del juego**: Ocasionalmente, un archivo de configuración de entrada dañado dentro de la carpeta del juego puede causar problemas. Haz clic derecho en el juego en Steam, ve a **Propiedades > Archivos instalados > Verificar integridad de los archivos del juego**.
+
+Para obtener más soporte técnico, puedes visitar el [Centro de la comunidad de Steam de Vampire Crawlers](https://store.steampowered.com/app/2965410/Vampire_Crawlers/) para ver si otros usuarios están informando errores similares específicos de hardware.
+
+## FAQ
+
+**P: ¿Por qué mi mando de Vampire Crawlers funciona en el menú de Steam pero no en el juego?**
+
+R: Esto suele indicar un problema de "foco" o un conflicto con Steam Input. Es posible que el juego no esté reconociendo la capa del mando virtual de Steam. Intenta desactivar Steam Input en las propiedades del juego para ver si el juego puede detectar tu mando de forma nativa.
+
+**P: ¿Puedo jugar a Vampire Crawlers con un mando DualSense de PlayStation 5?**
+
+R: Sí, sin embargo, es posible que debas activar el "Soporte de configuración de PlayStation" en los ajustes globales de mando de Steam. Si las indicaciones en el juego muestran botones de Xbox (A, B, X, Y) en lugar de los símbolos de PlayStation, esto es una limitación común de la interfaz del juego, pero las entradas deberían funcionar correctamente.
+
+**P: Mi mando tiene drift o se mueve solo en Vampire Crawlers. ¿Cómo lo soluciono?**
+
+R: El drift del mando a menudo es causado por una "zona muerta" (deadzone) configurada demasiado baja. Puedes aumentar la zona muerta en los ajustes de Disposición de mando de Steam. Navega a la sección de "Joysticks" y aumenta el valor de "Inicio de zona muerta" hasta que el movimiento involuntario se detenga.
+
+**P: ¿Soporta el juego mandos genéricos "plug-and-play" para PC?**
+
+R: La mayoría de los mandos genéricos utilizan el estándar DirectInput. Dado que la mayoría de los juegos modernos utilizan XInput, debes asegurarte de que Steam Input esté **Activado** para mandos genéricos. Esto permite a Steam traducir las señales de tu mando genérico a un formato que el juego entienda.
