@@ -1,0 +1,2410 @@
+{
+  "en": {
+    "builds": [
+      {
+        "slug": "vampire-crawlers-best-build",
+        "file": "vampire-crawlers-best-build"
+      },
+      {
+        "slug": "vampire-crawlers-best-upgrades",
+        "file": "vampire-crawlers-best-upgrades"
+      },
+      {
+        "slug": "vampire-crawlers-best-weapon",
+        "file": "vampire-crawlers-best-weapon"
+      },
+      {
+        "slug": "vampire-crawlers-characters",
+        "file": "vampire-crawlers-characters"
+      },
+      {
+        "slug": "vampire-crawlers-forever-heart",
+        "file": "vampire-crawlers-forever-heart"
+      },
+      {
+        "slug": "vampire-crawlers-power-ups",
+        "file": "vampire-crawlers-power-ups"
+      },
+      {
+        "slug": "vampire-crawlers-spinach",
+        "file": "vampire-crawlers-spinach"
+      },
+      {
+        "slug": "vampire-crawlers-tier-list",
+        "file": "vampire-crawlers-tier-list"
+      },
+      {
+        "slug": "vampire-crawlers-unlocks",
+        "file": "vampire-crawlers-unlocks"
+      },
+      {
+        "slug": "vampire-crawlers-upgrades",
+        "file": "vampire-crawlers-upgrades"
+      },
+      {
+        "slug": "vampire-crawlers-weapons",
+        "file": "vampire-crawlers-weapons"
+      }
+    ],
+    "cards": [
+      {
+        "slug": "vampire-crawlers-all-evolutions",
+        "file": "vampire-crawlers-all-evolutions"
+      },
+      {
+        "slug": "vampire-crawlers-cant-evolve",
+        "file": "vampire-crawlers-cant-evolve"
+      },
+      {
+        "slug": "vampire-crawlers-card-list",
+        "file": "vampire-crawlers-card-list"
+      },
+      {
+        "slug": "vampire-crawlers-cards",
+        "file": "vampire-crawlers-cards"
+      },
+      {
+        "slug": "vampire-crawlers-combine-cards",
+        "file": "vampire-crawlers-combine-cards"
+      },
+      {
+        "slug": "vampire-crawlers-combos",
+        "file": "vampire-crawlers-combos"
+      },
+      {
+        "slug": "vampire-crawlers-how-combo-works",
+        "file": "vampire-crawlers-how-combo-works"
+      },
+      {
+        "slug": "vampire-crawlers-how-to-combo",
+        "file": "vampire-crawlers-how-to-combo"
+      },
+      {
+        "slug": "vampire-crawlers-how-to-evolve",
+        "file": "vampire-crawlers-how-to-evolve"
+      },
+      {
+        "slug": "vampire-crawlers-item-combos",
+        "file": "vampire-crawlers-item-combos"
+      },
+      {
+        "slug": "vampire-crawlers-weapon-evolution",
+        "file": "vampire-crawlers-weapon-evolution"
+      }
+    ],
+    "demo": [
+      {
+        "slug": "how-long-is-vampire-crawlers-demo",
+        "file": "how-long-is-vampire-crawlers-demo"
+      },
+      {
+        "slug": "vampire-crawlers-demo-all-crawlers",
+        "file": "vampire-crawlers-demo-all-crawlers"
+      },
+      {
+        "slug": "vampire-crawlers-demo-carry-over-to-full-game",
+        "file": "vampire-crawlers-demo-carry-over-to-full-game"
+      },
+      {
+        "slug": "vampire-crawlers-demo-carry-over",
+        "file": "vampire-crawlers-demo-carry-over"
+      },
+      {
+        "slug": "vampire-crawlers-demo-guide",
+        "file": "vampire-crawlers-demo-guide"
+      },
+      {
+        "slug": "vampire-crawlers-demo-length",
+        "file": "vampire-crawlers-demo-length"
+      },
+      {
+        "slug": "vampire-crawlers-demo-progress",
+        "file": "vampire-crawlers-demo-progress"
+      },
+      {
+        "slug": "vampire-crawlers-demo-review",
+        "file": "vampire-crawlers-demo-review"
+      },
+      {
+        "slug": "vampire-crawlers-demo-save-data",
+        "file": "vampire-crawlers-demo-save-data"
+      },
+      {
+        "slug": "vampire-crawlers-demo-update",
+        "file": "vampire-crawlers-demo-update"
+      },
+      {
+        "slug": "vampire-crawlers-demo",
+        "file": "vampire-crawlers-demo"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "vampire-crawlers-battle-timeouts",
+        "file": "vampire-crawlers-battle-timeouts"
+      },
+      {
+        "slug": "vampire-crawlers-best-builds",
+        "file": "vampire-crawlers-best-builds"
+      },
+      {
+        "slug": "vampire-crawlers-build",
+        "file": "vampire-crawlers-build"
+      },
+      {
+        "slug": "vampire-crawlers-builds",
+        "file": "vampire-crawlers-builds"
+      },
+      {
+        "slug": "vampire-crawlers-guide",
+        "file": "vampire-crawlers-guide"
+      },
+      {
+        "slug": "vampire-crawlers-rules",
+        "file": "vampire-crawlers-rules"
+      },
+      {
+        "slug": "vampire-crawlers-tips",
+        "file": "vampire-crawlers-tips"
+      },
+      {
+        "slug": "vampire-crawlers-trophy-guide",
+        "file": "vampire-crawlers-trophy-guide"
+      },
+      {
+        "slug": "vampire-crawlers-what-to-do-after",
+        "file": "vampire-crawlers-what-to-do-after"
+      }
+    ],
+    "media": [
+      {
+        "slug": "vampire-crawlers-key-art",
+        "file": "vampire-crawlers-key-art"
+      },
+      {
+        "slug": "vampire-crawlers-logo-png",
+        "file": "vampire-crawlers-logo-png"
+      },
+      {
+        "slug": "vampire-crawlers-metacritic",
+        "file": "vampire-crawlers-metacritic"
+      },
+      {
+        "slug": "vampire-crawlers-reddit",
+        "file": "vampire-crawlers-reddit"
+      },
+      {
+        "slug": "vampire-crawlers-review",
+        "file": "vampire-crawlers-review"
+      },
+      {
+        "slug": "vampire-crawlers-voice-actors",
+        "file": "vampire-crawlers-voice-actors"
+      }
+    ],
+    "platform": [
+      {
+        "slug": "vampire-crawlers-ios",
+        "file": "vampire-crawlers-ios"
+      },
+      {
+        "slug": "vampire-crawlers-mobile",
+        "file": "vampire-crawlers-mobile"
+      },
+      {
+        "slug": "vampire-crawlers-platforms",
+        "file": "vampire-crawlers-platforms"
+      },
+      {
+        "slug": "vampire-crawlers-ps4",
+        "file": "vampire-crawlers-ps4"
+      },
+      {
+        "slug": "vampire-crawlers-ps5",
+        "file": "vampire-crawlers-ps5"
+      },
+      {
+        "slug": "vampire-crawlers-steam",
+        "file": "vampire-crawlers-steam"
+      },
+      {
+        "slug": "vampire-crawlers-switch-2",
+        "file": "vampire-crawlers-switch-2"
+      },
+      {
+        "slug": "vampire-crawlers-xbox-game-pass",
+        "file": "vampire-crawlers-xbox-game-pass"
+      },
+      {
+        "slug": "vampire-crawlers-xbox-store",
+        "file": "vampire-crawlers-xbox-store"
+      },
+      {
+        "slug": "vampire-crawlers-xbox",
+        "file": "vampire-crawlers-xbox"
+      }
+    ],
+    "release": [
+      {
+        "slug": "vampire-crawlers-game-release-date",
+        "file": "\"vampire-crawlers\"-game-release-date"
+      },
+      {
+        "slug": "amount-stat-vampire-crawlers",
+        "file": "amount-stat-vampire-crawlers"
+      },
+      {
+        "slug": "area-stat-vampire-crawlers",
+        "file": "area-stat-vampire-crawlers"
+      },
+      {
+        "slug": "combo-vampire-crawlers",
+        "file": "combo-vampire-crawlers"
+      },
+      {
+        "slug": "combos-vampire-crawlers",
+        "file": "combos-vampire-crawlers"
+      },
+      {
+        "slug": "evolutions-vampire-crawlers",
+        "file": "evolutions-vampire-crawlers"
+      },
+      {
+        "slug": "incomplete-combination-vampire-crawlers",
+        "file": "incomplete-combination-vampire-crawlers"
+      },
+      {
+        "slug": "mana-syphon",
+        "file": "mana-syphon"
+      },
+      {
+        "slug": "santa-water",
+        "file": "santa-water"
+      },
+      {
+        "slug": "vampire-crawler-combination",
+        "file": "vampire-crawler-combination"
+      },
+      {
+        "slug": "vampire-crawler-combinations",
+        "file": "vampire-crawler-combinations"
+      },
+      {
+        "slug": "vampire-crawler-combo",
+        "file": "vampire-crawler-combo"
+      },
+      {
+        "slug": "vampire-crawler-evolution",
+        "file": "vampire-crawler-evolution"
+      },
+      {
+        "slug": "vampire-crawler-evolutions",
+        "file": "vampire-crawler-evolutions"
+      },
+      {
+        "slug": "vampire-crawler-tier-list",
+        "file": "vampire-crawler-tier-list"
+      },
+      {
+        "slug": "vampire-crawler-wiki",
+        "file": "vampire-crawler-wiki"
+      },
+      {
+        "slug": "vampire-crawlers-all-characters",
+        "file": "vampire-crawlers-all-characters"
+      },
+      {
+        "slug": "vampire-crawlers-announcement",
+        "file": "vampire-crawlers-announcement"
+      },
+      {
+        "slug": "vampire-crawlers-arcana",
+        "file": "vampire-crawlers-arcana"
+      },
+      {
+        "slug": "vampire-crawlers-area-stat",
+        "file": "vampire-crawlers-area-stat"
+      },
+      {
+        "slug": "vampire-crawlers-area",
+        "file": "vampire-crawlers-area"
+      },
+      {
+        "slug": "vampire-crawlers-best-character",
+        "file": "vampire-crawlers-best-character"
+      },
+      {
+        "slug": "vampire-crawlers-best-characters",
+        "file": "vampire-crawlers-best-characters"
+      },
+      {
+        "slug": "vampire-crawlers-bracer",
+        "file": "vampire-crawlers-bracer"
+      },
+      {
+        "slug": "vampire-crawlers-card-break",
+        "file": "vampire-crawlers-card-break"
+      },
+      {
+        "slug": "vampire-crawlers-card-combinations",
+        "file": "vampire-crawlers-card-combinations"
+      },
+      {
+        "slug": "vampire-crawlers-card-combos",
+        "file": "vampire-crawlers-card-combos"
+      },
+      {
+        "slug": "vampire-crawlers-color-trigger",
+        "file": "vampire-crawlers-color-trigger"
+      },
+      {
+        "slug": "vampire-crawlers-combination",
+        "file": "vampire-crawlers-combination"
+      },
+      {
+        "slug": "vampire-crawlers-combinations",
+        "file": "vampire-crawlers-combinations"
+      },
+      {
+        "slug": "vampire-crawlers-combo-stack",
+        "file": "vampire-crawlers-combo-stack"
+      },
+      {
+        "slug": "vampire-crawlers-combo-system",
+        "file": "vampire-crawlers-combo-system"
+      },
+      {
+        "slug": "vampire-crawlers-combo",
+        "file": "vampire-crawlers-combo"
+      },
+      {
+        "slug": "vampire-crawlers-controller",
+        "file": "vampire-crawlers-controller"
+      },
+      {
+        "slug": "vampire-crawlers-cracked-cards",
+        "file": "vampire-crawlers-cracked-cards"
+      },
+      {
+        "slug": "vampire-crawlers-cracked",
+        "file": "vampire-crawlers-cracked"
+      },
+      {
+        "slug": "vampire-crawlers-easy-combo",
+        "file": "vampire-crawlers-easy-combo"
+      },
+      {
+        "slug": "vampire-crawlers-evo",
+        "file": "vampire-crawlers-evo"
+      },
+      {
+        "slug": "vampire-crawlers-evolution-chart",
+        "file": "vampire-crawlers-evolution-chart"
+      },
+      {
+        "slug": "vampire-crawlers-evolution-list",
+        "file": "vampire-crawlers-evolution-list"
+      },
+      {
+        "slug": "vampire-crawlers-evolution",
+        "file": "vampire-crawlers-evolution"
+      },
+      {
+        "slug": "vampire-crawlers-evolve",
+        "file": "vampire-crawlers-evolve"
+      },
+      {
+        "slug": "vampire-crawlers-full-release-date",
+        "file": "vampire-crawlers-full-release-date"
+      },
+      {
+        "slug": "vampire-crawlers-fusion",
+        "file": "vampire-crawlers-fusion"
+      },
+      {
+        "slug": "vampire-crawlers-fusions",
+        "file": "vampire-crawlers-fusions"
+      },
+      {
+        "slug": "vampire-crawlers-game-pass",
+        "file": "vampire-crawlers-game-pass"
+      },
+      {
+        "slug": "vampire-crawlers-gamepass",
+        "file": "vampire-crawlers-gamepass"
+      },
+      {
+        "slug": "vampire-crawlers-gold-farm",
+        "file": "vampire-crawlers-gold-farm"
+      },
+      {
+        "slug": "vampire-crawlers-hurry",
+        "file": "vampire-crawlers-hurry"
+      },
+      {
+        "slug": "vampire-crawlers-incomplete-combination",
+        "file": "vampire-crawlers-incomplete-combination"
+      },
+      {
+        "slug": "vampire-crawlers-incomplete-combustion",
+        "file": "vampire-crawlers-incomplete-combustion"
+      },
+      {
+        "slug": "vampire-crawlers-infinite",
+        "file": "vampire-crawlers-infinite"
+      },
+      {
+        "slug": "vampire-crawlers-key",
+        "file": "vampire-crawlers-key"
+      },
+      {
+        "slug": "vampire-crawlers-launch",
+        "file": "vampire-crawlers-launch"
+      },
+      {
+        "slug": "vampire-crawlers-levels",
+        "file": "vampire-crawlers-levels"
+      },
+      {
+        "slug": "vampire-crawlers-logo",
+        "file": "vampire-crawlers-logo"
+      },
+      {
+        "slug": "vampire-crawlers-maps",
+        "file": "vampire-crawlers-maps"
+      },
+      {
+        "slug": "vampire-crawlers-multiplier",
+        "file": "vampire-crawlers-multiplier"
+      },
+      {
+        "slug": "vampire-crawlers-official-website",
+        "file": "vampire-crawlers-official-website"
+      },
+      {
+        "slug": "vampire-crawlers-platform",
+        "file": "vampire-crawlers-platform"
+      },
+      {
+        "slug": "vampire-crawlers-press-release",
+        "file": "vampire-crawlers-press-release"
+      },
+      {
+        "slug": "vampire-crawlers-price",
+        "file": "vampire-crawlers-price"
+      },
+      {
+        "slug": "vampire-crawlers-red-trigger",
+        "file": "vampire-crawlers-red-trigger"
+      },
+      {
+        "slug": "vampire-crawlers-release-date",
+        "file": "vampire-crawlers-release-date"
+      },
+      {
+        "slug": "vampire-crawlers-release-time",
+        "file": "vampire-crawlers-release-time"
+      },
+      {
+        "slug": "vampire-crawlers-release",
+        "file": "vampire-crawlers-release"
+      },
+      {
+        "slug": "vampire-crawlers-roadmap",
+        "file": "vampire-crawlers-roadmap"
+      },
+      {
+        "slug": "vampire-crawlers-secrets",
+        "file": "vampire-crawlers-secrets"
+      },
+      {
+        "slug": "vampire-crawlers-splash-damage",
+        "file": "vampire-crawlers-splash-damage"
+      },
+      {
+        "slug": "vampire-crawlers-stats-explained",
+        "file": "vampire-crawlers-stats-explained"
+      },
+      {
+        "slug": "vampire-crawlers-synergies",
+        "file": "vampire-crawlers-synergies"
+      },
+      {
+        "slug": "vampire-crawlers-tips-and-tricks",
+        "file": "vampire-crawlers-tips-and-tricks"
+      },
+      {
+        "slug": "vampire-crawlers-unions",
+        "file": "vampire-crawlers-unions"
+      },
+      {
+        "slug": "vampire-crawlers-update",
+        "file": "vampire-crawlers-update"
+      },
+      {
+        "slug": "vampire-crawlers",
+        "file": "vampire-crawlers-купить"
+      },
+      {
+        "slug": "what-does-area-do-in-vampire-crawlers",
+        "file": "what-does-area-do-in-vampire-crawlers"
+      }
+    ],
+    "stats": [
+      {
+        "slug": "vampire-crawlers-above-100-hp",
+        "file": "vampire-crawlers-above-100-hp"
+      },
+      {
+        "slug": "vampire-crawlers-amount",
+        "file": "vampire-crawlers-amount"
+      },
+      {
+        "slug": "vampire-crawlers-area-splash",
+        "file": "vampire-crawlers-area-splash"
+      },
+      {
+        "slug": "vampire-crawlers-damage-explained",
+        "file": "vampire-crawlers-damage-explained"
+      },
+      {
+        "slug": "vampire-crawlers-greed",
+        "file": "vampire-crawlers-greed"
+      },
+      {
+        "slug": "vampire-crawlers-hand",
+        "file": "vampire-crawlers-hand"
+      },
+      {
+        "slug": "vampire-crawlers-luck",
+        "file": "vampire-crawlers-luck"
+      },
+      {
+        "slug": "vampire-crawlers-might-stat",
+        "file": "vampire-crawlers-might-stat"
+      },
+      {
+        "slug": "vampire-crawlers-no-available-gem-slots",
+        "file": "vampire-crawlers-no-available-gem-slots"
+      },
+      {
+        "slug": "vampire-crawlers-spicy-damage",
+        "file": "vampire-crawlers-spicy-damage"
+      },
+      {
+        "slug": "vampire-crawlers-stats",
+        "file": "vampire-crawlers-stats"
+      },
+      {
+        "slug": "vampire-crawlers-what-does-area-do",
+        "file": "vampire-crawlers-what-does-area-do"
+      }
+    ]
+  },
+  "es": {
+    "builds": [
+      {
+        "slug": "vampire-crawlers-best-build",
+        "file": "vampire-crawlers-best-build"
+      },
+      {
+        "slug": "vampire-crawlers-best-upgrades",
+        "file": "vampire-crawlers-best-upgrades"
+      },
+      {
+        "slug": "vampire-crawlers-best-weapon",
+        "file": "vampire-crawlers-best-weapon"
+      },
+      {
+        "slug": "vampire-crawlers-characters",
+        "file": "vampire-crawlers-characters"
+      },
+      {
+        "slug": "vampire-crawlers-forever-heart",
+        "file": "vampire-crawlers-forever-heart"
+      },
+      {
+        "slug": "vampire-crawlers-power-ups",
+        "file": "vampire-crawlers-power-ups"
+      },
+      {
+        "slug": "vampire-crawlers-spinach",
+        "file": "vampire-crawlers-spinach"
+      },
+      {
+        "slug": "vampire-crawlers-tier-list",
+        "file": "vampire-crawlers-tier-list"
+      },
+      {
+        "slug": "vampire-crawlers-unlocks",
+        "file": "vampire-crawlers-unlocks"
+      },
+      {
+        "slug": "vampire-crawlers-upgrades",
+        "file": "vampire-crawlers-upgrades"
+      },
+      {
+        "slug": "vampire-crawlers-weapons",
+        "file": "vampire-crawlers-weapons"
+      }
+    ],
+    "cards": [
+      {
+        "slug": "vampire-crawlers-all-evolutions",
+        "file": "vampire-crawlers-all-evolutions"
+      },
+      {
+        "slug": "vampire-crawlers-cant-evolve",
+        "file": "vampire-crawlers-cant-evolve"
+      },
+      {
+        "slug": "vampire-crawlers-card-list",
+        "file": "vampire-crawlers-card-list"
+      },
+      {
+        "slug": "vampire-crawlers-cards",
+        "file": "vampire-crawlers-cards"
+      },
+      {
+        "slug": "vampire-crawlers-combine-cards",
+        "file": "vampire-crawlers-combine-cards"
+      },
+      {
+        "slug": "vampire-crawlers-combos",
+        "file": "vampire-crawlers-combos"
+      },
+      {
+        "slug": "vampire-crawlers-how-combo-works",
+        "file": "vampire-crawlers-how-combo-works"
+      },
+      {
+        "slug": "vampire-crawlers-how-to-combo",
+        "file": "vampire-crawlers-how-to-combo"
+      },
+      {
+        "slug": "vampire-crawlers-how-to-evolve",
+        "file": "vampire-crawlers-how-to-evolve"
+      },
+      {
+        "slug": "vampire-crawlers-item-combos",
+        "file": "vampire-crawlers-item-combos"
+      },
+      {
+        "slug": "vampire-crawlers-weapon-evolution",
+        "file": "vampire-crawlers-weapon-evolution"
+      }
+    ],
+    "demo": [
+      {
+        "slug": "how-long-is-vampire-crawlers-demo",
+        "file": "how-long-is-vampire-crawlers-demo"
+      },
+      {
+        "slug": "vampire-crawlers-demo-all-crawlers",
+        "file": "vampire-crawlers-demo-all-crawlers"
+      },
+      {
+        "slug": "vampire-crawlers-demo-carry-over-to-full-game",
+        "file": "vampire-crawlers-demo-carry-over-to-full-game"
+      },
+      {
+        "slug": "vampire-crawlers-demo-carry-over",
+        "file": "vampire-crawlers-demo-carry-over"
+      },
+      {
+        "slug": "vampire-crawlers-demo-guide",
+        "file": "vampire-crawlers-demo-guide"
+      },
+      {
+        "slug": "vampire-crawlers-demo-length",
+        "file": "vampire-crawlers-demo-length"
+      },
+      {
+        "slug": "vampire-crawlers-demo-progress",
+        "file": "vampire-crawlers-demo-progress"
+      },
+      {
+        "slug": "vampire-crawlers-demo-review",
+        "file": "vampire-crawlers-demo-review"
+      },
+      {
+        "slug": "vampire-crawlers-demo-save-data",
+        "file": "vampire-crawlers-demo-save-data"
+      },
+      {
+        "slug": "vampire-crawlers-demo-update",
+        "file": "vampire-crawlers-demo-update"
+      },
+      {
+        "slug": "vampire-crawlers-demo",
+        "file": "vampire-crawlers-demo"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "vampire-crawlers-battle-timeouts",
+        "file": "vampire-crawlers-battle-timeouts"
+      },
+      {
+        "slug": "vampire-crawlers-best-builds",
+        "file": "vampire-crawlers-best-builds"
+      },
+      {
+        "slug": "vampire-crawlers-build",
+        "file": "vampire-crawlers-build"
+      },
+      {
+        "slug": "vampire-crawlers-builds",
+        "file": "vampire-crawlers-builds"
+      },
+      {
+        "slug": "vampire-crawlers-guide",
+        "file": "vampire-crawlers-guide"
+      },
+      {
+        "slug": "vampire-crawlers-rules",
+        "file": "vampire-crawlers-rules"
+      },
+      {
+        "slug": "vampire-crawlers-tips",
+        "file": "vampire-crawlers-tips"
+      },
+      {
+        "slug": "vampire-crawlers-trophy-guide",
+        "file": "vampire-crawlers-trophy-guide"
+      },
+      {
+        "slug": "vampire-crawlers-what-to-do-after",
+        "file": "vampire-crawlers-what-to-do-after"
+      }
+    ],
+    "media": [
+      {
+        "slug": "vampire-crawlers-key-art",
+        "file": "vampire-crawlers-key-art"
+      },
+      {
+        "slug": "vampire-crawlers-logo-png",
+        "file": "vampire-crawlers-logo-png"
+      },
+      {
+        "slug": "vampire-crawlers-metacritic",
+        "file": "vampire-crawlers-metacritic"
+      },
+      {
+        "slug": "vampire-crawlers-reddit",
+        "file": "vampire-crawlers-reddit"
+      },
+      {
+        "slug": "vampire-crawlers-review",
+        "file": "vampire-crawlers-review"
+      },
+      {
+        "slug": "vampire-crawlers-voice-actors",
+        "file": "vampire-crawlers-voice-actors"
+      }
+    ],
+    "platform": [
+      {
+        "slug": "vampire-crawlers-ios",
+        "file": "vampire-crawlers-ios"
+      },
+      {
+        "slug": "vampire-crawlers-mobile",
+        "file": "vampire-crawlers-mobile"
+      },
+      {
+        "slug": "vampire-crawlers-platforms",
+        "file": "vampire-crawlers-platforms"
+      },
+      {
+        "slug": "vampire-crawlers-ps4",
+        "file": "vampire-crawlers-ps4"
+      },
+      {
+        "slug": "vampire-crawlers-ps5",
+        "file": "vampire-crawlers-ps5"
+      },
+      {
+        "slug": "vampire-crawlers-steam",
+        "file": "vampire-crawlers-steam"
+      },
+      {
+        "slug": "vampire-crawlers-switch-2",
+        "file": "vampire-crawlers-switch-2"
+      },
+      {
+        "slug": "vampire-crawlers-xbox-game-pass",
+        "file": "vampire-crawlers-xbox-game-pass"
+      },
+      {
+        "slug": "vampire-crawlers-xbox-store",
+        "file": "vampire-crawlers-xbox-store"
+      },
+      {
+        "slug": "vampire-crawlers-xbox",
+        "file": "vampire-crawlers-xbox"
+      }
+    ],
+    "release": [
+      {
+        "slug": "vampire-crawlers-game-release-date",
+        "file": "\"vampire-crawlers\"-game-release-date"
+      },
+      {
+        "slug": "amount-stat-vampire-crawlers",
+        "file": "amount-stat-vampire-crawlers"
+      },
+      {
+        "slug": "area-stat-vampire-crawlers",
+        "file": "area-stat-vampire-crawlers"
+      },
+      {
+        "slug": "combo-vampire-crawlers",
+        "file": "combo-vampire-crawlers"
+      },
+      {
+        "slug": "combos-vampire-crawlers",
+        "file": "combos-vampire-crawlers"
+      },
+      {
+        "slug": "evolutions-vampire-crawlers",
+        "file": "evolutions-vampire-crawlers"
+      },
+      {
+        "slug": "incomplete-combination-vampire-crawlers",
+        "file": "incomplete-combination-vampire-crawlers"
+      },
+      {
+        "slug": "mana-syphon",
+        "file": "mana-syphon"
+      },
+      {
+        "slug": "santa-water",
+        "file": "santa-water"
+      },
+      {
+        "slug": "vampire-crawler-combination",
+        "file": "vampire-crawler-combination"
+      },
+      {
+        "slug": "vampire-crawler-combinations",
+        "file": "vampire-crawler-combinations"
+      },
+      {
+        "slug": "vampire-crawler-combo",
+        "file": "vampire-crawler-combo"
+      },
+      {
+        "slug": "vampire-crawler-evolution",
+        "file": "vampire-crawler-evolution"
+      },
+      {
+        "slug": "vampire-crawler-evolutions",
+        "file": "vampire-crawler-evolutions"
+      },
+      {
+        "slug": "vampire-crawler-tier-list",
+        "file": "vampire-crawler-tier-list"
+      },
+      {
+        "slug": "vampire-crawler-wiki",
+        "file": "vampire-crawler-wiki"
+      },
+      {
+        "slug": "vampire-crawlers-all-characters",
+        "file": "vampire-crawlers-all-characters"
+      },
+      {
+        "slug": "vampire-crawlers-announcement",
+        "file": "vampire-crawlers-announcement"
+      },
+      {
+        "slug": "vampire-crawlers-arcana",
+        "file": "vampire-crawlers-arcana"
+      },
+      {
+        "slug": "vampire-crawlers-area-stat",
+        "file": "vampire-crawlers-area-stat"
+      },
+      {
+        "slug": "vampire-crawlers-area",
+        "file": "vampire-crawlers-area"
+      },
+      {
+        "slug": "vampire-crawlers-best-character",
+        "file": "vampire-crawlers-best-character"
+      },
+      {
+        "slug": "vampire-crawlers-best-characters",
+        "file": "vampire-crawlers-best-characters"
+      },
+      {
+        "slug": "vampire-crawlers-bracer",
+        "file": "vampire-crawlers-bracer"
+      },
+      {
+        "slug": "vampire-crawlers-card-break",
+        "file": "vampire-crawlers-card-break"
+      },
+      {
+        "slug": "vampire-crawlers-card-combinations",
+        "file": "vampire-crawlers-card-combinations"
+      },
+      {
+        "slug": "vampire-crawlers-card-combos",
+        "file": "vampire-crawlers-card-combos"
+      },
+      {
+        "slug": "vampire-crawlers-color-trigger",
+        "file": "vampire-crawlers-color-trigger"
+      },
+      {
+        "slug": "vampire-crawlers-combination",
+        "file": "vampire-crawlers-combination"
+      },
+      {
+        "slug": "vampire-crawlers-combinations",
+        "file": "vampire-crawlers-combinations"
+      },
+      {
+        "slug": "vampire-crawlers-combo-stack",
+        "file": "vampire-crawlers-combo-stack"
+      },
+      {
+        "slug": "vampire-crawlers-combo-system",
+        "file": "vampire-crawlers-combo-system"
+      },
+      {
+        "slug": "vampire-crawlers-combo",
+        "file": "vampire-crawlers-combo"
+      },
+      {
+        "slug": "vampire-crawlers-controller",
+        "file": "vampire-crawlers-controller"
+      },
+      {
+        "slug": "vampire-crawlers-cracked-cards",
+        "file": "vampire-crawlers-cracked-cards"
+      },
+      {
+        "slug": "vampire-crawlers-cracked",
+        "file": "vampire-crawlers-cracked"
+      },
+      {
+        "slug": "vampire-crawlers-easy-combo",
+        "file": "vampire-crawlers-easy-combo"
+      },
+      {
+        "slug": "vampire-crawlers-evo",
+        "file": "vampire-crawlers-evo"
+      },
+      {
+        "slug": "vampire-crawlers-evolution-chart",
+        "file": "vampire-crawlers-evolution-chart"
+      },
+      {
+        "slug": "vampire-crawlers-evolution-list",
+        "file": "vampire-crawlers-evolution-list"
+      },
+      {
+        "slug": "vampire-crawlers-evolution",
+        "file": "vampire-crawlers-evolution"
+      },
+      {
+        "slug": "vampire-crawlers-evolve",
+        "file": "vampire-crawlers-evolve"
+      },
+      {
+        "slug": "vampire-crawlers-full-release-date",
+        "file": "vampire-crawlers-full-release-date"
+      },
+      {
+        "slug": "vampire-crawlers-fusion",
+        "file": "vampire-crawlers-fusion"
+      },
+      {
+        "slug": "vampire-crawlers-fusions",
+        "file": "vampire-crawlers-fusions"
+      },
+      {
+        "slug": "vampire-crawlers-game-pass",
+        "file": "vampire-crawlers-game-pass"
+      },
+      {
+        "slug": "vampire-crawlers-gamepass",
+        "file": "vampire-crawlers-gamepass"
+      },
+      {
+        "slug": "vampire-crawlers-gold-farm",
+        "file": "vampire-crawlers-gold-farm"
+      },
+      {
+        "slug": "vampire-crawlers-hurry",
+        "file": "vampire-crawlers-hurry"
+      },
+      {
+        "slug": "vampire-crawlers-incomplete-combination",
+        "file": "vampire-crawlers-incomplete-combination"
+      },
+      {
+        "slug": "vampire-crawlers-incomplete-combustion",
+        "file": "vampire-crawlers-incomplete-combustion"
+      },
+      {
+        "slug": "vampire-crawlers-infinite",
+        "file": "vampire-crawlers-infinite"
+      },
+      {
+        "slug": "vampire-crawlers-key",
+        "file": "vampire-crawlers-key"
+      },
+      {
+        "slug": "vampire-crawlers-launch",
+        "file": "vampire-crawlers-launch"
+      },
+      {
+        "slug": "vampire-crawlers-levels",
+        "file": "vampire-crawlers-levels"
+      },
+      {
+        "slug": "vampire-crawlers-logo",
+        "file": "vampire-crawlers-logo"
+      },
+      {
+        "slug": "vampire-crawlers-maps",
+        "file": "vampire-crawlers-maps"
+      },
+      {
+        "slug": "vampire-crawlers-multiplier",
+        "file": "vampire-crawlers-multiplier"
+      },
+      {
+        "slug": "vampire-crawlers-official-website",
+        "file": "vampire-crawlers-official-website"
+      },
+      {
+        "slug": "vampire-crawlers-platform",
+        "file": "vampire-crawlers-platform"
+      },
+      {
+        "slug": "vampire-crawlers-press-release",
+        "file": "vampire-crawlers-press-release"
+      },
+      {
+        "slug": "vampire-crawlers-price",
+        "file": "vampire-crawlers-price"
+      },
+      {
+        "slug": "vampire-crawlers-red-trigger",
+        "file": "vampire-crawlers-red-trigger"
+      },
+      {
+        "slug": "vampire-crawlers-release-date",
+        "file": "vampire-crawlers-release-date"
+      },
+      {
+        "slug": "vampire-crawlers-release-time",
+        "file": "vampire-crawlers-release-time"
+      },
+      {
+        "slug": "vampire-crawlers-release",
+        "file": "vampire-crawlers-release"
+      },
+      {
+        "slug": "vampire-crawlers-roadmap",
+        "file": "vampire-crawlers-roadmap"
+      },
+      {
+        "slug": "vampire-crawlers-secrets",
+        "file": "vampire-crawlers-secrets"
+      },
+      {
+        "slug": "vampire-crawlers-splash-damage",
+        "file": "vampire-crawlers-splash-damage"
+      },
+      {
+        "slug": "vampire-crawlers-stats-explained",
+        "file": "vampire-crawlers-stats-explained"
+      },
+      {
+        "slug": "vampire-crawlers-synergies",
+        "file": "vampire-crawlers-synergies"
+      },
+      {
+        "slug": "vampire-crawlers-tips-and-tricks",
+        "file": "vampire-crawlers-tips-and-tricks"
+      },
+      {
+        "slug": "vampire-crawlers-unions",
+        "file": "vampire-crawlers-unions"
+      },
+      {
+        "slug": "vampire-crawlers-update",
+        "file": "vampire-crawlers-update"
+      },
+      {
+        "slug": "vampire-crawlers",
+        "file": "vampire-crawlers-купить"
+      },
+      {
+        "slug": "what-does-area-do-in-vampire-crawlers",
+        "file": "what-does-area-do-in-vampire-crawlers"
+      }
+    ],
+    "stats": [
+      {
+        "slug": "vampire-crawlers-above-100-hp",
+        "file": "vampire-crawlers-above-100-hp"
+      },
+      {
+        "slug": "vampire-crawlers-amount",
+        "file": "vampire-crawlers-amount"
+      },
+      {
+        "slug": "vampire-crawlers-area-splash",
+        "file": "vampire-crawlers-area-splash"
+      },
+      {
+        "slug": "vampire-crawlers-damage-explained",
+        "file": "vampire-crawlers-damage-explained"
+      },
+      {
+        "slug": "vampire-crawlers-greed",
+        "file": "vampire-crawlers-greed"
+      },
+      {
+        "slug": "vampire-crawlers-hand",
+        "file": "vampire-crawlers-hand"
+      },
+      {
+        "slug": "vampire-crawlers-luck",
+        "file": "vampire-crawlers-luck"
+      },
+      {
+        "slug": "vampire-crawlers-might-stat",
+        "file": "vampire-crawlers-might-stat"
+      },
+      {
+        "slug": "vampire-crawlers-no-available-gem-slots",
+        "file": "vampire-crawlers-no-available-gem-slots"
+      },
+      {
+        "slug": "vampire-crawlers-spicy-damage",
+        "file": "vampire-crawlers-spicy-damage"
+      },
+      {
+        "slug": "vampire-crawlers-stats",
+        "file": "vampire-crawlers-stats"
+      },
+      {
+        "slug": "vampire-crawlers-what-does-area-do",
+        "file": "vampire-crawlers-what-does-area-do"
+      }
+    ]
+  },
+  "pt": {
+    "builds": [
+      {
+        "slug": "vampire-crawlers-best-build",
+        "file": "vampire-crawlers-best-build"
+      },
+      {
+        "slug": "vampire-crawlers-best-upgrades",
+        "file": "vampire-crawlers-best-upgrades"
+      },
+      {
+        "slug": "vampire-crawlers-best-weapon",
+        "file": "vampire-crawlers-best-weapon"
+      },
+      {
+        "slug": "vampire-crawlers-characters",
+        "file": "vampire-crawlers-characters"
+      },
+      {
+        "slug": "vampire-crawlers-forever-heart",
+        "file": "vampire-crawlers-forever-heart"
+      },
+      {
+        "slug": "vampire-crawlers-power-ups",
+        "file": "vampire-crawlers-power-ups"
+      },
+      {
+        "slug": "vampire-crawlers-spinach",
+        "file": "vampire-crawlers-spinach"
+      },
+      {
+        "slug": "vampire-crawlers-tier-list",
+        "file": "vampire-crawlers-tier-list"
+      },
+      {
+        "slug": "vampire-crawlers-unlocks",
+        "file": "vampire-crawlers-unlocks"
+      },
+      {
+        "slug": "vampire-crawlers-upgrades",
+        "file": "vampire-crawlers-upgrades"
+      },
+      {
+        "slug": "vampire-crawlers-weapons",
+        "file": "vampire-crawlers-weapons"
+      }
+    ],
+    "cards": [
+      {
+        "slug": "vampire-crawlers-all-evolutions",
+        "file": "vampire-crawlers-all-evolutions"
+      },
+      {
+        "slug": "vampire-crawlers-cant-evolve",
+        "file": "vampire-crawlers-cant-evolve"
+      },
+      {
+        "slug": "vampire-crawlers-card-list",
+        "file": "vampire-crawlers-card-list"
+      },
+      {
+        "slug": "vampire-crawlers-cards",
+        "file": "vampire-crawlers-cards"
+      },
+      {
+        "slug": "vampire-crawlers-combine-cards",
+        "file": "vampire-crawlers-combine-cards"
+      },
+      {
+        "slug": "vampire-crawlers-combos",
+        "file": "vampire-crawlers-combos"
+      },
+      {
+        "slug": "vampire-crawlers-how-combo-works",
+        "file": "vampire-crawlers-how-combo-works"
+      },
+      {
+        "slug": "vampire-crawlers-how-to-combo",
+        "file": "vampire-crawlers-how-to-combo"
+      },
+      {
+        "slug": "vampire-crawlers-how-to-evolve",
+        "file": "vampire-crawlers-how-to-evolve"
+      },
+      {
+        "slug": "vampire-crawlers-item-combos",
+        "file": "vampire-crawlers-item-combos"
+      },
+      {
+        "slug": "vampire-crawlers-weapon-evolution",
+        "file": "vampire-crawlers-weapon-evolution"
+      }
+    ],
+    "demo": [
+      {
+        "slug": "how-long-is-vampire-crawlers-demo",
+        "file": "how-long-is-vampire-crawlers-demo"
+      },
+      {
+        "slug": "vampire-crawlers-demo-all-crawlers",
+        "file": "vampire-crawlers-demo-all-crawlers"
+      },
+      {
+        "slug": "vampire-crawlers-demo-carry-over-to-full-game",
+        "file": "vampire-crawlers-demo-carry-over-to-full-game"
+      },
+      {
+        "slug": "vampire-crawlers-demo-carry-over",
+        "file": "vampire-crawlers-demo-carry-over"
+      },
+      {
+        "slug": "vampire-crawlers-demo-guide",
+        "file": "vampire-crawlers-demo-guide"
+      },
+      {
+        "slug": "vampire-crawlers-demo-length",
+        "file": "vampire-crawlers-demo-length"
+      },
+      {
+        "slug": "vampire-crawlers-demo-progress",
+        "file": "vampire-crawlers-demo-progress"
+      },
+      {
+        "slug": "vampire-crawlers-demo-review",
+        "file": "vampire-crawlers-demo-review"
+      },
+      {
+        "slug": "vampire-crawlers-demo-save-data",
+        "file": "vampire-crawlers-demo-save-data"
+      },
+      {
+        "slug": "vampire-crawlers-demo-update",
+        "file": "vampire-crawlers-demo-update"
+      },
+      {
+        "slug": "vampire-crawlers-demo",
+        "file": "vampire-crawlers-demo"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "vampire-crawlers-battle-timeouts",
+        "file": "vampire-crawlers-battle-timeouts"
+      },
+      {
+        "slug": "vampire-crawlers-best-builds",
+        "file": "vampire-crawlers-best-builds"
+      },
+      {
+        "slug": "vampire-crawlers-build",
+        "file": "vampire-crawlers-build"
+      },
+      {
+        "slug": "vampire-crawlers-builds",
+        "file": "vampire-crawlers-builds"
+      },
+      {
+        "slug": "vampire-crawlers-guide",
+        "file": "vampire-crawlers-guide"
+      },
+      {
+        "slug": "vampire-crawlers-rules",
+        "file": "vampire-crawlers-rules"
+      },
+      {
+        "slug": "vampire-crawlers-tips",
+        "file": "vampire-crawlers-tips"
+      },
+      {
+        "slug": "vampire-crawlers-trophy-guide",
+        "file": "vampire-crawlers-trophy-guide"
+      },
+      {
+        "slug": "vampire-crawlers-what-to-do-after",
+        "file": "vampire-crawlers-what-to-do-after"
+      }
+    ],
+    "media": [
+      {
+        "slug": "vampire-crawlers-key-art",
+        "file": "vampire-crawlers-key-art"
+      },
+      {
+        "slug": "vampire-crawlers-logo-png",
+        "file": "vampire-crawlers-logo-png"
+      },
+      {
+        "slug": "vampire-crawlers-metacritic",
+        "file": "vampire-crawlers-metacritic"
+      },
+      {
+        "slug": "vampire-crawlers-reddit",
+        "file": "vampire-crawlers-reddit"
+      },
+      {
+        "slug": "vampire-crawlers-review",
+        "file": "vampire-crawlers-review"
+      },
+      {
+        "slug": "vampire-crawlers-voice-actors",
+        "file": "vampire-crawlers-voice-actors"
+      }
+    ],
+    "platform": [
+      {
+        "slug": "vampire-crawlers-ios",
+        "file": "vampire-crawlers-ios"
+      },
+      {
+        "slug": "vampire-crawlers-mobile",
+        "file": "vampire-crawlers-mobile"
+      },
+      {
+        "slug": "vampire-crawlers-platforms",
+        "file": "vampire-crawlers-platforms"
+      },
+      {
+        "slug": "vampire-crawlers-ps4",
+        "file": "vampire-crawlers-ps4"
+      },
+      {
+        "slug": "vampire-crawlers-ps5",
+        "file": "vampire-crawlers-ps5"
+      },
+      {
+        "slug": "vampire-crawlers-steam",
+        "file": "vampire-crawlers-steam"
+      },
+      {
+        "slug": "vampire-crawlers-switch-2",
+        "file": "vampire-crawlers-switch-2"
+      },
+      {
+        "slug": "vampire-crawlers-xbox-game-pass",
+        "file": "vampire-crawlers-xbox-game-pass"
+      },
+      {
+        "slug": "vampire-crawlers-xbox-store",
+        "file": "vampire-crawlers-xbox-store"
+      },
+      {
+        "slug": "vampire-crawlers-xbox",
+        "file": "vampire-crawlers-xbox"
+      }
+    ],
+    "release": [
+      {
+        "slug": "vampire-crawlers-game-release-date",
+        "file": "\"vampire-crawlers\"-game-release-date"
+      },
+      {
+        "slug": "amount-stat-vampire-crawlers",
+        "file": "amount-stat-vampire-crawlers"
+      },
+      {
+        "slug": "area-stat-vampire-crawlers",
+        "file": "area-stat-vampire-crawlers"
+      },
+      {
+        "slug": "combo-vampire-crawlers",
+        "file": "combo-vampire-crawlers"
+      },
+      {
+        "slug": "combos-vampire-crawlers",
+        "file": "combos-vampire-crawlers"
+      },
+      {
+        "slug": "evolutions-vampire-crawlers",
+        "file": "evolutions-vampire-crawlers"
+      },
+      {
+        "slug": "incomplete-combination-vampire-crawlers",
+        "file": "incomplete-combination-vampire-crawlers"
+      },
+      {
+        "slug": "mana-syphon",
+        "file": "mana-syphon"
+      },
+      {
+        "slug": "santa-water",
+        "file": "santa-water"
+      },
+      {
+        "slug": "vampire-crawler-combination",
+        "file": "vampire-crawler-combination"
+      },
+      {
+        "slug": "vampire-crawler-combinations",
+        "file": "vampire-crawler-combinations"
+      },
+      {
+        "slug": "vampire-crawler-combo",
+        "file": "vampire-crawler-combo"
+      },
+      {
+        "slug": "vampire-crawler-evolution",
+        "file": "vampire-crawler-evolution"
+      },
+      {
+        "slug": "vampire-crawler-evolutions",
+        "file": "vampire-crawler-evolutions"
+      },
+      {
+        "slug": "vampire-crawler-tier-list",
+        "file": "vampire-crawler-tier-list"
+      },
+      {
+        "slug": "vampire-crawler-wiki",
+        "file": "vampire-crawler-wiki"
+      },
+      {
+        "slug": "vampire-crawlers-all-characters",
+        "file": "vampire-crawlers-all-characters"
+      },
+      {
+        "slug": "vampire-crawlers-announcement",
+        "file": "vampire-crawlers-announcement"
+      },
+      {
+        "slug": "vampire-crawlers-arcana",
+        "file": "vampire-crawlers-arcana"
+      },
+      {
+        "slug": "vampire-crawlers-area-stat",
+        "file": "vampire-crawlers-area-stat"
+      },
+      {
+        "slug": "vampire-crawlers-area",
+        "file": "vampire-crawlers-area"
+      },
+      {
+        "slug": "vampire-crawlers-best-character",
+        "file": "vampire-crawlers-best-character"
+      },
+      {
+        "slug": "vampire-crawlers-best-characters",
+        "file": "vampire-crawlers-best-characters"
+      },
+      {
+        "slug": "vampire-crawlers-bracer",
+        "file": "vampire-crawlers-bracer"
+      },
+      {
+        "slug": "vampire-crawlers-card-break",
+        "file": "vampire-crawlers-card-break"
+      },
+      {
+        "slug": "vampire-crawlers-card-combinations",
+        "file": "vampire-crawlers-card-combinations"
+      },
+      {
+        "slug": "vampire-crawlers-card-combos",
+        "file": "vampire-crawlers-card-combos"
+      },
+      {
+        "slug": "vampire-crawlers-color-trigger",
+        "file": "vampire-crawlers-color-trigger"
+      },
+      {
+        "slug": "vampire-crawlers-combination",
+        "file": "vampire-crawlers-combination"
+      },
+      {
+        "slug": "vampire-crawlers-combinations",
+        "file": "vampire-crawlers-combinations"
+      },
+      {
+        "slug": "vampire-crawlers-combo-stack",
+        "file": "vampire-crawlers-combo-stack"
+      },
+      {
+        "slug": "vampire-crawlers-combo-system",
+        "file": "vampire-crawlers-combo-system"
+      },
+      {
+        "slug": "vampire-crawlers-combo",
+        "file": "vampire-crawlers-combo"
+      },
+      {
+        "slug": "vampire-crawlers-controller",
+        "file": "vampire-crawlers-controller"
+      },
+      {
+        "slug": "vampire-crawlers-cracked-cards",
+        "file": "vampire-crawlers-cracked-cards"
+      },
+      {
+        "slug": "vampire-crawlers-cracked",
+        "file": "vampire-crawlers-cracked"
+      },
+      {
+        "slug": "vampire-crawlers-easy-combo",
+        "file": "vampire-crawlers-easy-combo"
+      },
+      {
+        "slug": "vampire-crawlers-evo",
+        "file": "vampire-crawlers-evo"
+      },
+      {
+        "slug": "vampire-crawlers-evolution-chart",
+        "file": "vampire-crawlers-evolution-chart"
+      },
+      {
+        "slug": "vampire-crawlers-evolution-list",
+        "file": "vampire-crawlers-evolution-list"
+      },
+      {
+        "slug": "vampire-crawlers-evolution",
+        "file": "vampire-crawlers-evolution"
+      },
+      {
+        "slug": "vampire-crawlers-evolve",
+        "file": "vampire-crawlers-evolve"
+      },
+      {
+        "slug": "vampire-crawlers-full-release-date",
+        "file": "vampire-crawlers-full-release-date"
+      },
+      {
+        "slug": "vampire-crawlers-fusion",
+        "file": "vampire-crawlers-fusion"
+      },
+      {
+        "slug": "vampire-crawlers-fusions",
+        "file": "vampire-crawlers-fusions"
+      },
+      {
+        "slug": "vampire-crawlers-game-pass",
+        "file": "vampire-crawlers-game-pass"
+      },
+      {
+        "slug": "vampire-crawlers-gamepass",
+        "file": "vampire-crawlers-gamepass"
+      },
+      {
+        "slug": "vampire-crawlers-gold-farm",
+        "file": "vampire-crawlers-gold-farm"
+      },
+      {
+        "slug": "vampire-crawlers-hurry",
+        "file": "vampire-crawlers-hurry"
+      },
+      {
+        "slug": "vampire-crawlers-incomplete-combination",
+        "file": "vampire-crawlers-incomplete-combination"
+      },
+      {
+        "slug": "vampire-crawlers-incomplete-combustion",
+        "file": "vampire-crawlers-incomplete-combustion"
+      },
+      {
+        "slug": "vampire-crawlers-infinite",
+        "file": "vampire-crawlers-infinite"
+      },
+      {
+        "slug": "vampire-crawlers-key",
+        "file": "vampire-crawlers-key"
+      },
+      {
+        "slug": "vampire-crawlers-launch",
+        "file": "vampire-crawlers-launch"
+      },
+      {
+        "slug": "vampire-crawlers-levels",
+        "file": "vampire-crawlers-levels"
+      },
+      {
+        "slug": "vampire-crawlers-logo",
+        "file": "vampire-crawlers-logo"
+      },
+      {
+        "slug": "vampire-crawlers-maps",
+        "file": "vampire-crawlers-maps"
+      },
+      {
+        "slug": "vampire-crawlers-multiplier",
+        "file": "vampire-crawlers-multiplier"
+      },
+      {
+        "slug": "vampire-crawlers-official-website",
+        "file": "vampire-crawlers-official-website"
+      },
+      {
+        "slug": "vampire-crawlers-platform",
+        "file": "vampire-crawlers-platform"
+      },
+      {
+        "slug": "vampire-crawlers-press-release",
+        "file": "vampire-crawlers-press-release"
+      },
+      {
+        "slug": "vampire-crawlers-price",
+        "file": "vampire-crawlers-price"
+      },
+      {
+        "slug": "vampire-crawlers-red-trigger",
+        "file": "vampire-crawlers-red-trigger"
+      },
+      {
+        "slug": "vampire-crawlers-release-date",
+        "file": "vampire-crawlers-release-date"
+      },
+      {
+        "slug": "vampire-crawlers-release-time",
+        "file": "vampire-crawlers-release-time"
+      },
+      {
+        "slug": "vampire-crawlers-release",
+        "file": "vampire-crawlers-release"
+      },
+      {
+        "slug": "vampire-crawlers-roadmap",
+        "file": "vampire-crawlers-roadmap"
+      },
+      {
+        "slug": "vampire-crawlers-secrets",
+        "file": "vampire-crawlers-secrets"
+      },
+      {
+        "slug": "vampire-crawlers-splash-damage",
+        "file": "vampire-crawlers-splash-damage"
+      },
+      {
+        "slug": "vampire-crawlers-stats-explained",
+        "file": "vampire-crawlers-stats-explained"
+      },
+      {
+        "slug": "vampire-crawlers-synergies",
+        "file": "vampire-crawlers-synergies"
+      },
+      {
+        "slug": "vampire-crawlers-tips-and-tricks",
+        "file": "vampire-crawlers-tips-and-tricks"
+      },
+      {
+        "slug": "vampire-crawlers-unions",
+        "file": "vampire-crawlers-unions"
+      },
+      {
+        "slug": "vampire-crawlers-update",
+        "file": "vampire-crawlers-update"
+      },
+      {
+        "slug": "vampire-crawlers",
+        "file": "vampire-crawlers-купить"
+      },
+      {
+        "slug": "what-does-area-do-in-vampire-crawlers",
+        "file": "what-does-area-do-in-vampire-crawlers"
+      }
+    ],
+    "stats": [
+      {
+        "slug": "vampire-crawlers-above-100-hp",
+        "file": "vampire-crawlers-above-100-hp"
+      },
+      {
+        "slug": "vampire-crawlers-amount",
+        "file": "vampire-crawlers-amount"
+      },
+      {
+        "slug": "vampire-crawlers-area-splash",
+        "file": "vampire-crawlers-area-splash"
+      },
+      {
+        "slug": "vampire-crawlers-damage-explained",
+        "file": "vampire-crawlers-damage-explained"
+      },
+      {
+        "slug": "vampire-crawlers-greed",
+        "file": "vampire-crawlers-greed"
+      },
+      {
+        "slug": "vampire-crawlers-hand",
+        "file": "vampire-crawlers-hand"
+      },
+      {
+        "slug": "vampire-crawlers-luck",
+        "file": "vampire-crawlers-luck"
+      },
+      {
+        "slug": "vampire-crawlers-might-stat",
+        "file": "vampire-crawlers-might-stat"
+      },
+      {
+        "slug": "vampire-crawlers-no-available-gem-slots",
+        "file": "vampire-crawlers-no-available-gem-slots"
+      },
+      {
+        "slug": "vampire-crawlers-spicy-damage",
+        "file": "vampire-crawlers-spicy-damage"
+      },
+      {
+        "slug": "vampire-crawlers-stats",
+        "file": "vampire-crawlers-stats"
+      },
+      {
+        "slug": "vampire-crawlers-what-does-area-do",
+        "file": "vampire-crawlers-what-does-area-do"
+      }
+    ]
+  },
+  "ru": {
+    "builds": [
+      {
+        "slug": "vampire-crawlers-best-build",
+        "file": "vampire-crawlers-best-build"
+      },
+      {
+        "slug": "vampire-crawlers-best-upgrades",
+        "file": "vampire-crawlers-best-upgrades"
+      },
+      {
+        "slug": "vampire-crawlers-best-weapon",
+        "file": "vampire-crawlers-best-weapon"
+      },
+      {
+        "slug": "vampire-crawlers-characters",
+        "file": "vampire-crawlers-characters"
+      },
+      {
+        "slug": "vampire-crawlers-forever-heart",
+        "file": "vampire-crawlers-forever-heart"
+      },
+      {
+        "slug": "vampire-crawlers-power-ups",
+        "file": "vampire-crawlers-power-ups"
+      },
+      {
+        "slug": "vampire-crawlers-spinach",
+        "file": "vampire-crawlers-spinach"
+      },
+      {
+        "slug": "vampire-crawlers-tier-list",
+        "file": "vampire-crawlers-tier-list"
+      },
+      {
+        "slug": "vampire-crawlers-unlocks",
+        "file": "vampire-crawlers-unlocks"
+      },
+      {
+        "slug": "vampire-crawlers-upgrades",
+        "file": "vampire-crawlers-upgrades"
+      },
+      {
+        "slug": "vampire-crawlers-weapons",
+        "file": "vampire-crawlers-weapons"
+      }
+    ],
+    "cards": [
+      {
+        "slug": "vampire-crawlers-all-evolutions",
+        "file": "vampire-crawlers-all-evolutions"
+      },
+      {
+        "slug": "vampire-crawlers-cant-evolve",
+        "file": "vampire-crawlers-cant-evolve"
+      },
+      {
+        "slug": "vampire-crawlers-card-list",
+        "file": "vampire-crawlers-card-list"
+      },
+      {
+        "slug": "vampire-crawlers-cards",
+        "file": "vampire-crawlers-cards"
+      },
+      {
+        "slug": "vampire-crawlers-combine-cards",
+        "file": "vampire-crawlers-combine-cards"
+      },
+      {
+        "slug": "vampire-crawlers-combos",
+        "file": "vampire-crawlers-combos"
+      },
+      {
+        "slug": "vampire-crawlers-how-combo-works",
+        "file": "vampire-crawlers-how-combo-works"
+      },
+      {
+        "slug": "vampire-crawlers-how-to-combo",
+        "file": "vampire-crawlers-how-to-combo"
+      },
+      {
+        "slug": "vampire-crawlers-how-to-evolve",
+        "file": "vampire-crawlers-how-to-evolve"
+      },
+      {
+        "slug": "vampire-crawlers-item-combos",
+        "file": "vampire-crawlers-item-combos"
+      },
+      {
+        "slug": "vampire-crawlers-weapon-evolution",
+        "file": "vampire-crawlers-weapon-evolution"
+      }
+    ],
+    "demo": [
+      {
+        "slug": "how-long-is-vampire-crawlers-demo",
+        "file": "how-long-is-vampire-crawlers-demo"
+      },
+      {
+        "slug": "vampire-crawlers-demo-all-crawlers",
+        "file": "vampire-crawlers-demo-all-crawlers"
+      },
+      {
+        "slug": "vampire-crawlers-demo-carry-over-to-full-game",
+        "file": "vampire-crawlers-demo-carry-over-to-full-game"
+      },
+      {
+        "slug": "vampire-crawlers-demo-carry-over",
+        "file": "vampire-crawlers-demo-carry-over"
+      },
+      {
+        "slug": "vampire-crawlers-demo-guide",
+        "file": "vampire-crawlers-demo-guide"
+      },
+      {
+        "slug": "vampire-crawlers-demo-length",
+        "file": "vampire-crawlers-demo-length"
+      },
+      {
+        "slug": "vampire-crawlers-demo-progress",
+        "file": "vampire-crawlers-demo-progress"
+      },
+      {
+        "slug": "vampire-crawlers-demo-review",
+        "file": "vampire-crawlers-demo-review"
+      },
+      {
+        "slug": "vampire-crawlers-demo-save-data",
+        "file": "vampire-crawlers-demo-save-data"
+      },
+      {
+        "slug": "vampire-crawlers-demo-update",
+        "file": "vampire-crawlers-demo-update"
+      },
+      {
+        "slug": "vampire-crawlers-demo",
+        "file": "vampire-crawlers-demo"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "vampire-crawlers-battle-timeouts",
+        "file": "vampire-crawlers-battle-timeouts"
+      },
+      {
+        "slug": "vampire-crawlers-best-builds",
+        "file": "vampire-crawlers-best-builds"
+      },
+      {
+        "slug": "vampire-crawlers-build",
+        "file": "vampire-crawlers-build"
+      },
+      {
+        "slug": "vampire-crawlers-builds",
+        "file": "vampire-crawlers-builds"
+      },
+      {
+        "slug": "vampire-crawlers-guide",
+        "file": "vampire-crawlers-guide"
+      },
+      {
+        "slug": "vampire-crawlers-rules",
+        "file": "vampire-crawlers-rules"
+      },
+      {
+        "slug": "vampire-crawlers-tips",
+        "file": "vampire-crawlers-tips"
+      },
+      {
+        "slug": "vampire-crawlers-trophy-guide",
+        "file": "vampire-crawlers-trophy-guide"
+      },
+      {
+        "slug": "vampire-crawlers-what-to-do-after",
+        "file": "vampire-crawlers-what-to-do-after"
+      }
+    ],
+    "media": [
+      {
+        "slug": "vampire-crawlers-key-art",
+        "file": "vampire-crawlers-key-art"
+      },
+      {
+        "slug": "vampire-crawlers-logo-png",
+        "file": "vampire-crawlers-logo-png"
+      },
+      {
+        "slug": "vampire-crawlers-metacritic",
+        "file": "vampire-crawlers-metacritic"
+      },
+      {
+        "slug": "vampire-crawlers-reddit",
+        "file": "vampire-crawlers-reddit"
+      },
+      {
+        "slug": "vampire-crawlers-review",
+        "file": "vampire-crawlers-review"
+      },
+      {
+        "slug": "vampire-crawlers-voice-actors",
+        "file": "vampire-crawlers-voice-actors"
+      }
+    ],
+    "platform": [
+      {
+        "slug": "vampire-crawlers-ios",
+        "file": "vampire-crawlers-ios"
+      },
+      {
+        "slug": "vampire-crawlers-mobile",
+        "file": "vampire-crawlers-mobile"
+      },
+      {
+        "slug": "vampire-crawlers-platforms",
+        "file": "vampire-crawlers-platforms"
+      },
+      {
+        "slug": "vampire-crawlers-ps4",
+        "file": "vampire-crawlers-ps4"
+      },
+      {
+        "slug": "vampire-crawlers-ps5",
+        "file": "vampire-crawlers-ps5"
+      },
+      {
+        "slug": "vampire-crawlers-steam",
+        "file": "vampire-crawlers-steam"
+      },
+      {
+        "slug": "vampire-crawlers-switch-2",
+        "file": "vampire-crawlers-switch-2"
+      },
+      {
+        "slug": "vampire-crawlers-xbox-game-pass",
+        "file": "vampire-crawlers-xbox-game-pass"
+      },
+      {
+        "slug": "vampire-crawlers-xbox-store",
+        "file": "vampire-crawlers-xbox-store"
+      },
+      {
+        "slug": "vampire-crawlers-xbox",
+        "file": "vampire-crawlers-xbox"
+      }
+    ],
+    "release": [
+      {
+        "slug": "vampire-crawlers-game-release-date",
+        "file": "\"vampire-crawlers\"-game-release-date"
+      },
+      {
+        "slug": "amount-stat-vampire-crawlers",
+        "file": "amount-stat-vampire-crawlers"
+      },
+      {
+        "slug": "area-stat-vampire-crawlers",
+        "file": "area-stat-vampire-crawlers"
+      },
+      {
+        "slug": "combo-vampire-crawlers",
+        "file": "combo-vampire-crawlers"
+      },
+      {
+        "slug": "combos-vampire-crawlers",
+        "file": "combos-vampire-crawlers"
+      },
+      {
+        "slug": "evolutions-vampire-crawlers",
+        "file": "evolutions-vampire-crawlers"
+      },
+      {
+        "slug": "incomplete-combination-vampire-crawlers",
+        "file": "incomplete-combination-vampire-crawlers"
+      },
+      {
+        "slug": "mana-syphon",
+        "file": "mana-syphon"
+      },
+      {
+        "slug": "santa-water",
+        "file": "santa-water"
+      },
+      {
+        "slug": "vampire-crawler-combination",
+        "file": "vampire-crawler-combination"
+      },
+      {
+        "slug": "vampire-crawler-combinations",
+        "file": "vampire-crawler-combinations"
+      },
+      {
+        "slug": "vampire-crawler-combo",
+        "file": "vampire-crawler-combo"
+      },
+      {
+        "slug": "vampire-crawler-evolution",
+        "file": "vampire-crawler-evolution"
+      },
+      {
+        "slug": "vampire-crawler-evolutions",
+        "file": "vampire-crawler-evolutions"
+      },
+      {
+        "slug": "vampire-crawler-tier-list",
+        "file": "vampire-crawler-tier-list"
+      },
+      {
+        "slug": "vampire-crawler-wiki",
+        "file": "vampire-crawler-wiki"
+      },
+      {
+        "slug": "vampire-crawlers-all-characters",
+        "file": "vampire-crawlers-all-characters"
+      },
+      {
+        "slug": "vampire-crawlers-announcement",
+        "file": "vampire-crawlers-announcement"
+      },
+      {
+        "slug": "vampire-crawlers-arcana",
+        "file": "vampire-crawlers-arcana"
+      },
+      {
+        "slug": "vampire-crawlers-area-stat",
+        "file": "vampire-crawlers-area-stat"
+      },
+      {
+        "slug": "vampire-crawlers-area",
+        "file": "vampire-crawlers-area"
+      },
+      {
+        "slug": "vampire-crawlers-best-character",
+        "file": "vampire-crawlers-best-character"
+      },
+      {
+        "slug": "vampire-crawlers-best-characters",
+        "file": "vampire-crawlers-best-characters"
+      },
+      {
+        "slug": "vampire-crawlers-bracer",
+        "file": "vampire-crawlers-bracer"
+      },
+      {
+        "slug": "vampire-crawlers-card-break",
+        "file": "vampire-crawlers-card-break"
+      },
+      {
+        "slug": "vampire-crawlers-card-combinations",
+        "file": "vampire-crawlers-card-combinations"
+      },
+      {
+        "slug": "vampire-crawlers-card-combos",
+        "file": "vampire-crawlers-card-combos"
+      },
+      {
+        "slug": "vampire-crawlers-color-trigger",
+        "file": "vampire-crawlers-color-trigger"
+      },
+      {
+        "slug": "vampire-crawlers-combination",
+        "file": "vampire-crawlers-combination"
+      },
+      {
+        "slug": "vampire-crawlers-combinations",
+        "file": "vampire-crawlers-combinations"
+      },
+      {
+        "slug": "vampire-crawlers-combo-stack",
+        "file": "vampire-crawlers-combo-stack"
+      },
+      {
+        "slug": "vampire-crawlers-combo-system",
+        "file": "vampire-crawlers-combo-system"
+      },
+      {
+        "slug": "vampire-crawlers-combo",
+        "file": "vampire-crawlers-combo"
+      },
+      {
+        "slug": "vampire-crawlers-controller",
+        "file": "vampire-crawlers-controller"
+      },
+      {
+        "slug": "vampire-crawlers-cracked-cards",
+        "file": "vampire-crawlers-cracked-cards"
+      },
+      {
+        "slug": "vampire-crawlers-cracked",
+        "file": "vampire-crawlers-cracked"
+      },
+      {
+        "slug": "vampire-crawlers-easy-combo",
+        "file": "vampire-crawlers-easy-combo"
+      },
+      {
+        "slug": "vampire-crawlers-evo",
+        "file": "vampire-crawlers-evo"
+      },
+      {
+        "slug": "vampire-crawlers-evolution-chart",
+        "file": "vampire-crawlers-evolution-chart"
+      },
+      {
+        "slug": "vampire-crawlers-evolution-list",
+        "file": "vampire-crawlers-evolution-list"
+      },
+      {
+        "slug": "vampire-crawlers-evolution",
+        "file": "vampire-crawlers-evolution"
+      },
+      {
+        "slug": "vampire-crawlers-evolve",
+        "file": "vampire-crawlers-evolve"
+      },
+      {
+        "slug": "vampire-crawlers-full-release-date",
+        "file": "vampire-crawlers-full-release-date"
+      },
+      {
+        "slug": "vampire-crawlers-fusion",
+        "file": "vampire-crawlers-fusion"
+      },
+      {
+        "slug": "vampire-crawlers-fusions",
+        "file": "vampire-crawlers-fusions"
+      },
+      {
+        "slug": "vampire-crawlers-game-pass",
+        "file": "vampire-crawlers-game-pass"
+      },
+      {
+        "slug": "vampire-crawlers-gamepass",
+        "file": "vampire-crawlers-gamepass"
+      },
+      {
+        "slug": "vampire-crawlers-gold-farm",
+        "file": "vampire-crawlers-gold-farm"
+      },
+      {
+        "slug": "vampire-crawlers-hurry",
+        "file": "vampire-crawlers-hurry"
+      },
+      {
+        "slug": "vampire-crawlers-incomplete-combination",
+        "file": "vampire-crawlers-incomplete-combination"
+      },
+      {
+        "slug": "vampire-crawlers-incomplete-combustion",
+        "file": "vampire-crawlers-incomplete-combustion"
+      },
+      {
+        "slug": "vampire-crawlers-infinite",
+        "file": "vampire-crawlers-infinite"
+      },
+      {
+        "slug": "vampire-crawlers-key",
+        "file": "vampire-crawlers-key"
+      },
+      {
+        "slug": "vampire-crawlers-launch",
+        "file": "vampire-crawlers-launch"
+      },
+      {
+        "slug": "vampire-crawlers-levels",
+        "file": "vampire-crawlers-levels"
+      },
+      {
+        "slug": "vampire-crawlers-logo",
+        "file": "vampire-crawlers-logo"
+      },
+      {
+        "slug": "vampire-crawlers-maps",
+        "file": "vampire-crawlers-maps"
+      },
+      {
+        "slug": "vampire-crawlers-multiplier",
+        "file": "vampire-crawlers-multiplier"
+      },
+      {
+        "slug": "vampire-crawlers-official-website",
+        "file": "vampire-crawlers-official-website"
+      },
+      {
+        "slug": "vampire-crawlers-platform",
+        "file": "vampire-crawlers-platform"
+      },
+      {
+        "slug": "vampire-crawlers-press-release",
+        "file": "vampire-crawlers-press-release"
+      },
+      {
+        "slug": "vampire-crawlers-price",
+        "file": "vampire-crawlers-price"
+      },
+      {
+        "slug": "vampire-crawlers-red-trigger",
+        "file": "vampire-crawlers-red-trigger"
+      },
+      {
+        "slug": "vampire-crawlers-release-date",
+        "file": "vampire-crawlers-release-date"
+      },
+      {
+        "slug": "vampire-crawlers-release-time",
+        "file": "vampire-crawlers-release-time"
+      },
+      {
+        "slug": "vampire-crawlers-release",
+        "file": "vampire-crawlers-release"
+      },
+      {
+        "slug": "vampire-crawlers-roadmap",
+        "file": "vampire-crawlers-roadmap"
+      },
+      {
+        "slug": "vampire-crawlers-secrets",
+        "file": "vampire-crawlers-secrets"
+      },
+      {
+        "slug": "vampire-crawlers-splash-damage",
+        "file": "vampire-crawlers-splash-damage"
+      },
+      {
+        "slug": "vampire-crawlers-stats-explained",
+        "file": "vampire-crawlers-stats-explained"
+      },
+      {
+        "slug": "vampire-crawlers-synergies",
+        "file": "vampire-crawlers-synergies"
+      },
+      {
+        "slug": "vampire-crawlers-tips-and-tricks",
+        "file": "vampire-crawlers-tips-and-tricks"
+      },
+      {
+        "slug": "vampire-crawlers-unions",
+        "file": "vampire-crawlers-unions"
+      },
+      {
+        "slug": "vampire-crawlers-update",
+        "file": "vampire-crawlers-update"
+      },
+      {
+        "slug": "vampire-crawlers",
+        "file": "vampire-crawlers-купить"
+      },
+      {
+        "slug": "what-does-area-do-in-vampire-crawlers",
+        "file": "what-does-area-do-in-vampire-crawlers"
+      }
+    ],
+    "stats": [
+      {
+        "slug": "vampire-crawlers-above-100-hp",
+        "file": "vampire-crawlers-above-100-hp"
+      },
+      {
+        "slug": "vampire-crawlers-amount",
+        "file": "vampire-crawlers-amount"
+      },
+      {
+        "slug": "vampire-crawlers-area-splash",
+        "file": "vampire-crawlers-area-splash"
+      },
+      {
+        "slug": "vampire-crawlers-damage-explained",
+        "file": "vampire-crawlers-damage-explained"
+      },
+      {
+        "slug": "vampire-crawlers-greed",
+        "file": "vampire-crawlers-greed"
+      },
+      {
+        "slug": "vampire-crawlers-hand",
+        "file": "vampire-crawlers-hand"
+      },
+      {
+        "slug": "vampire-crawlers-luck",
+        "file": "vampire-crawlers-luck"
+      },
+      {
+        "slug": "vampire-crawlers-might-stat",
+        "file": "vampire-crawlers-might-stat"
+      },
+      {
+        "slug": "vampire-crawlers-no-available-gem-slots",
+        "file": "vampire-crawlers-no-available-gem-slots"
+      },
+      {
+        "slug": "vampire-crawlers-spicy-damage",
+        "file": "vampire-crawlers-spicy-damage"
+      },
+      {
+        "slug": "vampire-crawlers-stats",
+        "file": "vampire-crawlers-stats"
+      },
+      {
+        "slug": "vampire-crawlers-what-does-area-do",
+        "file": "vampire-crawlers-what-does-area-do"
+      }
+    ]
+  }
+}
